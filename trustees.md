@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Conferences
+title : Trustees
+header : Trustees
 group: navigation
 ---
 {% include JB/setup %}

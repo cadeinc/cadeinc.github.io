@@ -11,7 +11,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title  : Conference on Automated Deduction
+title  : CADE
 author :
   name   : Conference on Automated Deduction
   email  : montmirail@cril.fr
