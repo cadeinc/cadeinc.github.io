@@ -1,27 +1,29 @@
 ---
 layout: page
-title: Contact
+title: CADE Contact
 tagline: Information
 group: navigation
 ---
 {% include JB/setup %}
 
-CADE Contact Information
+#### Secretary's email (primary contact):
 
-Secretary's email (primary contact):
+secretary@cadeinc.org
 
-gro.cniedac@yraterces
-President's email:
+#### President's email:
 
-gro.cniedac@tnediserp
-Trustees' email:
+president@cadeinc.org
 
-gro.cniedac@seetsurt
-CADE Inc. principal office:
-c/o Professor Neil V. Murray
-Institute for Informatics, Logics, & Security Studies
-Department of Computer Science UAB 400
-University at Albany - SUNY
-1215 Western Avenue
-Albany, NY 12222, USA
+##### Trustees' email:
+
+trustees@cadeinc.org 
+
+#### CADE Inc. principal office:
+
+    c/o Professor Neil V. Murray
+    Institute for Informatics, Logics, & Security Studies
+    Department of Computer Science UAB 400
+    University at Albany - SUNY
+    1215 Western Avenue
+    Albany, NY 12222, USA
 
