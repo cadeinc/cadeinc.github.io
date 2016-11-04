@@ -10,23 +10,22 @@ The International Conference on Automated Deduction
 
 CADE is the major international forum at which research on all aspects of automated deduction is presented. The first conference was held in 1974. Previous CADEs were mostly biennial, and annual conferences started in 1996. Since 2001 CADE has participated in the International Joint Conference on Automated Reasoning (IJCAR).
 
-Future Conferences
+### Future Conferences
 
-2018: See the IJCAR web pages
-CADE-26, Gothenburg, Sweden, August 2017.
-Program Chair: Leonardo de Moura
-Conference Chairs: Moa Johansson, Wolfgang Ahrendt
-Workshop, tutorial, competition chair: TBA
-CADE/IJCAR Management
+* 2018: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
 
-Conference management notes and schedule
-Previous conferences' financial summaries
-Previous Conferences
+* [CADE-26](http://www.cade-26.info/), Gothenburg, Sweden, August 2017.
+  - Program Chair: Leonardo de Moura
+  - Conference Chairs: Moa Johansson, Wolfgang Ahrendt
+  - Workshop, tutorial, competition chair: TBA
+  - CADE/IJCAR Management
 
-2016: See the IJCAR web pages
-CADE President: Maria Paola Bonacina (Business meeting slides)
+### Previous Conferences
 
-* CADE-25, Berlin, Germany, 1-7 August 2015.
+* 2016: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+  - CADE President: Maria Paola Bonacina (Business meeting slides)
+
+* [CADE-25](http://www.inf.fu-berlin.de/cade25), Berlin, Germany, 1-7 August 2015.
   - Program Chairs: Amy Felty, Aart Middeldorp (Report)
   - Conference Chair: Chris Benzmüller (Report)
   - Workshop, tutorial, competition chair: Jasmin Blanchette, Andrew Reynolds
@@ -36,10 +35,10 @@ CADE President: Maria Paola Bonacina (Business meeting slides)
   - Jubilee Session Speakers: Ursula Martin, Frank Pfenning, David Plaisted, Andrei Voronkov
   - Trustee president's report and the treasurer's report.
 
-* 2014: See the IJCAR web pages
+* 2014: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
   - CADE President: Maria Paola Bonacina (Business meeting slides)
 
-* CADE-24, Lake Placid, USA, 9-14 June 2013 (Springer LNAI 7898)
+* [CADE-24](http://www.cl.cam.ac.uk/~gp351/cade24/), Lake Placid, USA, 9-14 June 2013 (Springer LNAI 7898)
   - Program Chair: Maria Paola Bonacina (Report)
   - Conference or Local Arrangements Chairs: Chris Lynch, Neil Murray (Report).
   - Submissions: 53 papers + 18 system descriptions = 71
@@ -47,9 +46,9 @@ CADE President: Maria Paola Bonacina (Business meeting slides)
   - 86 attendees, 57 regular, 29 student. 56 workshop registrations
   - Invited speakers: Jean-Christophe Filliâtre, Greg Morrisett, Natarajan Shankar, Douglas R. Smith.
 
-* 2012: See the IJCAR web pages
+* 2012: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
 
-* CADE-23, Wroclaw, Poland, 31 July-5 August 2011 (Springer LNAI 6803)
+* [CADE-23](http://cade23.ii.uni.wroc.pl/), Wroclaw, Poland, 31 July-5 August 2011 (Springer LNAI 6803)
   - Program Chairs: Viorica Sofronie-Stokkermans, Nikolaj Bjørner (Report)
   - Conference Chair: Hans de Nivelle
   - Submissions: 66 papers + 14 system descriptions = 80
@@ -58,9 +57,9 @@ CADE President: Maria Paola Bonacina (Business meeting slides)
   - 6 workshops and 6 tutorials, 37 participants
   - Invited speakers: Koen Claessen, Byron Cook, Xavier Leroy, Aarne Ranta.
 
-* 2010: See the IJCAR web pages
+* 2010: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
 
-* CADE-22, Montreal, Canada, 2-7 August 2009 (Springer LNAI 5663)
+* [CADE-22](http://complogic.cs.mcgill.ca/cade22/), Montreal, Canada, 2-7 August 2009 (Springer LNAI 5663)
   - Program Chairs: Renate Schmidt (Report)
   - Conference Chair: Brigitte Pientka (Report)
   - Participants: 70 full + 41 student = 111 conference,
@@ -70,42 +69,42 @@ CADE President: Maria Paola Bonacina (Business meeting slides)
   - Invited speakers: Konstantin Korovin, Martin Rinard, Mark Stickel.
   - Trustee president's (actually, Reiner Hähnle - vice-president) report and the business meeting minutes
 
-* 2008: See the IJCAR web pages
+* 2008: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
 
-* CADE-21, Bremen, Germany, 17-20 July 2007 (Springer LNAI 4603)
+* [CADE-21](http://www.cs.miami.edu/home/geoff/Conferences/CADE//Archive/CADE-21), Bremen, Germany, 17-20 July 2007 (Springer LNAI 4603)
   - Program Chair: Frank Pfenning
   - Conference or Local Arrangements Chairs: Michael Kohlhase
   - Participants: 110
   - Submissions: 64
   - Invited speakers: Colin Stirling, Ashish Tiwari, Rustan Leino, Peter Baumgartner.
 
-* 2006: See the IJCAR web pages
+* 2006: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
 
-* CADE-20, Tallinn, Estonia, 22-27 July 2005 (Springer LNAI 3632)
+* [CADE-20](http://www.cs.miami.edu/home/geoff/Conferences/CADE//Archive/CADE-20), Tallinn, Estonia, 22-27 July 2005 (Springer LNAI 3632)
   - Program Chair: Robert Nieuwenhuis
   - Conference or Local Arrangements Chairs: Tanel Tammett
   - Participants: 70
   - Submissions: 78
   - Invited speakers: Randal Bryant, Gilles Dowek, Frank Wolter.
 
-* 2004: See the IJCAR web pages
+* 2004: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
 
-* CADE-19, Miami Beach, USA, 28 July-2 August 2003 (Springer LNAI 2741)
+* [CADE-19](http://www.cs.miami.edu/home/geoff/Conferences/CADE//Archive/CADE-19/CADE-19.shtml), Miami Beach, USA, 28 July-2 August 2003 (Springer LNAI 2741)
   - Program Chair: Franz Baader
   - Conference or Local Arrangements Chairs: Geoff Sutcliffe and Jeff Pelletier
   - Submissions: 83
   - Participants: 99
   - Invited speakers: Edmund Clarke, Anthony Cohn, Helene Kirchner, Greg Nelson.
 
-* CADE-18 (FLoC'02), Copenhagen, Denmark, 27-30 July 2002 (Springer LNAI 2392)
+* [CADE-18](http://floc02.diku.dk/CADE/) (FLoC'02), Copenhagen, Denmark, 27-30 July 2002 (Springer LNAI 2392)
   - Program Chair: Andrei Voronkov
   - Conference or Local Arrangements Chairs: Reiner Hänhle
   - Participants: 120
   - Invited speakers: Matthias Baaz (CADE/TABLEAUX), Ian Horrocks, Daniel Jackson, Sharad Malik (CADE/CAV).
 
-* 2001: See the IJCAR web pages
+* 2001: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
 
-* CADE-17, Pittsburgh, USA, 17-20 June 2000 (Springer LNAI 1831)
+* [CADE-17](http://www.cs.miami.edu/home/geoff/Conferences/CADE//Archive/CADE-17), Pittsburgh, USA, 17-20 June 2000 (Springer LNAI 1831)
   - Program Chair: David McAllester
   - Conference or Local Arrangements Chairs: Frank Pfenning
   - Participants: 106
