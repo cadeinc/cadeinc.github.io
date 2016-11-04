@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CADE Contact
+title: Contact
 tagline: Information
 group: navigation
 ---
