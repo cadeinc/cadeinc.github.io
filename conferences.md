@@ -25,164 +25,198 @@ Previous Conferences
 
 2016: See the IJCAR web pages
 CADE President: Maria Paola Bonacina (Business meeting slides)
-CADE-25, Berlin, Germany, 1-7 August 2015.
-Program Chairs: Amy Felty, Aart Middeldorp (Report)
-Conference Chair: Chris Benzmüller (Report)
-Workshop, tutorial, competition chair: Jasmin Blanchette, Andrew Reynolds
-Submissions: 71 papers + 14 system descriptions = 84BR> Accepted: 24 papers + 12 system descriptions = 36
-204 attendees, 125 regular, 40 student. 146 workshop registrations
-Invited speakers: Ulrich Furbach, Michael Genesereth (joint with RuleML), Edward Zalta
-Jubilee Session Speakers: Ursula Martin, Frank Pfenning, David Plaisted, Andrei Voronkov
-Trustee president's report and the treasurer's report.
-2014: See the IJCAR web pages
-CADE President: Maria Paola Bonacina (Business meeting slides)
-CADE-24, Lake Placid, USA, 9-14 June 2013 (Springer LNAI 7898)
-Program Chair: Maria Paola Bonacina (Report)
-Conference or Local Arrangements Chairs: Chris Lynch, Neil Murray (Report).
-Submissions: 53 papers + 18 system descriptions = 71
-Accepted: 22 papers + 9 system descriptions = 31
-86 attendees, 57 regular, 29 student. 56 workshop registrations
-Invited speakers: Jean-Christophe Filliâtre, Greg Morrisett, Natarajan Shankar, Douglas R. Smith.
-2012: See the IJCAR web pages
-CADE-23, Wroclaw, Poland, 31 July-5 August 2011 (Springer LNAI 6803)
-Program Chairs: Viorica Sofronie-Stokkermans, Nikolaj Bjørner (Report)
-Conference Chair: Hans de Nivelle
-Submissions: 66 papers + 14 system descriptions = 80
-Accepted: 28 papers + 7 system descriptions = 35
-Participants: 87 full + 13 freebies = 100 conference
-6 workshops and 6 tutorials, 37 participants
-Invited speakers: Koen Claessen, Byron Cook, Xavier Leroy, Aarne Ranta.
-2010: See the IJCAR web pages
-CADE-22, Montreal, Canada, 2-7 August 2009 (Springer LNAI 5663)
-Program Chairs: Renate Schmidt (Report)
-Conference Chair: Brigitte Pientka (Report)
-Participants: 70 full + 41 student = 111 conference,
-6 workshops, 4 Tutorials, 163 participants
-Submissions: 77 (68 paper, 9 system descriptions)
-Accepted: 32 (27 papers, 5 accepted)
-Invited speakers: Konstantin Korovin, Martin Rinard, Mark Stickel.
-Trustee president's (actually, Reiner Hähnle - vice-president) report and the business meeting minutes
-2008: See the IJCAR web pages
-CADE-21, Bremen, Germany, 17-20 July 2007 (Springer LNAI 4603)
-Program Chair: Frank Pfenning
-Conference or Local Arrangements Chairs: Michael Kohlhase
-Participants: 110
-Submissions: 64
-Invited speakers: Colin Stirling, Ashish Tiwari, Rustan Leino, Peter Baumgartner.
-2006: See the IJCAR web pages
-CADE-20, Tallinn, Estonia, 22-27 July 2005 (Springer LNAI 3632)
-Program Chair: Robert Nieuwenhuis
-Conference or Local Arrangements Chairs: Tanel Tammett
-Participants: 70
-Submissions: 78
-Invited speakers: Randal Bryant, Gilles Dowek, Frank Wolter.
-2004: See the IJCAR web pages
-CADE-19, Miami Beach, USA, 28 July-2 August 2003 (Springer LNAI 2741)
-Program Chair: Franz Baader
-Conference or Local Arrangements Chairs: Geoff Sutcliffe and Jeff Pelletier
-Submissions: 83
-Participants: 99
-Invited speakers: Edmund Clarke, Anthony Cohn, Helene Kirchner, Greg Nelson.
-CADE-18 (FLoC'02), Copenhagen, Denmark, 27-30 July 2002 (Springer LNAI 2392)
-Program Chair: Andrei Voronkov
-Conference or Local Arrangements Chairs: Reiner Hänhle
-Participants: 120
-Invited speakers: Matthias Baaz (CADE/TABLEAUX), Ian Horrocks, Daniel Jackson, Sharad Malik (CADE/CAV).
-2001: See the IJCAR web pages
-CADE-17, Pittsburgh, USA, 17-20 June 2000 (Springer LNAI 1831)
-Program Chair: David McAllester
-Conference or Local Arrangements Chairs: Frank Pfenning
-Participants: 106
-Invited speakers: John Harrison, Henry Kautz, Carl Seger.
-CADE-16 (FLoC'99), Trento, Italy, July 1999 (Springer LNAI 1632)
-Program Chair: Harald Ganzinger
-Conference or Local Arrangements Chairs: Paolo Traverso
-Participants: 129
-Invited speakers: Erich Graedel, Robert Nieuwenhuis, Tobias Nipkow, Zohar Manna (CADE/CAV).
-CADE-15, Lindau, Germany, 6-10 July 1998 (Springer LNAI 1421)
-Program Chairs: Claude Kirchner, Helene Kirchner
-Conference or Local Arrangements Chairs: Wolfgang Bibel
-Participants: 191
-Submissions: 85 papers, 24 accepted; 25 system descriptions, 10 accepted
-Invited speakers: Frank Pfenning, Matt Kaufmann, Amir Pnueli.
-CADE-14, Townsville, Australia, 1997 (Springer LNAI 1249)
-Program Chair: William McCune
-Conference or Local Arrangements Chairs: Geoff Sutcliffe
-Participants: 104
-Submissions: 87 papers, 25 accepted; 22 system descriptions, 17 accepted
-Invited speakers: Wu Wen-Tsun, Moshe Vardi.
-CADE-13 (FLoC'96) New Brunswick, USA, 1996 (Springer LNAI 1104)
-Program Chairs: Michael McRobbie, John K. Slaney
-Conference or Local Arrangements Chairs: Amy Felty
-Participants: 178
-Invited speakers: Harald Ganzinger, Robert Milner (FLoC keynote), Amir Pnueli (CADE/CAV banquet), Dana Scott, John Rushby (CADE/CAV).
-CADE-12, Nancy, France, 1994 (Springer LNAI 814)
-Program Chair: Alan Bundy
-Conference or Local Arrangements Chairs: Claude Kirchner
-Participants: 228
-Invited speakers: Robert Constable, Ursula Martin, Richard Platek, John Slaney.
-CADE-11, Saratoga Springs, USA, 1992 (Springer LNAI 607)
-Program Chair: Deepak Kapur
-Conference or Local Arrangements Chairs: Neil V. Murray
-Participants: 144
-Invited speakers: Larry Wos (keynote), Raymond Smullyan (banquet), Grigori Mints.
-CADE-10, Kaiserslautern, Germany, 1990 (Springer LNAI 449)
-Program Chair: Mark Stickel
-Conference or Local Arrangements Chairs: Hans-Jürgen Bürckert, Hans Jürgen Ohlbach
-Participants: 162
-Invited speakers: Robert Boyer and J Moore (keynote), Woody Bledsoe (banquet), Wolfgang Bibel, Alan Bundy.
-CADE-9, Argonne, USA, 1988 (Springer LNCS 310)
-Program Chairs: Rusty Lusk, Ross Overbeek
-Conference or Local Arrangements Chairs: Rusty Lusk, Ross Overbeek
-Participants: ?
-Invited speakers: Stuart Miller, John Alan Robinson, Larry Wos (banquet)
-CADE-8, Oxford, United Kingdom, 1986 (Springer LNCS 230)
-Program Chair: Joerg Siekmann
-Conference or Local Arrangements Chairs: R. J. Cunningham
-Participants: ?
-Invited speakers: Peter B. Andrews, Ray Reiter, Gerard Huet, David H.D. Warren.
-CADE-7, Napa, USA, 1984 (Springer LNCS 170)
-Program Chair: Robert Shostak
-Conference or Local Arrangements Chairs: Gerard Huet
-Participants: ?
-Invited speakers: none
-CADE-6, New York, USA, 1982 (Springer LNCS 138)
-Program Chair: Donald W. Loveland
-Conference or Local Arrangements Chairs: ?
-Participants: ?
-Invited speakers: John McCarthy
-CADE-5, Les Arcs, France, 1980 (Springer LNCS 87)
-Program Chairs: Wolfgang Bibel, Robert Kowalski
-Conference or Local Arrangements Chairs: Gerard Huet
-Participants: 93
-Invited speakers: Dag Prawitz
-CADE-4 (Fourth Workshop on Automated Deduction), Austin, USA, 1979 (Proceedings)
-Program Chair: Sharon Sickel
-Proceedings Editor: William Joyner
-Local Arrangements Chairs: Woody Bledsoe
-Participants: ?
-Invited speakers: Martin Davis
-CADE-3, Cambridge, USA, 1977 (Proceedings)
-Program Chair: Ray Reiter
-Local Arrangements Chairs: ?
-Participants: ?
-Invited speakers: ?
-CADE-2, Oberwolfach, Germany, 1976 (Oberwolfach Digital Archive, abstracts in Book of abstracts 32, Tagung 05)
-Program Chairs: Woody Bledsoe, Michael Richter
-Local Arrangements Chairs: Michael Richter
-Participants: 35
-Invited speakers: 28
-CADE-1 - IEEE Workshop on Automated Theorem Proving, Argonne, USA, 1975 (IEEE Transactions on Computers C-25(8))
-Program Chair: Larry Henschen
-Local Arrangements Chairs: Larry Wos
-Participants: 50
-Invited speakers: J.R. Slagle
-"CADE-0" - Symposium on Automatic Demonstration, Rocquencourt, France, 1968 (Lecture Notes in Mathematics 125)
-Program Chairs: Michel Laudet, D. Lacombe, L. Nolin, Marcel-Paul Schützenberger
-Local Arrangements Chairs: Marcel-Paul Schützenberger
-Participants: ?
-Invited speakers: ?
-Notes on the Early History of CADE
+
+* CADE-25, Berlin, Germany, 1-7 August 2015.
+  - Program Chairs: Amy Felty, Aart Middeldorp (Report)
+  - Conference Chair: Chris Benzmüller (Report)
+  - Workshop, tutorial, competition chair: Jasmin Blanchette, Andrew Reynolds
+  - Submissions: 71 papers + 14 system descriptions = 84BR> Accepted: 24 papers + 12 system descriptions = 36
+  - 204 attendees, 125 regular, 40 student. 146 workshop registrations
+  - Invited speakers: Ulrich Furbach, Michael Genesereth (joint with RuleML), Edward Zalta
+  - Jubilee Session Speakers: Ursula Martin, Frank Pfenning, David Plaisted, Andrei Voronkov
+  - Trustee president's report and the treasurer's report.
+
+* 2014: See the IJCAR web pages
+  - CADE President: Maria Paola Bonacina (Business meeting slides)
+
+* CADE-24, Lake Placid, USA, 9-14 June 2013 (Springer LNAI 7898)
+  - Program Chair: Maria Paola Bonacina (Report)
+  - Conference or Local Arrangements Chairs: Chris Lynch, Neil Murray (Report).
+  - Submissions: 53 papers + 18 system descriptions = 71
+  - Accepted: 22 papers + 9 system descriptions = 31
+  - 86 attendees, 57 regular, 29 student. 56 workshop registrations
+  - Invited speakers: Jean-Christophe Filliâtre, Greg Morrisett, Natarajan Shankar, Douglas R. Smith.
+
+* 2012: See the IJCAR web pages
+
+* CADE-23, Wroclaw, Poland, 31 July-5 August 2011 (Springer LNAI 6803)
+  - Program Chairs: Viorica Sofronie-Stokkermans, Nikolaj Bjørner (Report)
+  - Conference Chair: Hans de Nivelle
+  - Submissions: 66 papers + 14 system descriptions = 80
+  - Accepted: 28 papers + 7 system descriptions = 35
+  - Participants: 87 full + 13 freebies = 100 conference
+  - 6 workshops and 6 tutorials, 37 participants
+  - Invited speakers: Koen Claessen, Byron Cook, Xavier Leroy, Aarne Ranta.
+
+* 2010: See the IJCAR web pages
+
+* CADE-22, Montreal, Canada, 2-7 August 2009 (Springer LNAI 5663)
+  - Program Chairs: Renate Schmidt (Report)
+  - Conference Chair: Brigitte Pientka (Report)
+  - Participants: 70 full + 41 student = 111 conference,
+  - 6 workshops, 4 Tutorials, 163 participants
+  - Submissions: 77 (68 paper, 9 system descriptions)
+  - Accepted: 32 (27 papers, 5 accepted)
+  - Invited speakers: Konstantin Korovin, Martin Rinard, Mark Stickel.
+  - Trustee president's (actually, Reiner Hähnle - vice-president) report and the business meeting minutes
+
+* 2008: See the IJCAR web pages
+
+* CADE-21, Bremen, Germany, 17-20 July 2007 (Springer LNAI 4603)
+  - Program Chair: Frank Pfenning
+  - Conference or Local Arrangements Chairs: Michael Kohlhase
+  - Participants: 110
+  - Submissions: 64
+  - Invited speakers: Colin Stirling, Ashish Tiwari, Rustan Leino, Peter Baumgartner.
+
+* 2006: See the IJCAR web pages
+
+* CADE-20, Tallinn, Estonia, 22-27 July 2005 (Springer LNAI 3632)
+  - Program Chair: Robert Nieuwenhuis
+  - Conference or Local Arrangements Chairs: Tanel Tammett
+  - Participants: 70
+  - Submissions: 78
+  - Invited speakers: Randal Bryant, Gilles Dowek, Frank Wolter.
+
+* 2004: See the IJCAR web pages
+
+* CADE-19, Miami Beach, USA, 28 July-2 August 2003 (Springer LNAI 2741)
+  - Program Chair: Franz Baader
+  - Conference or Local Arrangements Chairs: Geoff Sutcliffe and Jeff Pelletier
+  - Submissions: 83
+  - Participants: 99
+  - Invited speakers: Edmund Clarke, Anthony Cohn, Helene Kirchner, Greg Nelson.
+
+* CADE-18 (FLoC'02), Copenhagen, Denmark, 27-30 July 2002 (Springer LNAI 2392)
+  - Program Chair: Andrei Voronkov
+  - Conference or Local Arrangements Chairs: Reiner Hänhle
+  - Participants: 120
+  - Invited speakers: Matthias Baaz (CADE/TABLEAUX), Ian Horrocks, Daniel Jackson, Sharad Malik (CADE/CAV).
+
+* 2001: See the IJCAR web pages
+
+* CADE-17, Pittsburgh, USA, 17-20 June 2000 (Springer LNAI 1831)
+  - Program Chair: David McAllester
+  - Conference or Local Arrangements Chairs: Frank Pfenning
+  - Participants: 106
+  - Invited speakers: John Harrison, Henry Kautz, Carl Seger.
+
+* CADE-16 (FLoC'99), Trento, Italy, July 1999 (Springer LNAI 1632)
+  - Program Chair: Harald Ganzinger
+  - Conference or Local Arrangements Chairs: Paolo Traverso
+  - Participants: 129
+  - Invited speakers: Erich Graedel, Robert Nieuwenhuis, Tobias Nipkow, Zohar Manna (CADE/CAV).
+
+* CADE-15, Lindau, Germany, 6-10 July 1998 (Springer LNAI 1421)
+  - Program Chairs: Claude Kirchner, Helene Kirchner
+  - Conference or Local Arrangements Chairs: Wolfgang Bibel
+  - Participants: 191
+  - Submissions: 85 papers, 24 accepted; 25 system descriptions, 10 accepted
+  - Invited speakers: Frank Pfenning, Matt Kaufmann, Amir Pnueli.
+
+* CADE-14, Townsville, Australia, 1997 (Springer LNAI 1249)
+  - Program Chair: William McCune
+  - Conference or Local Arrangements Chairs: Geoff Sutcliffe
+  - Participants: 104
+  - Submissions: 87 papers, 25 accepted; 22 system descriptions, 17 accepted
+  - Invited speakers: Wu Wen-Tsun, Moshe Vardi.
+
+* CADE-13 (FLoC'96) New Brunswick, USA, 1996 (Springer LNAI 1104)
+  - Program Chairs: Michael McRobbie, John K. Slaney
+  - Conference or Local Arrangements Chairs: Amy Felty
+  - Participants: 178
+  - Invited speakers: Harald Ganzinger, Robert Milner (FLoC keynote), Amir Pnueli (CADE/CAV banquet), Dana Scott, John Rushby (CADE/CAV).
+
+* CADE-12, Nancy, France, 1994 (Springer LNAI 814)
+  - Program Chair: Alan Bundy
+  - Conference or Local Arrangements Chairs: Claude Kirchner
+  - Participants: 228
+  - Invited speakers: Robert Constable, Ursula Martin, Richard Platek, John Slaney.
+
+* CADE-11, Saratoga Springs, USA, 1992 (Springer LNAI 607)
+  - Program Chair: Deepak Kapur
+  - Conference or Local Arrangements Chairs: Neil V. Murray
+  - Participants: 144
+  - Invited speakers: Larry Wos (keynote), Raymond Smullyan (banquet), Grigori Mints.
+
+* CADE-10, Kaiserslautern, Germany, 1990 (Springer LNAI 449)
+  - Program Chair: Mark Stickel
+  - Conference or Local Arrangements Chairs: Hans-Jürgen Bürckert, Hans Jürgen Ohlbach
+  - Participants: 162
+  - Invited speakers: Robert Boyer and J Moore (keynote), Woody Bledsoe (banquet), Wolfgang Bibel, Alan Bundy.
+
+* CADE-9, Argonne, USA, 1988 (Springer LNCS 310)
+  - Program Chairs: Rusty Lusk, Ross Overbeek
+  - Conference or Local Arrangements Chairs: Rusty Lusk, Ross Overbeek
+  - Participants: ?
+  - Invited speakers: Stuart Miller, John Alan Robinson, Larry Wos (banquet)
+
+* CADE-8, Oxford, United Kingdom, 1986 (Springer LNCS 230)
+  - Program Chair: Joerg Siekmann
+  - Conference or Local Arrangements Chairs: R. J. Cunningham
+  - Participants: ?
+  - Invited speakers: Peter B. Andrews, Ray Reiter, Gerard Huet, David H.D. Warren.
+
+* CADE-7, Napa, USA, 1984 (Springer LNCS 170)
+  - Program Chair: Robert Shostak
+  - Conference or Local Arrangements Chairs: Gerard Huet
+  - Participants: ?
+  - Invited speakers: none
+
+* CADE-6, New York, USA, 1982 (Springer LNCS 138)
+  - Program Chair: Donald W. Loveland
+  - Conference or Local Arrangements Chairs: ?
+  - Participants: ?
+  - Invited speakers: John McCarthy
+
+* CADE-5, Les Arcs, France, 1980 (Springer LNCS 87)
+  - Program Chairs: Wolfgang Bibel, Robert Kowalski
+  - Conference or Local Arrangements Chairs: Gerard Huet
+  - Participants: 93
+  - Invited speakers: Dag Prawitz
+
+* CADE-4 (Fourth Workshop on Automated Deduction), Austin, USA, 1979 (Proceedings)
+  - Program Chair: Sharon Sickel
+  - Proceedings Editor: William Joyner
+  - Local Arrangements Chairs: Woody Bledsoe
+  - Participants: ?
+  - Invited speakers: Martin Davis
+
+* CADE-3, Cambridge, USA, 1977 (Proceedings)
+  - Program Chair: Ray Reiter
+  - Local Arrangements Chairs: ?
+  - Participants: ?
+  - Invited speakers: ?
+
+* CADE-2, Oberwolfach, Germany, 1976 (Oberwolfach Digital Archive, abstracts in Book of abstracts 32, Tagung 05)
+  - Program Chairs: Woody Bledsoe, Michael Richter
+  - Local Arrangements Chairs: Michael Richter
+  - Participants: 35
+  - Invited speakers: 28
+
+* CADE-1 - IEEE Workshop on Automated Theorem Proving, Argonne, USA, 1975 (IEEE Transactions on Computers C-25(8))
+  - Program Chair: Larry Henschen
+  - Local Arrangements Chairs: Larry Wos
+  - Participants: 50
+  - Invited speakers: J.R. Slagle
+
+* "CADE-0" - Symposium on Automatic Demonstration, Rocquencourt, France, 1968 (Lecture Notes in Mathematics 125)
+  - Program Chairs: Michel Laudet, D. Lacombe, L. Nolin, Marcel-Paul Schützenberger
+  - Local Arrangements Chairs: Marcel-Paul Schützenberger
+  - Participants: ?
+  - Invited speakers: ?
+
+### Notes on the Early History of CADE
 
 Wolfgang Bibel provided many details of the early CADEs, which have been integrated into the list above
 Peter Andrews provided many details of the early CADEs. He noted ...
