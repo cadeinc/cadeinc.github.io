@@ -3,7 +3,6 @@ layout: page
 title : Conference Management Notes and Schedule
 header : Conference Management Notes and Schedule
 tagline: <br/>by Peter Baumgartner and Geoff Sutcliffe
-
 ---
 
 ## Notes

@@ -24,7 +24,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 - [Conference management notes and schedule](Schedule)
 
-- [Previous conferences' financial summaries](#)
+- [Previous conferences' financial summaries](FinancialSummaries)
 
 ### Previous Conferences
 
