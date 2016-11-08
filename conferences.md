@@ -20,6 +20,11 @@ CADE is the major international forum at which research on all aspects of automa
   - Workshop, tutorial, competition chair: TBA
   - CADE/IJCAR Management
 
+### CADE/IJCAR Management
+
+[Conference management notes and schedule](#)
+[Previous conferences' financial summaries](#)
+
 ### Previous Conferences
 
 * 2016: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
