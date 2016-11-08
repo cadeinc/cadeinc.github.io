@@ -22,7 +22,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### CADE/IJCAR Management
 
-- [Conference management notes and schedule](#)
+- [Conference management notes and schedule](Schedule)
 
 - [Previous conferences' financial summaries](#)
 
