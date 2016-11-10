@@ -3,7 +3,7 @@ layout: page
 title: Bylaws
 header : CADE Bylaws
 group: navigation
-order : 3
+order : 4
 ---
 {% include JB/setup %}
 
