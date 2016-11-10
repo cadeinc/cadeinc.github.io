@@ -3,6 +3,7 @@ layout: page
 title : Trustees
 header : CADE Trustees
 group: navigation
+order : 2
 ---
 {% include JB/setup %}
 
