@@ -13,7 +13,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Future Conferences
 
-* 2018: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2018: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-26](http://www.cade-26.info/), Gothenburg, Sweden, August 2017.
   - Program Chair: Leonardo de Moura
@@ -29,7 +29,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Previous Conferences
 
-* 2016: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2016: See the [IJCAR web pages](http://ijcar.org/conferences)
   - CADE President: Maria Paola Bonacina (Business meeting slides)
 
 * [CADE-25](http://www.inf.fu-berlin.de/cade25), Berlin, Germany, 1-7 August 2015.
@@ -42,7 +42,7 @@ CADE is the major international forum at which research on all aspects of automa
   - Jubilee Session Speakers: Ursula Martin, Frank Pfenning, David Plaisted, Andrei Voronkov
   - Trustee president's report and the treasurer's report.
 
-* 2014: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2014: See the [IJCAR web pages](http://ijcar.org/conferences)
   - CADE President: Maria Paola Bonacina (Business meeting slides)
 
 * [CADE-24](http://www.cl.cam.ac.uk/~gp351/cade24/), Lake Placid, USA, 9-14 June 2013 (Springer LNAI 7898)
@@ -53,7 +53,7 @@ CADE is the major international forum at which research on all aspects of automa
   - 86 attendees, 57 regular, 29 student. 56 workshop registrations
   - Invited speakers: Jean-Christophe Filliâtre, Greg Morrisett, Natarajan Shankar, Douglas R. Smith.
 
-* 2012: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2012: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-23](http://cade23.ii.uni.wroc.pl/), Wroclaw, Poland, 31 July-5 August 2011 (Springer LNAI 6803)
   - Program Chairs: Viorica Sofronie-Stokkermans, Nikolaj Bjørner (Report)
@@ -64,7 +64,7 @@ CADE is the major international forum at which research on all aspects of automa
   - 6 workshops and 6 tutorials, 37 participants
   - Invited speakers: Koen Claessen, Byron Cook, Xavier Leroy, Aarne Ranta.
 
-* 2010: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2010: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-22](http://complogic.cs.mcgill.ca/cade22/), Montreal, Canada, 2-7 August 2009 (Springer LNAI 5663)
   - Program Chairs: Renate Schmidt (Report)
@@ -76,7 +76,7 @@ CADE is the major international forum at which research on all aspects of automa
   - Invited speakers: Konstantin Korovin, Martin Rinard, Mark Stickel.
   - Trustee president's (actually, Reiner Hähnle - vice-president) report and the business meeting minutes
 
-* 2008: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2008: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-21](http://www.cs.miami.edu/home/geoff/Conferences/CADE//Archive/CADE-21), Bremen, Germany, 17-20 July 2007 (Springer LNAI 4603)
   - Program Chair: Frank Pfenning
@@ -85,7 +85,7 @@ CADE is the major international forum at which research on all aspects of automa
   - Submissions: 64
   - Invited speakers: Colin Stirling, Ashish Tiwari, Rustan Leino, Peter Baumgartner.
 
-* 2006: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2006: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-20](http://www.cs.miami.edu/home/geoff/Conferences/CADE//Archive/CADE-20), Tallinn, Estonia, 22-27 July 2005 (Springer LNAI 3632)
   - Program Chair: Robert Nieuwenhuis
@@ -94,7 +94,7 @@ CADE is the major international forum at which research on all aspects of automa
   - Submissions: 78
   - Invited speakers: Randal Bryant, Gilles Dowek, Frank Wolter.
 
-* 2004: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2004: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-19](http://www.cs.miami.edu/home/geoff/Conferences/CADE//Archive/CADE-19/CADE-19.shtml), Miami Beach, USA, 28 July-2 August 2003 (Springer LNAI 2741)
   - Program Chair: Franz Baader
@@ -109,7 +109,7 @@ CADE is the major international forum at which research on all aspects of automa
   - Participants: 120
   - Invited speakers: Matthias Baaz (CADE/TABLEAUX), Ian Horrocks, Daniel Jackson, Sharad Malik (CADE/CAV).
 
-* 2001: See the [IJCAR web pages](https://mystelven.github.io/IJCAR-website//conferences)
+* 2001: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-17](http://www.cs.miami.edu/home/geoff/Conferences/CADE//Archive/CADE-17), Pittsburgh, USA, 17-20 June 2000 (Springer LNAI 1831)
   - Program Chair: David McAllester
