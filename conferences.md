@@ -9,7 +9,7 @@ order : 1
 
 The International Conference on Automated Deduction
 
-CADE is the major international forum at which research on all aspects of automated deduction is presented. The first conference was held in 1974. Previous CADEs were mostly biennial, and annual conferences started in 1996. Since 2001 CADE has participated in the International Joint Conference on Automated Reasoning (IJCAR).
+CADE is the major international forum at which research on all aspects of automated deduction is presented. The first conference was held in 1974. Previous CADEs were mostly biennial, and annual conferences started in 1996. Since 2001 CADE has participated in the [International Joint Conference on Automated Reasoning](http://ijcar.org/) (IJCAR).
 
 ### Future Conferences
 
@@ -30,24 +30,24 @@ CADE is the major international forum at which research on all aspects of automa
 ### Previous Conferences
 
 * 2016: See the [IJCAR web pages](http://ijcar.org/conferences)
-  - CADE President: Maria Paola Bonacina (Business meeting slides)
+  - CADE President: Maria Paola Bonacina ([Business meeting slides](Reports/IJCAR-8_MariaPaolaBonacina.pdf))
 
 * [CADE-25](http://www.inf.fu-berlin.de/cade25), Berlin, Germany, 1-7 August 2015.
-  - Program Chairs: Amy Felty, Aart Middeldorp (Report)
-  - Conference Chair: Chris Benzmüller (Report)
+  - Program Chairs: Amy Felty, Aart Middeldorp ([Report](Reports/CADE-25_AmyFelty.pdf))
+  - Conference Chair: Chris Benzmüller ([Report](Reports/CADE-25_ChrisBenzmueller.pdf))
   - Workshop, tutorial, competition chair: Jasmin Blanchette, Andrew Reynolds
   - Submissions: 71 papers + 14 system descriptions = 84BR> Accepted: 24 papers + 12 system descriptions = 36
   - 204 attendees, 125 regular, 40 student. 146 workshop registrations
   - Invited speakers: Ulrich Furbach, Michael Genesereth (joint with RuleML), Edward Zalta
   - Jubilee Session Speakers: Ursula Martin, Frank Pfenning, David Plaisted, Andrei Voronkov
-  - Trustee president's report and the treasurer's report.
+  - Trustee president's [report](Reports/CADE-25_MariaPaolaBonacina.pdf) and the [treasurer's report](Reports/CADE-25_NeilMurray.pdf).
 
 * 2014: See the [IJCAR web pages](http://ijcar.org/conferences)
-  - CADE President: Maria Paola Bonacina (Business meeting slides)
+  - CADE President: Maria Paola Bonacina ([Business meeting slides](Reports/IJCAR-7_MariaPaolaBonacina.pdf))
 
 * [CADE-24](http://www.cl.cam.ac.uk/~gp351/cade24/), Lake Placid, USA, 9-14 June 2013 (Springer LNAI 7898)
-  - Program Chair: Maria Paola Bonacina (Report)
-  - Conference or Local Arrangements Chairs: Chris Lynch, Neil Murray (Report).
+  - Program Chair: Maria Paola Bonacina ([Report](Reports/CADE-24_MariaPaolaBonacina.pdf))
+  - Conference or Local Arrangements Chairs: Chris Lynch, Neil Murray ([Report](Reports/CADE-24_NeilMurray.pdf)).
   - Submissions: 53 papers + 18 system descriptions = 71
   - Accepted: 22 papers + 9 system descriptions = 31
   - 86 attendees, 57 regular, 29 student. 56 workshop registrations
@@ -56,7 +56,7 @@ CADE is the major international forum at which research on all aspects of automa
 * 2012: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-23](http://cade23.ii.uni.wroc.pl/), Wroclaw, Poland, 31 July-5 August 2011 (Springer LNAI 6803)
-  - Program Chairs: Viorica Sofronie-Stokkermans, Nikolaj Bjørner (Report)
+  - Program Chairs: Viorica Sofronie-Stokkermans, Nikolaj Bjørner ([Report](Reports/CADE-23_VioricaSofronieStokkermans.pdf))
   - Conference Chair: Hans de Nivelle
   - Submissions: 66 papers + 14 system descriptions = 80
   - Accepted: 28 papers + 7 system descriptions = 35
@@ -67,14 +67,14 @@ CADE is the major international forum at which research on all aspects of automa
 * 2010: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-22](http://complogic.cs.mcgill.ca/cade22/), Montreal, Canada, 2-7 August 2009 (Springer LNAI 5663)
-  - Program Chairs: Renate Schmidt (Report)
-  - Conference Chair: Brigitte Pientka (Report)
+  - Program Chairs: Renate Schmidt ([Report](Reports/CADE-22_RenateSchmidt.pdf))
+  - Conference Chair: Brigitte Pientka ([Report](Reports/CADE-22_BrigittePientka.pdf))
   - Participants: 70 full + 41 student = 111 conference,
   - 6 workshops, 4 Tutorials, 163 participants
   - Submissions: 77 (68 paper, 9 system descriptions)
   - Accepted: 32 (27 papers, 5 accepted)
   - Invited speakers: Konstantin Korovin, Martin Rinard, Mark Stickel.
-  - Trustee president's (actually, Reiner Hähnle - vice-president) report and the business meeting minutes
+  - Trustee president's (actually, Reiner Hähnle - vice-president) [report](Reports/CADE-22_ReinerHaehnle.pdf) and the [business meeting minutes](Reports/CADE-22_BusinessMeeting.txt)
 
 * 2008: See the [IJCAR web pages](http://ijcar.org/conferences)
 
@@ -191,20 +191,20 @@ CADE is the major international forum at which research on all aspects of automa
   - Participants: 93
   - Invited speakers: Dag Prawitz
 
-* CADE-4 (Fourth Workshop on Automated Deduction), Austin, USA, 1979 (Proceedings)
+* CADE-4 (Fourth Workshop on Automated Deduction), Austin, USA, 1979 ([Proceedings](Data/CADE-4_Proceedings.pdf))
   - Program Chair: Sharon Sickel
   - Proceedings Editor: William Joyner
   - Local Arrangements Chairs: Woody Bledsoe
   - Participants: ?
   - Invited speakers: Martin Davis
 
-* CADE-3, Cambridge, USA, 1977 (Proceedings)
+* CADE-3, Cambridge, USA, 1977 ([Proceedings](Data/CADE-3_Proceedings.pdf))
   - Program Chair: Ray Reiter
   - Local Arrangements Chairs: ?
   - Participants: ?
   - Invited speakers: ?
 
-* CADE-2, Oberwolfach, Germany, 1976 (Oberwolfach Digital Archive, abstracts in Book of abstracts 32, Tagung 05)
+* CADE-2, Oberwolfach, Germany, 1976 ([Oberwolfach Digital Archive](http://oda.mfo.de/view/bsz325106819.html), abstracts in [Book of abstracts 32, Tagung 05](http://oda.mfo.de/view/bsz325107211.html))
   - Program Chairs: Woody Bledsoe, Michael Richter
   - Local Arrangements Chairs: Michael Richter
   - Participants: 35

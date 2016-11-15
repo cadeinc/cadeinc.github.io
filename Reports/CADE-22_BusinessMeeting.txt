@@ -1,0 +1,191 @@
+Minutes of CADE-22 Business Meeting, Montreal, August 4, 2009
+*************************************************************
+
+Minutes by: Christoph Benzmueller
+
+Date:  August 4th, 2009
+Start: approx. 18:00 
+End:   approx. 19:20
+
+The CADE-22 Business Meeting was chaired by Reiner Haehnle, CADE
+vice-president, since the CADE president Franz Baader was not able to
+attend CADE-22.
+
+The presentation slides of Reiner Haehnle are available at
+http://www.cadeconference.org/ -> Business Meetings
+
+
+
+*** Topic 1: Secretary of the meeting
+
+Wolfgang Ahrend, the official CADE secretary, could not attend
+CADE-22. Christoph Benzmueller is instead nominated and elected at the
+beginning of the meeting as a substitute secretary.
+
+
+*** Topic 2: Report of Renate Schmidt, CADE-22 PC Chair
+
+The presentation slides of Renate Schmidt are available at
+http://www.cadeconference.org/ -> Conferences
+
+Short Summary: Renate Schmidt reports that CADE-22 had 77 submissions
+of which 32 were accepted.  The numbers are a little bit down compared
+to IJCAR-08 and a little bit up compared to CADE-21. The acceptance
+rate of CADE-22 matches the average acceptance rates over the last
+years. There are no big surprises in the submission statistics for
+different countries, except probably, for the low acceptance rate for
+papers from Canada and the low acceptance rate for some individual
+topics, for example, types and logical frameworks.
+
+
+*** Topic 3: Report of Brigitte Pientka, CADE-22 Organizer
+
+The presentation slides of Brigitte Pientka are available at
+http://www.cadeconference.org/ -> Conferences
+
+Short Summary: Brigitte Pientka reports that there were 115 registered
+participants for CADE-22. Moreover, 105 participants were registered
+for day 1 of the workshops/tutorials and 110 participants for day 2.
+There are no big surprises in the registration/participation
+statistics for different countries. Brigitte explains that she did try
+to obey the CADE/IJCAR principles that every event break even and that
+the Woody Bledsoe Travel Awards should be budgeted. A total of $ 7,075
+(approx. 10% of the budget) was spent on the 15 Woody Bledsoe Awards
+of CADE-22. Several sponsors, including McGill University, have
+supported CADE-22.
+
+
+*** Topic 4: Report of Neil Murray, CADE Treasurer
+
+The presentation slides of Neil Murray will be available at
+http://www.cadeconference.org/ -> Conferences
+
+Short Summary: Neil explains that the CADE budget is doing very
+well. More than $ 50,000 are on the bank account, of which approx. $
+15,000 are earmarked for IJCAR. Neil emphasizes again that every
+conference should at least break even and that conference budgets are
+generally expected to include the Woody Bledsoe Travel
+Awards. Brigitte Pientka confirms again that the Wood Bledsoe Awards
+have been budgeted for CADE-22.
+
+Maria Paola Bonacina asks about seed funds for IJCAR-08 and
+CADE-21. Neil confirms that these conferences neither requested nor
+received any seed funds. Brigitte Pientka remarks that this is also
+the case for CADE-22.
+
+
+*** Topic 5: Future CADE and IJCAR Conferences
+
+(A) IJCAR 2010
+
+Reiner Haehnle presents the plans for IJCAR 2010. Details are
+available on his slides: -- slides --
+
+Short summary: IJCAR 2010 will be held in Edinburgh, Scotland, as part
+of FLOC. The constituent meetings are CADE, FroCoS, FTP, and Tableaux.
+The PC chairs are Juergen Giesl and Reiner Haehnle, the organizer is
+Alan Bundy, and the workshop chair is Aaron Stump. The PC will consist of
+approx. 44 persons and is currently being formed. The proceedings will
+be published as Springer LNCS. The FLOC keynote speakers will be David
+Basin and Deepak Kapur, hence, the CADE community is well represented
+by this choice. The IJCAR invited speakers will be determined soon
+after the IJCAR PC is finalized.
+
+
+(B) CADE 2011
+
+Reiner Haehnle explains that CADE 2011 should ideally be located
+either in Europe or in North America. He reports that IJCAI 2011 will
+be organized in Barcelona, Spain, and that the PC chair of IJCAI will
+be Toby Walsh. IJCAI 2011 has offered to collocate CADE with it. In
+this case an own local organizer for CADE will be required -- the
+importance of this is also emphasized by a comment of Maria Paola
+Bonacina.  Geoff Sutcliffe remarks that we should soon contact
+potential candidates for Barcelona.
+
+Andrei Voronkov points out that 2012 there will be an Alan Turing Year
+celebrated in the UK (in Manchester and other places) and that major
+scientific events will then be hosted in the UK. Hence, it might be
+interesting to consider a collocation of IJCAR 2012 with these events.
+Such a choice would however speak against a CADE 2011 in Europe and
+for an organization of CADE 2011 in North America.
+
+Generally, the impression was that there was good support in the business
+meeting for the Barcelona proposal, at least there were no objections
+other than Andrei's remark.
+
+
+*** Topic 6: CADE Trustees 
+
+The terms of Franz Baader, Peter Baumgartner and Aaron Stumps are
+ending. Of those only Aaron Stump is re electable.
+
+The trustee nominations received prior to the BM were:
+
+Renate Schmidt (nominated by Reiner Haehnle ,seconded by Martin Giese)
+Aaron Stump (nominated by Peter Dybier, seconded by Koen Claessen)
+Christoph Weidenbach (nominated by Geoff Sutcliffe, seconded by Renate Schmidt)
+Christopher Lynch (nominated by Franz Baader, seconded by Juergen Giesl)
+Brigitte Pientka (nominated by Amy Felty, seconded by Maria Paola Bonacina)
+
+The new nominations received at the Business Meeting are:
+
+Konstantin Korovin (nominated by Andrei Voronkov, seconded by Stefan Schulz)
+Rajeev Gore (nominated by Peter Baumgartner, seconded by Neil Murray)
+
+
+*** Topic 7: SigLog
+
+Reiner Haehnle briefly reports on the (still ongoing) founding of
+SigLoG under the umbrella of ACM. Goals of SigLoG include to better
+foster our area, to improve its recognition and visibility, and to
+support the organization of conferences and events. CADE has been
+asked to join SiGLoG and is considering to do so.
+
+Christoph Benzmueller asks about the intended relationship of SigLog
+and IFCOLOG. IFCOLOG has been founded in the 90's with similar goals
+as SigLog. Moshe Vardi, who is now the driving force behind SigLog,
+has only recently stepped down as Chairman of IFCOLOG. It seems that
+relevant information on the SigLog versus IFCOLOG issue has not been
+well communicated. Rainer Haehnle mentions that he does not have any
+further information. Uli Furbach points out that on the IFCOLOG
+website the link to CADE and several other conference is wiped out and
+that he does not know what this actually means.
+
+
+*** Topic 8: Misc
+
+Stefan Schulz points out that he would welcome a more timely
+dissemination of information related to conferences and its workshops.
+
+Moreover, Stefan Schulz brings up the question with whom CADE should
+publish its Conference Proceedings in the long run. Uli Furbach
+remarks that this question seems rather an issue for the CADE
+trustees. Geoff Sutcliffe points out that there has been an intensive
+discussion amongst the trustees last year, in particular, about the CD
+versus hardcover issue. While the issue remains to be open and
+relevant in the long run, the choice for this years CADE has been to
+stick with hardcover Springer LNCS proceedings. Brigitte Pientka says
+that the deadlines for CD proceedings with Springer are even worse
+than the hardcover deadlines and that not only the price should be
+considered as a factor but rather the combination of price and time.
+Andrei Voronkov expresses his interest in reconsidering the choice to
+publish hardcover proceedings with Springer and he mentions that
+Springer is currently facing financial troubles. Reiner Haehnle
+suggests to distinguish between the following two issues: (a) Do we
+want to continue publishing with Springer or do we want to consider
+alternatives?  (b) Do we want hardcover or CD proceedings?  Maria
+Paola Bonacina points out that while non-profit organizations may
+appear interesting alternatives at first look we should be very
+careful about possible lobbying and special interest groups behind
+these alternatives. Andrei Voronkov remarks that it will be very
+important to consider only alternatives that guarantee durability and
+that offer a long term perspective. Reiner Haehnle emphasizes that the
+quality and international standing of publications is an important
+factor, in particular, for young researchers. Hence, any alternative
+we may want to consider should have an excellent standing.  Renate
+Schmidt says that her experience with EasyChair and Springer was
+excellent for this years CADE and that everything went very well.
+
+
+
