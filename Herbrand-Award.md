@@ -76,7 +76,6 @@ President of CADE Inc.
 
 --------
 
-Zohar Manna
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -96,10 +95,10 @@ June, 2016
 Maria Paola Bonacina
 President of CADE Inc.
 
---------
-
 Richard Waldinger
 Acceptance Speech
+
+--------
 
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
@@ -142,10 +141,10 @@ July, 2014
 Maria Paola Bonacina
 President of CADE Inc.
 
---------
-
 Robert Constable
 Acceptance Speech
+
+--------
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -167,7 +166,6 @@ President of CADE Inc.
 
 --------
 
-Greg Nelson
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -187,10 +185,10 @@ June 26, 2012
 Franz Baader
 President of CADE Inc.
 
---------
-
 Melvin Fitting
 Acceptance Speech
+
+--------
 
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
@@ -211,10 +209,10 @@ August 2, 2011
 Franz Baader
 President of CADE Inc.
 
---------
-
 Nachum Dershowitz
 Acceptance Speech
+
+--------
 
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
@@ -235,10 +233,10 @@ July 19, 2010
 Maria Paola Bonacina
 President of CADE Inc.
 
---------
-
 David Plaisted
 Acceptance Speech
+
+--------
 
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
@@ -249,7 +247,6 @@ presented to
 	<br/>
 	<b>Deepak Kapur</b>
 </center>
-
 
 in recognition of of his seminal contributions to several areas of automated deduction including inductive theorem proving, geometry theorem proving, term rewriting, unification theory, integration and combination of decision procedures, lemma and loop invariant generation, as well as his work in computer algebra, which helped to bridge the gap between the two areas.
 presented at
@@ -262,7 +259,6 @@ Vice-president of CADE Inc.
 
 --------
 
-Ed Clarke
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -284,7 +280,6 @@ President of CADE Inc.
 
 --------
 
-Ed Clarke
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -295,7 +290,6 @@ presented to
 	<b>Alan Bundy</b>
 </center>
 
-
 in recognition of his outstanding contributions to proof planning and inductive theorem proving, as well as to many other areas of Automated Reasoning and Artificial Intelligence.
 presented at
 CADE-21
@@ -305,10 +299,11 @@ July 17, 2007
 Franz Baader
 President of CADE Inc.
 
---------
-
 Alan Bundy
 Acceptance Speech
+
+--------
+
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -328,10 +323,10 @@ August 19, 2006
 Franz Baader
 President of CADE Inc.
 
---------
-
 Wolfgang Bibel
 Acceptance Speech
+
+--------
 
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
@@ -342,7 +337,6 @@ presented to
 	<br/>
 	<b>Martin Davis</b>
 </center>
-
 
 in recognition of his role as
 a founding father of the field of automated reasoning;
@@ -359,7 +353,6 @@ President of CADE Inc.
 
 --------
 
-Martin Davis
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -381,7 +374,6 @@ President of CADE Inc.
 
 --------
 
-Harald Ganzinger
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -401,10 +393,10 @@ August 1, 2003
 Ulrich Furbach
 President of CADE Inc.
 
---------
-
 Peter Andrews
 Acceptance Speech
+
+--------
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -426,7 +418,6 @@ President of CADE Inc.
 
 --------
 
-Mark Stickel
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -448,7 +439,6 @@ President of CADE Inc.
 
 --------
 
-Donald Loveland
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -470,7 +460,6 @@ President of CADE Inc.
 
 --------
 
-William McCune
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -492,7 +481,6 @@ President of CADE Inc.
 
 --------
 
-Robert S. Boyer
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -514,7 +502,6 @@ President of CADE Inc.
 
 --------
 
-J Strother Moore
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -536,7 +523,6 @@ President of CADE Inc
 
 --------
 
-Gérard Huet
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -558,7 +544,6 @@ President of CADE Inc
 
 --------
 
-Wen-Tsun Wu
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -601,7 +586,6 @@ President of CADE Inc
 
 --------
 
-Woody Bledsoe
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
@@ -614,4 +598,3 @@ presented to
 
 Larry Wos received the first Herbrand award in automated deduction, presented at the 1992 Conference on Automated Deduction. He was recognized for his contributions to the field, as well as for his leadership in the area of automated reasoning.
 
-Larry Wos
