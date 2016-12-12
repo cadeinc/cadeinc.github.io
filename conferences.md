@@ -32,7 +32,7 @@ CADE is the major international forum at which research on all aspects of automa
 * 2016: See the [IJCAR web pages](http://ijcar.org/conferences)
   - CADE President: Maria Paola Bonacina ([Business meeting slides](Reports/IJCAR-8_MariaPaolaBonacina.pdf))
 
-* [CADE-25](http://www.inf.fu-berlin.de/cade25), Berlin, Germany, 1-7 August 2015.
+* [CADE-25](http://conference.imp.fu-berlin.de/cade-25/), Berlin, Germany, 1-7 August 2015.
   - Program Chairs: Amy Felty, Aart Middeldorp ([Report](Reports/CADE-25_AmyFelty.pdf))
   - Conference Chair: Chris Benzmüller ([Report](Reports/CADE-25_ChrisBenzmueller.pdf))
   - Workshop, tutorial, competition chair: Jasmin Blanchette, Andrew Reynolds
