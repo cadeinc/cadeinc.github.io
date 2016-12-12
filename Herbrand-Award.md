@@ -121,7 +121,6 @@ President of CADE Inc.
 
 --------
 
-Andrei Voronkov
 International Conference on Automated Deduction (CADE)
 Herbrand Award for Distinguished Contributions to Automated Reasoning
 presented to
