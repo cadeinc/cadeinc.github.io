@@ -9,6 +9,8 @@ order : 3
 
 ### Current Trustees
 
+- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (IJCAR 2018 program co-chair)
+
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (President 2016- , elected 2016, reelected 2012, elected 2009)
 
 - [Jasmin Blanchette](http://people.mpi-inf.mpg.de/~jblanche/) (Elected 2016)
