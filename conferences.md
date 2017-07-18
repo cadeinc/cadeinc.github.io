@@ -181,9 +181,9 @@ CADE is the major international forum at which research on all aspects of automa
 
 * CADE-6, New York, USA, 1982 (Springer LNCS 138)
   - Program Chair: Donald W. Loveland
-  - Conference or Local Arrangements Chairs: ?
+  - Conference or Local Arrangements Chairs: Martin Davis
   - Participants: ?
-  - Invited speakers: John McCarthy
+  - Invited speakers: Larry Wos, John McCarthy
 
 * CADE-5, Les Arcs, France, 1980 (Springer LNCS 87)
   - Program Chairs: Wolfgang Bibel, Robert Kowalski
