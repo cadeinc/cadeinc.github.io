@@ -13,6 +13,8 @@ In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions
 
 ### Most Recent Winner
 
+ - [Lawrence C. Paulson](http://www.cl.cam.ac.uk/~lp15/) (2017)
+ - [Zohar Manna](http://theory.stanford.edu/~zm/) and [Richard Waldinger](http://www.ai.sri.com/~waldinge/) (2016)
  - [Zohar Manna](http://theory.stanford.edu/~zm/) and [Richard Waldinger](http://www.ai.sri.com/~waldinge/) (2016)
  - [Andrei Voronkov](http://voronkov.com/) (2015)
  - [Robert L. Constable](http://www.cs.cornell.edu/home/rc/) (2014)
@@ -42,7 +44,7 @@ In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions
 ### Procedure
 
 The Herbrand award procedure (established 1992, amended 2001) has three stages: nomination; advisory voting by trustees, current PC and past winners; and final decision by the trustees. In this procedure, "worthiness" is separated from "ranking". The CADE president is responsible for soliciting opinions and evaluations, and carrying out a vote.
-Nominations for this award can be made at any time to the president of CADE Inc. A nomination should include a letter (up to 2000 words) from a principal nominator describing the nominee's contributions, along with two other letters (up to 2000 words) of endorsement. The nomination of a group of individuals who are collaborators is considered to be a single nomination. Current members of the board of trustees of CADE Inc. are not eligible. Nominations will be kept confidential.
+Nominations for this award can be made at any time to the president of CADE Inc. A nomination should include a letter (up to 2000 words) from a principal nominator describing the nominee's contributions, along with two other letters (up to 2000 words) of endorsement. The nomination of a group of individuals who are collaborators is considered to be a single nomination. Current members of the board of trustees of CADE Inc. (including ex-officio members) are not eligible. Nominations will be kept confidential.
 
 The current conference program committee, the award winners from the last 10 years, and the current board of trustees of CADE, Inc. will participate in the selection, with the final decision resting with the board of trustees. The award will be given at the CADE or IJCAR conference, whichever is scheduled for the year. The selection procedure will work as follows. The members of the current program program committee, winners from the past 10 years, and trustees are invited to express express their opinions on the nominees in two ways:
 
@@ -51,9 +53,29 @@ They give a preferential ranking of all the candidates.
 It is expected that only those receiving an endorsement by a 2/3 majority under vote (1) will be considered by the trustees for the award. A preferred majority candidate will be selected by the single transferrable vote principle using the referential ranking (2).
 After possible further discussion among the trustees, the president of CADE proposes a candidate which should be endorsed in a final vote by 2/3 of the trustees. It is expected that in most cases this should be the majority candidate from the advisory vote.
 
+### Citations
+
 --------
 
-### Citations
+International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+
+<center>
+	<img width="20%" src="./HerbrandPhoto/HerbrandAwardLarryPaulson.jpg">
+	<br/>
+	<b>Lawrence C. Paulson</b>
+</center>
+
+for his pioneering contributions to
+the automation in proof assistants and
+the foundations of formal security protocol verification
+as well as his impressive formalizations of deep mathematical theories.
+
+Presented at CADE-26, The 26th International Conference on Automated Deduction.
+
+Christoph Weidenbach
+President of CADE Inc.
+
+--------
 
 International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
 
@@ -63,7 +85,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Zohar Manna</b>
 </center>
 
-for his pioneering research and pedagogical contributions (with Richard Waldinger) to automated reasoning, program synthesis, planning, and formal methods. Presented at IJCAR 2016 The 8th International Joint Conference on Automated Reasoning June, 2016
+for his pioneering research and pedagogical contributions (with Richard Waldinger) to automated reasoning, program synthesis, planning, and formal methods. 
+
+Presented at IJCAR 2016, The 8th International Joint Conference on Automated Reasoning June, 2016
 
 Maria Paola Bonacina
 President of CADE Inc.
@@ -79,7 +103,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<a href="./Data/HerbrandAwardSlidesWaldinger.pdf">Acceptance Speech</a>
 </center>
 
-for his pioneering research and pedagogical contributions (with Zohar Manna) to automated reasoning, program synthesis, planning, and formal methods. Presented at IJCAR 2016 The 8th International Joint Conference on Automated Reasoning June, 2016
+for his pioneering research and pedagogical contributions (with Zohar Manna) to automated reasoning, program synthesis, planning, and formal methods. 
+
+Presented at IJCAR 2016, The 8th International Joint Conference on Automated Reasoning June, 2016.
 
 Maria Paola Bonacina
 President of CADE Inc.
@@ -94,7 +120,8 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Andrei Voronkov</b>
 </center>
 
-in recognition of his numerous theoretical and practical contributions to automated deduction, and the development of the award-winning Vampire theorem prover. Presented at CADE-25 The 25th International Conference on Automated Deduction August, 2015
+in recognition of his numerous theoretical and practical contributions to automated deduction, and the development of the award-winning Vampire theorem prover. 
+Presented at CADE-25 The 25th International Conference on Automated Deduction August, 2015
 
 Maria Paola Bonacina
 President of CADE Inc.
