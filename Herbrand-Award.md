@@ -121,6 +121,7 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 </center>
 
 in recognition of his numerous theoretical and practical contributions to automated deduction, and the development of the award-winning Vampire theorem prover. 
+
 Presented at CADE-25 The 25th International Conference on Automated Deduction August, 2015
 
 Maria Paola Bonacina
@@ -137,7 +138,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<a href="./Data/HerbrandAwardSlidesConstable.pdf">Acceptance Speech</a>
 </center>
 
-in recognition of his pioneering research in automated reasoning, including his seminal contributions to the foundations of computational type theory, the creation of Nuprl - the first constructive type theory based theorem prover - the development of the correct-by-construction programming paradigm, and their applications to verification and synthesis of computer systems, including distributed computing. Presented at IJCAR 2014 The 7th International Joint Conference on Automated Reasoning July, 2014
+in recognition of his pioneering research in automated reasoning, including his seminal contributions to the foundations of computational type theory, the creation of Nuprl - the first constructive type theory based theorem prover - the development of the correct-by-construction programming paradigm, and their applications to verification and synthesis of computer systems, including distributed computing. 
+
+Presented at IJCAR 2014 The 7th International Joint Conference on Automated Reasoning July, 2014
 
 Maria Paola Bonacina
 President of CADE Inc.
@@ -152,7 +155,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Greg Nelson</b>
 </center>
 
-for his pioneering contributions to theorem proving and program verification, such as his seminal work with Derek Oppen on the combination of satisfiability procedures and fast congruence closure algorithms, the development of the highly influential theorem prover Simplify, and his role in the creation of the field of extended static checking. Presented at CADE-24 The 24th International Conference on Automated Deduction June, 2013
+for his pioneering contributions to theorem proving and program verification, such as his seminal work with Derek Oppen on the combination of satisfiability procedures and fast congruence closure algorithms, the development of the highly influential theorem prover Simplify, and his role in the creation of the field of extended static checking. 
+
+Presented at CADE-24 The 24th International Conference on Automated Deduction June, 2013
 
 Franz Baader
 President of CADE Inc.
@@ -168,7 +173,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<a href="./Data/HerbrandAwardSlidesFitting.pdf">Acceptance Speech</a>
 </center>
 
-in recognition of his outstanding contributions to tableau-based theorem proving in classical and non-classical logics, as well as to many other areas of Automated Reasoning, Logic Programming, and Philosophical Logic. Presented at IJCAR 2012 The 6th International Joint Conference on Automated Reasoning June 26, 2012
+in recognition of his outstanding contributions to tableau-based theorem proving in classical and non-classical logics, as well as to many other areas of Automated Reasoning, Logic Programming, and Philosophical Logic. 
+
+Presented at IJCAR 2012 The 6th International Joint Conference on Automated Reasoning June 26, 2012
 
 Franz Baader
 President of CADE Inc.
@@ -184,7 +191,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<a href="./Data/HerbrandAwardSlidesDershowitz.pdf">Acceptance Speech</a>
 </center>
 
-in recognition of his ground-breaking research on the design and use of well-founded orderings in term rewriting and automated deduction. Presented at CADE 2011 The 23rd International Conference on Automated Deduction August 2, 2011
+in recognition of his ground-breaking research on the design and use of well-founded orderings in term rewriting and automated deduction. 
+
+Presented at CADE 2011 The 23rd International Conference on Automated Deduction August 2, 2011
 
 Franz Baader
 President of CADE Inc.
@@ -200,7 +209,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<a href="./Data/HerbrandAwardSlidesPlaisted.pdf">Acceptance Speech</a>
 </center>
 
-in recognition of his numerous seminal contributions to several areas of automated reasoning, including first-order theorem proving, term rewriting, completion, orderings, inductive reasoning, and pioneering research on abstraction, instance-based methods and search complexity in theorem proving. Presented at IJCAR 2010 The 5th International Joint Conference on Automated Reasoning July 19, 2010
+in recognition of his numerous seminal contributions to several areas of automated reasoning, including first-order theorem proving, term rewriting, completion, orderings, inductive reasoning, and pioneering research on abstraction, instance-based methods and search complexity in theorem proving. 
+
+Presented at IJCAR 2010 The 5th International Joint Conference on Automated Reasoning July 19, 2010
 
 Maria Paola Bonacina
 President of CADE Inc.
@@ -215,7 +226,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Deepak Kapur</b>
 </center>
 
-in recognition of of his seminal contributions to several areas of automated deduction including inductive theorem proving, geometry theorem proving, term rewriting, unification theory, integration and combination of decision procedures, lemma and loop invariant generation, as well as his work in computer algebra, which helped to bridge the gap between the two areas. Presented at CADE-22 The 22nd International Conference on Automated Deduction August 5, 2009
+in recognition of of his seminal contributions to several areas of automated deduction including inductive theorem proving, geometry theorem proving, term rewriting, unification theory, integration and combination of decision procedures, lemma and loop invariant generation, as well as his work in computer algebra, which helped to bridge the gap between the two areas. 
+
+Presented at CADE-22 The 22nd International Conference on Automated Deduction August 5, 2009
 
 Reiner Hähnle
 Vice-president of CADE Inc.
@@ -230,7 +243,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Edmund M. Clarke</b>
 </center>
 
-in recognition of his role in the invention of model checking and his sustained leadership in the area for more than two decades. Presented at IJCAR 2008 The 4th International Joint Conference on Automated Reasoning August 13, 2008
+in recognition of his role in the invention of model checking and his sustained leadership in the area for more than two decades. 
+
+Presented at IJCAR 2008 The 4th International Joint Conference on Automated Reasoning August 13, 2008
 
 Franz Baader
 President of CADE Inc.
@@ -247,7 +262,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 </center>
 
 
-in recognition of his outstanding contributions to proof planning and inductive theorem proving, as well as to many other areas of Automated Reasoning and Artificial Intelligence. Presented at CADE-21 The 21st International Conference on Automated Deduction July 17, 2007
+in recognition of his outstanding contributions to proof planning and inductive theorem proving, as well as to many other areas of Automated Reasoning and Artificial Intelligence. 
+
+Presented at CADE-21 The 21st International Conference on Automated Deduction July 17, 2007
 
 Franz Baader
 President of CADE Inc.
@@ -264,6 +281,8 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 </center>
 
 in recognition of his seminal work on first order theorem proving and its applications in Artificial Intelligence and Programming. His research on the connection method laid the foundations for many modern deduction systems, and it had signifcant influence on other research areas such as Logic Programming, Knowledge Representation, and Deductive Planning.
+
+
 Presented at IJCAR 2006 The International Joint Conference on Automated Reasoning August 19, 2006
 
 Franz Baader
@@ -280,7 +299,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 </center>
 
 
-in recognition of his role as a founding father of the field of automated reasoning; coauthor of both papers that introduce what is now called the Davis-Putnam or Davis-Putnam-Logemann-Loveland procedure, variants of one of the most outstanding and useful proof procedures known today; historian regarding the early history of the field of automated deduction; and his numerous other contribution to the field. Presented at CADE-20 The Twentieth International Conference on Automated Deduction July 26, 2005
+in recognition of his role as a founding father of the field of automated reasoning; coauthor of both papers that introduce what is now called the Davis-Putnam or Davis-Putnam-Logemann-Loveland procedure, variants of one of the most outstanding and useful proof procedures known today; historian regarding the early history of the field of automated deduction; and his numerous other contribution to the field. 
+
+Presented at CADE-20 The Twentieth International Conference on Automated Deduction July 26, 2005
 
 Franz Baader
 President of CADE Inc.
@@ -295,7 +316,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Harald Ganzinger</b>
 </center>
 
-in recognition of his seminal work on the theory underlying modern theorem proving systems; the breadth of his research covering nearly all major areas of deduction, and the depth of his results in each one of them; his effective contributions to the development of systems and implementation techniques; and his dedicated promotion of automated reasoning both inside and outside the community. Presented at IJCAR-2004 The 2nd International Joint Conference on Automated Reasoning July 2004
+in recognition of his seminal work on the theory underlying modern theorem proving systems; the breadth of his research covering nearly all major areas of deduction, and the depth of his results in each one of them; his effective contributions to the development of systems and implementation techniques; and his dedicated promotion of automated reasoning both inside and outside the community. 
+
+Presented at IJCAR-2004 The 2nd International Joint Conference on Automated Reasoning July 2004
 
 Frank Pfenning
 President of CADE Inc.
@@ -342,7 +365,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Donald Loveland</b>
 </center>
 
-for his development of the model elimination procedure, for his contributions to propositional satisfiability testing realized in the Davis-Putman-Logemann-Loveland-Procedure, for his work on the nearHorn-Prolog family of calculi for disjunctive logic programming, and many other contributions to the field of automated reasoning. Presented at
+for his development of the model elimination procedure, for his contributions to propositional satisfiability testing realized in the Davis-Putman-Logemann-Loveland-Procedure, for his work on the nearHorn-Prolog family of calculi for disjunctive logic programming, and many other contributions to the field of automated reasoning. 
+
+Presented at
 IJCAR-2001 The First International Joint Conference on Automated Reasoning June 19, 2001
 
 Ulrich Furbach
@@ -358,7 +383,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>William W. McCune</b>
 </center>
 
-for his development of powerful and portable automated deduction tools, including ITP, LMA, OTTER, ROO, MACE and EQP, and for creative new strategies and rules associated with them. His solution of the Robbins Algebra problem using EQP has brought visibility and distinction to the field. Presented at CADE-17 The Seventeenth International Conference on Automated Deduction June 18, 2000
+for his development of powerful and portable automated deduction tools, including ITP, LMA, OTTER, ROO, MACE and EQP, and for creative new strategies and rules associated with them. His solution of the Robbins Algebra problem using EQP has brought visibility and distinction to the field. 
+
+Presented at CADE-17 The Seventeenth International Conference on Automated Deduction June 18, 2000
 
 Ulrich Furbach
 President of CADE Inc.
@@ -373,7 +400,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Robert S. Boyer</b>
 </center>
 
-for his work (with J Strother Moore) on the automation of inductive inference and its application to the verification of hardware and software. Presented at CADE-16 The Sixteenth International Conference on Automated Deduction July 7, 1999
+for his work (with J Strother Moore) on the automation of inductive inference and its application to the verification of hardware and software. 
+
+Presented at CADE-16 The Sixteenth International Conference on Automated Deduction July 7, 1999
 
 John Slaney
 President of CADE Inc.
@@ -388,7 +417,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>J Strother Moore</b>
 </center>
 
-for his work (with Robert S. Boyer) on the automation of inductive inference and its application to the verification of hardware and software. Presented at CADE-16 The Sixteenth International Conference on Automated Deduction July 7, 1999
+for his work (with Robert S. Boyer) on the automation of inductive inference and its application to the verification of hardware and software. 
+
+Presented at CADE-16 The Sixteenth International Conference on Automated Deduction July 7, 1999
 
 John Slaney
 President of CADE Inc.
@@ -403,7 +434,9 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 	<b>Gérard Huet</b>
 </center>
 
-for his contributions to term rewriting and to theorem proving in higher-order logic, and many other contributions to the field of automated reasoning. Presented at CADE-15 The 15-th International Conference on Automated Deduction July, 1998
+for his contributions to term rewriting and to theorem proving in higher-order logic, and many other contributions to the field of automated reasoning. 
+
+Presented at CADE-15 The 15-th International Conference on Automated Deduction July, 1998
 
 John Slaney
 President of CADE Inc
@@ -419,6 +452,8 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 </center>
 
 for groundbreaking work in geometric theorem proving and many other contributions to the field of automated reasoning.
+
+
 Presented at CADE-14 The 14-th International Conference on Automated Deduction July, 1997
 
 John Slaney
@@ -451,6 +486,8 @@ International Conference on Automated Deduction (CADE) Herbrand Award for Distin
 </center>
 
 for his numerous contributions to the field of Automated Deduction including natural proof systems, interactive systems, decision procedures, analogical reasoning and applications to set theory, analysis and program verification.
+
+
 Presented at CADE-12 The Twelfth International Conference on Automated Deduction June/July, 1994
 
 Larry Wos
