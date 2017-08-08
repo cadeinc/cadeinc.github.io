@@ -15,9 +15,7 @@ In 2014 CADE Inc. established the Thoralf Skolem Award to reward a CADE paper th
 * CADE-14 (1997): Hantao Zhang - SATO: An Efficient Propositional Prover.
 * CADE-9 (1988): Alan Bundy - The Use of Explicit Plans to Guide Inductive Proofs.
 * CADE-8 (1986): Leo Bachmair and Nachum Dershowitz - Commutation, Transformation, and Termination.
-* CADE-2 (1976) and CADE-3 (1977) considered jointly: Zohar Manna and Richard Waldinger - The Automatic Synthesis of Recursive Programs.
- which was a landmark in the development of foundations for research in
- deductive program synthesis
+* CADE-2 (1976) and CADE-3 (1977) considered jointly: Zohar Manna and Richard Waldinger - The Automatic Synthesis of Recursive Programs. (presented at CADE-3).
 * CADE-0 (1968) and CADE-1 (1975) considered jointly: Nicolaas Govert de Bruijn - The Mathematical Language AUTOMATH, its Usage, and Some of its Extensions (presented at CADE-0).
 
 ------------------------
@@ -50,7 +48,7 @@ presented to
 
 for the paper "Efficient E-Matching for SMT Solvers" published in the CADE-21 proceedings in 2001. The paper is recognized for proposing efficient new techniques which have importantly advanced the state of the art in quantifier reasoning for SMT.
 
-presented at
+Presented at
 CADE-26
 The 26th International Conference on Automated Deduction
 August, 2017
@@ -69,7 +67,8 @@ presented to:
 **Christian Urban and Christine Tasson**
 
 for the paper "Nominal techniques in Isabelle/HOL" published in the CADE-20 proceedings in 2005. The paper is recognized as being the first to show how to use nominal techniques to deal with bound variables in higher order theorem provers.
-presented at
+
+Presented at
 CADE-25
 The 25th International Conference on Automated Deduction
 August, 2015
@@ -89,7 +88,7 @@ presented to
 
 for the paper "On Generating Small Clause Normal Forms" published in the CADE-15 proceedings in 1998. The paper is recognized for recognizing the importance of clause normal form transformation in effective clause-based ATP, and developing foundational techniques that are now used in state-of-the-art ATP systems.
 
-presented at
+Presented at
 CADE-26
 The 26th International Conference on Automated Deduction
 August, 2017
@@ -108,7 +107,8 @@ presented to
 **Hantao Zhang**
 
 for the paper "SATO: An Efficient Propositional Prover" published in the CADE-14 proceedings in 1997. The paper is recognized for its seminal contribution to the design and implementation of novel techniques, including lazy data structures and clever Boolean constraint propagation that caused a step change in the area and deeply influenced later systems.
-presented at
+
+Presented at
 CADE-25
 The 25th International Conference on Automated Deduction
 August, 2015
@@ -128,7 +128,7 @@ presented to
 
 for the paper "The Use of Explicit Plans to Guide Inductive Proofs" published in the CADE-9 proceedings in 1988. The paper is recognized as introducing proof planning, inspiring and establishing the research programme as one of the key paradigms of automated reasoning.
 
-presented at
+Presented at
 CADE-26
 The 26th International Conference on Automated Deduction
 August, 2017
@@ -147,7 +147,8 @@ presented to
 **Leo Bachmair and Nachum Dershowitz**
 
 for the paper "Commutation, Transformation, and Termination" published in the CADE-8 proceedings in 1986. The paper is recognized as laying the foundations of today's termination theorem proving techniques.
-presented at
+
+Presented at
 CADE-25
 The 25th International Conference on Automated Deduction
 August, 2015
@@ -167,7 +168,7 @@ presented to
 
 for the paper "The Automatic Synthesis of Recursive Programs" published in the CADE-3 proceedings in 1977. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
 
-presented at
+Presented at
 CADE-26
 The 26th International Conference on Automated Deduction
 August, 2017
@@ -186,7 +187,8 @@ presented to
 **Nicolaas Govert de Bruijn**
 
 for the paper "The Mathematical Language AUTOMATH, its Usage, and Some of its Extensions" published in the CADE-0 proceedings in 1968. The paper is recognized for the landmark and remarkable contribution to the design and implementation of higher-order theorem provers.
-presented at
+
+Presented at
 CADE-25
 The 25th International Conference on Automated Deduction
 August, 2015
