@@ -9,11 +9,12 @@ At every CADE conference the Program Committee selects one of the accepted paper
 
 ### Recipients
 
- * 8th IJCAR (2016): Jasmin Christian Blanchette, Mathias Fleury, and Christoph Weidenbach. A Verified SAT Solver Framework with Learn, Forget, Restart, and Incrementality
- * CADE-25 (2015): Vijay D`Silva and Caterina Urban. Abstract Interpretation as Automated Deduction.
- * 7th IJCAR (2014): Aleksandar Zeljic, Christoph M. Wintersteiger, and Philipp Rümmer. Approximations for Model Construction
- * CADE-24 (2013): Radu Iosif, Adam Rogalewicz, and Jiri Simacek. The Tree Width of Separation Logic with Recursive Definitions.
- * 2nd IJCAR (2004): Ting Zhang, Henny Sipma, Zohar Manna. Decision Procedures for Recursive Data Structures with Integer Constraints
- * 1st IJCAR (2001): Carsten Lutz. NExpTime-Complete Description Logics with Concrete Domains
- * CADE-16 (1999): Stephan Tobies. A PSpace Algorithm for Graded Modal Logics
- * CADE-8 (1986): Norbert Eisinger. What You Always Wanted to Know About Clause Graph Resolution
+ * CADE-26 (2017): Marijn Heule, Benjamin Kiesl and Armin Biere - Short Proofs without New Variables. Benjamin Kiesl and Martin Suda - A Unifying Principle for Clause Elimination in First-Order Logic.
+ * 8th IJCAR (2016): Jasmin Christian Blanchette, Mathias Fleury, and Christoph Weidenbach - A Verified SAT Solver Framework with Learn, Forget, Restart, and Incrementality.
+ * CADE-25 (2015): Vijay D`Silva and Caterina Urban - Abstract Interpretation as Automated Deduction.
+ * 7th IJCAR (2014): Aleksandar Zeljic, Christoph Wintersteiger, and Philipp Rümmer - Approximations for Model Construction.
+ * CADE-24 (2013): Radu Iosif, Adam Rogalewicz, and Jiri Simacek - The Tree Width of Separation Logic with Recursive Definitions.
+ * 2nd IJCAR (2004): Ting Zhang, Henny Sipma, Zohar Manna - Decision Procedures for Recursive Data Structures with Integer Constraints.
+ * 1st IJCAR (2001): Carsten Lutz - NExpTime-Complete Description Logics with Concrete Domains.
+ * CADE-16 (1999): Stephan Tobies - A PSpace Algorithm for Graded Modal Logics.
+ * CADE-8 (1986): Norbert Eisinger - What You Always Wanted to Know About Clause Graph Resolution.

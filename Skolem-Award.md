@@ -9,10 +9,16 @@ In 2014 CADE Inc. established the Thoralf Skolem Award to reward a CADE paper th
 
 ### Recipients
 
-* CADE-20 (2005): Christian Urban and Christine Tasson. Nominal Techniques in Isabelle/HOL.
-* CADE-14 (1997): Hantao Zhang. SATO: An Efficient Propositional Prover.
-* CADE-8 (1986): Leo Bachmair and Nachum Dershowitz. Commutation, Transformation, and Termination.
-* CADE-0 (1968) and CADE-1 (1975) considered jointly: Nicolaas Govert de Bruijn. The Mathematical Language AUTOMATH, its Usage, and Some of its Extensions (presented at CADE-0).
+* CADE-21 (2007): Leonardo de Moura and Nikolaj Bj&oslash;rner - Efficient E-Matching for SMT Solvers.
+* CADE-20 (2005): Christian Urban and Christine Tasson - Nominal Techniques in Isabelle/HOL.
+* CADE-15 (1998): Andreas Nonengart, Georg Rock and Christoph Weidenbach - On Generating Small Clause Normal Forms.
+* CADE-14 (1997): Hantao Zhang - SATO: An Efficient Propositional Prover.
+* CADE-9 (1988): Alan Bundy - The Use of Explicit Plans to Guide Inductive Proofs.
+* CADE-8 (1986): Leo Bachmair and Nachum Dershowitz - Commutation, Transformation, and Termination.
+* CADE-2 (1976) and CADE-3 (1977) considered jointly: Zohar Manna and Richard Waldinger - The Automatic Synthesis of Recursive Programs.
+ which was a landmark in the development of foundations for research in
+ deductive program synthesis
+* CADE-0 (1968) and CADE-1 (1975) considered jointly: Nicolaas Govert de Bruijn - The Mathematical Language AUTOMATH, its Usage, and Some of its Extensions (presented at CADE-0).
 
 ------------------------
 
@@ -33,6 +39,26 @@ In order to cover the entire history of CADE, beginning with CADE-25 (2015), in 
 ------------------------
 
 ### Citations
+
+------------------------
+
+International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+presented to
+
+**Leonardo de Moura and Nikolaj Bj&oslash;rner**
+
+for the paper "Efficient E-Matching for SMT Solvers" published in the CADE-21 proceedings in 2001. The paper is recognized for proposing efficient new techniques which have importantly advanced the state of the art in quantifier reasoning for SMT.
+
+presented at
+CADE-26
+The 26th International Conference on Automated Deduction
+August, 2017
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, Neil Murray, Renate Schmidt, Aaron Stump, Geoff Suttcliffe, Toby Walsh.
 
 ------------------------
 
@@ -59,6 +85,26 @@ International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
+**Andreas Nonengart, Georg Rock and Christoph Weidenbach**
+
+for the paper "On Generating Small Clause Normal Forms" published in the CADE-15 proceedings in 1998. The paper is recognized for recognizing the importance of clause normal form transformation in effective clause-based ATP, and developing foundational techniques that are now used in state-of-the-art ATP systems.
+
+presented at
+CADE-26
+The 26th International Conference on Automated Deduction
+August, 2017
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, Neil Murray, Renate Schmidt, Aaron Stump, Geoff Suttcliffe, Toby Walsh.
+
+------------------------
+
+International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+presented to
+
 **Hantao Zhang**
 
 for the paper "SATO: An Efficient Propositional Prover" published in the CADE-14 proceedings in 1997. The paper is recognized for its seminal contribution to the design and implementation of novel techniques, including lazy data structures and clever Boolean constraint propagation that caused a step change in the area and deeply influenced later systems.
@@ -78,6 +124,26 @@ International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
+**Alan Bundy**
+
+for the paper "The Use of Explicit Plans to Guide Inductive Proofs" published in the CADE-9 proceedings in 1988. The paper is recognized as introducing proof planning, inspiring and establishing the research programme as one of the key paradigms of automated reasoning.
+
+presented at
+CADE-26
+The 26th International Conference on Automated Deduction
+August, 2017
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, Neil Murray, Renate Schmidt, Aaron Stump, Geoff Suttcliffe, Toby Walsh.
+
+------------------------
+
+International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+presented to
+
 **Leo Bachmair and Nachum Dershowitz**
 
 for the paper "Commutation, Transformation, and Termination" published in the CADE-8 proceedings in 1986. The paper is recognized as laying the foundations of today's termination theorem proving techniques.
@@ -90,6 +156,26 @@ Maria Paola Bonacina
 President of CADE Inc.
 
 The Skolem Award Committee consisted of Claude Kirchner (chair), Alessandro Armando, Gilles Barthe, Christopher Lynch, Leonardo de Moura, Uli Sattler, Geoff Sutcliffe, Toby Walsh, Christoph Weidenbach.
+
+------------------------
+
+International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+presented to
+
+**Zohar Manna and Richard Waldinger**
+
+for the paper "The Automatic Synthesis of Recursive Programs" published in the CADE-3 proceedings in 1977. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+
+presented at
+CADE-26
+The 26th International Conference on Automated Deduction
+August, 2017
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, Neil Murray, Renate Schmidt, Aaron Stump, Geoff Suttcliffe, Toby Walsh.
 
 ------------------------
 
