@@ -11,7 +11,7 @@ In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions
 
 <img style="float: right;" width="60%" src="./HerbrandPhoto/HerbrandAwardMannaWaldinger.jpg">
 
-### Most Recent Winner
+### Winners
 
  - [Lawrence C. Paulson](http://www.cl.cam.ac.uk/~lp15/) (2017)
  - [Zohar Manna](http://theory.stanford.edu/~zm/) and [Richard Waldinger](http://www.ai.sri.com/~waldinge/) (2016)
@@ -44,7 +44,7 @@ In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions
 ### Procedure
 
 The Herbrand award procedure (established 1992, amended 2001) has three stages: nomination; advisory voting by trustees, current PC and past winners; and final decision by the trustees. In this procedure, "worthiness" is separated from "ranking". The CADE president is responsible for soliciting opinions and evaluations, and carrying out a vote.
-Nominations for this award can be made at any time to the president of CADE Inc. A nomination should include a letter (up to 2000 words) from a principal nominator describing the nominee's contributions, along with two other letters (up to 2000 words) of endorsement. The nomination of a group of individuals who are collaborators is considered to be a single nomination. Current members of the board of trustees of CADE Inc. (including ex-officio members) are not eligible. Nominations will be kept confidential.
+Nominations for this award can be made at any time to the president of CADE Inc. A nomination should include a letter (up to 2000 words) from a principal nominator describing the nominee's contributions, along with two other letters (up to 2000 words) of endorsement.  Current members of the board of trustees of CADE Inc. (including ex-officio members) are not eligible.  The nomination of a group of individuals who are collaborators is considered to be a single nomination, but all members of the group must be eligible.  Nominations will be kept confidential.
 
 The current conference program committee, the award winners from the last 10 years, and the current board of trustees of CADE, Inc. will participate in the selection, with the final decision resting with the board of trustees. The award will be given at the CADE or IJCAR conference, whichever is scheduled for the year. The selection procedure will work as follows. The members of the current program program committee, winners from the past 10 years, and trustees are invited to express express their opinions on the nominees in two ways:
 
