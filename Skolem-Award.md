@@ -11,7 +11,7 @@ In 2014 CADE Inc. established the Thoralf Skolem Award to reward a CADE paper th
 
 * CADE-21 (2007): Leonardo de Moura and Nikolaj Bj&oslash;rner - Efficient E-Matching for SMT Solvers.
 * CADE-20 (2005): Christian Urban and Christine Tasson - Nominal Techniques in Isabelle/HOL.
-* CADE-15 (1998): Andreas Nonengart, Georg Rock and Christoph Weidenbach - On Generating Small Clause Normal Forms.
+* CADE-15 (1998): Andreas Nonnengart, Georg Rock and Christoph Weidenbach - On Generating Small Clause Normal Forms.
 * CADE-14 (1997): Hantao Zhang - SATO: An Efficient Propositional Prover.
 * CADE-9 (1988): Alan Bundy - The Use of Explicit Plans to Guide Inductive Proofs.
 * CADE-8 (1986): Leo Bachmair and Nachum Dershowitz - Commutation, Transformation, and Termination.
@@ -84,7 +84,7 @@ International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
-**Andreas Nonengart, Georg Rock and Christoph Weidenbach**
+**Andreas Nonnengart, Georg Rock and Christoph Weidenbach**
 
 for the paper "On Generating Small Clause Normal Forms" published in the CADE-15 proceedings in 1998. The paper is recognized for recognizing the importance of clause normal form transformation in effective clause-based ATP, and developing foundational techniques that are now used in state-of-the-art ATP systems.
 
