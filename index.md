@@ -11,7 +11,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
-	<a href="http://cade-26.info" target="_top">CADE-26 Gothenburg, Sweden, 6-11 August 2017</a>
+	<a href="http://ijcar2018.org" target="_top">9th IJCAR, Oxford, England, 14-17 July 2018</a>
 </div>
 
 -----

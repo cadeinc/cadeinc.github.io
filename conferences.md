@@ -27,8 +27,8 @@ CADE is the major international forum at which research on all aspects of automa
   - Program Chair: Leonardo de Moura ([Report](Reports/CADE-25_LeoDeMoura.pdf))
   - Conference Chairs: Moa Johansson, Wolfgang Ahrendt ([Report](Reports/CADE-25_WolfgangAhrendt.pdf))
   - Workshop, tutorial, competition chair: Philipp R&uuml;mmer
-  - Submissions: ?? papers + ?? system descriptions = ??<BR> 
-    Accepted: ?? papers + ?? system descriptions = ??
+  - Submissions: 58 papers + 11 system descriptions = 69<BR> 
+    Accepted: 26 papers + 5 system descriptions = 31
   - ?? attendees, ?? regular, ?? student. ?? workshop registrations
   - Invited speakers: June Andronick, Philippa Gardner, Grant Passmore
   - Trustee president's [report](Reports/CADE-26_ChristophWeidenbach.pdf) and the [treasurer's report](Reports/CADE-26_NeilMurray.pdf).
