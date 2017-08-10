@@ -15,12 +15,6 @@ CADE is the major international forum at which research on all aspects of automa
 
 * 2018: See the [IJCAR web pages](http://ijcar.org/conferences)
 
-* [CADE-26](http://www.cade-26.info/), Gothenburg, Sweden, August 2017.
-  - Program Chair: Leonardo de Moura
-  - Conference Chairs: Moa Johansson, Wolfgang Ahrendt
-  - Workshop, tutorial, competition chair: TBA
-  - CADE/IJCAR Management
-
 ### CADE/IJCAR Management
 
 - [Conference management notes and schedule](Schedule)
@@ -29,6 +23,16 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Previous Conferences
 
+* [CADE-26](http://www.cade-26.info/), Gothenburg, Sweden, August 2017.
+  - Program Chair: Leonardo de Moura ([Report](Reports/CADE-25_LeoDeMoura.pdf))
+  - Conference Chairs: Moa Johansson, Wolfgang Ahrendt ([Report](Reports/CADE-25_WolfgangAhrendt.pdf))
+  - Workshop, tutorial, competition chair: Philipp R&uuml;mmer
+  - Submissions: ?? papers + ?? system descriptions = ??<BR> 
+    Accepted: ?? papers + ?? system descriptions = ??
+  - ?? attendees, ?? regular, ?? student. ?? workshop registrations
+  - Invited speakers: June Andronick, Philippa Gardner, Grant Passmore
+  - Trustee president's [report](Reports/CADE-26_ChristophWeidenbach.pdf) and the [treasurer's report](Reports/CADE-26_NeilMurray.pdf).
+
 * 2016: See the [IJCAR web pages](http://ijcar.org/conferences)
   - CADE President: Maria Paola Bonacina ([Business meeting slides](Reports/IJCAR-8_MariaPaolaBonacina.pdf))
 
@@ -36,7 +40,8 @@ CADE is the major international forum at which research on all aspects of automa
   - Program Chairs: Amy Felty, Aart Middeldorp ([Report](Reports/CADE-25_AmyFelty.pdf))
   - Conference Chair: Chris Benzmüller ([Report](Reports/CADE-25_ChrisBenzmueller.pdf))
   - Workshop, tutorial, competition chair: Jasmin Blanchette, Andrew Reynolds
-  - Submissions: 71 papers + 14 system descriptions = 84BR> Accepted: 24 papers + 12 system descriptions = 36
+  - Submissions: 71 papers + 14 system descriptions = 84<BR> 
+    Accepted: 24 papers + 12 system descriptions = 36
   - 204 attendees, 125 regular, 40 student. 146 workshop registrations
   - Invited speakers: Ulrich Furbach, Michael Genesereth (joint with RuleML), Edward Zalta
   - Jubilee Session Speakers: Ursula Martin, Frank Pfenning, David Plaisted, Andrei Voronkov
