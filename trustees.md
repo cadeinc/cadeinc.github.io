@@ -39,6 +39,8 @@ order : 3
 
   trustees@cadeinc.org
 
+#### [Trustees' documents] (TrusteesDocs)
+
 ### Previous Trustees
 
 - [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) (IJCAR 2016 program co-chair)
