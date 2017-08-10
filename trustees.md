@@ -39,7 +39,9 @@ order : 3
 
   trustees@cadeinc.org
 
-#### [Trustees' documents] (TrusteesDocs)
+#### Trustees' documents 
+
+- [Password Protected] (TrusteesDocs)
 
 ### Previous Trustees
 
