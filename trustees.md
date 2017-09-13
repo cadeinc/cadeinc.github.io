@@ -19,8 +19,6 @@ order : 3
 
 - [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Elected 2016, vice-president 2011-2015, reelected 2012, elected 2009, CADE-22 program chair)
 
-- [Leonardo de Moura](http://leodemoura.github.io/) (CADE-26 program co-chair)
-
 - [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Elected 2015)
 
 - [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) (Vice-president 2015-, elected 2015, term expired 2011, elected 2008)
@@ -45,6 +43,7 @@ order : 3
 
 ### Previous Trustees
 
+- [Leonardo de Moura](http://leodemoura.github.io/) (CADE-26 program co-chair)
 - [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) (IJCAR 2016 program co-chair)
 - [Larry Paulson](http://www.cl.cam.ac.uk/~lp15/) (Reelected 2013, elected 2010)
 - [Peter Baumgartner](http://users.rsise.anu.edu.au/~baumgart/) (Elected 2013, term expired 11/2009, reelected 11/2006, elected 10/2003)
