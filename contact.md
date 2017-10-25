@@ -10,10 +10,9 @@ order : 5
 #### CADE Inc. principal office:
 
     c/o Professor Neil V. Murray
-    Institute for Informatics, Logics, & Security Studies
-    Department of Computer Science UAB 400
+    Emeritus Center, UAB 134
     University at Albany - SUNY
-    1215 Western Avenue
+    1400 Washington Avenue
     Albany, NY 12222, USA
 
 #### Secretary's email (primary contact):
