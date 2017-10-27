@@ -13,6 +13,8 @@ order : 3
 
 - [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Elected 2017)
 
+- [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) Reelected 2017, eElected 2014, IJCAR 2010 program co-chair)
+
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (IJCAR 2018 program co-chair)
 
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (President 2016- , elected 2016, reelected 2012, elected 2009)
@@ -26,8 +28,6 @@ order : 3
 - [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Elected 2015)
 
 - [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) (Vice-president 2015-, elected 2015, term expired 2011, elected 2008)
-
-- [Jürgen Giesl](http://verify.rwth-aachen.de/giesl/) (Elected 2014, IJCAR 2010 program co-chair)
 
 - [Martin Giese](http://heim.ifi.uio.no/martingi/) (Secretary 2010-)
 
