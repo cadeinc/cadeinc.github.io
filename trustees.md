@@ -13,7 +13,7 @@ order : 3
 
 - [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Elected 2017)
 
-- [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) (Reelected 2017, Elected 2014, IJCAR 2010 program co-chair)
+- [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) (Reelected 2017, elected 2014, IJCAR 2010 program co-chair)
 
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (IJCAR 2018 program co-chair)
 
