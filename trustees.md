@@ -9,6 +9,10 @@ order : 3
 
 ### Current Trustees
 
+- [Marijn Heule](http://www.cs.utexas.edu/~marijn/) (Elected 2017)
+
+- [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Elected 2017)
+
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (IJCAR 2018 program co-chair)
 
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (President 2016- , elected 2016, reelected 2012, elected 2009)
@@ -22,10 +26,6 @@ order : 3
 - [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Elected 2015)
 
 - [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) (Vice-president 2015-, elected 2015, term expired 2011, elected 2008)
-
-- [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/) (Relected 2014, elected 2011, term expired 2010, reelected 2007, elected 2004)
-
-- [Pascal Fontaine](http://www.loria.fr/~fontaine/) (Elected 2014)
 
 - [Jürgen Giesl](http://verify.rwth-aachen.de/giesl/) (Elected 2014, IJCAR 2010 program co-chair)
 
@@ -42,6 +42,10 @@ order : 3
 - <A HREF="http://www.cs.miami.edu/home/geoff/Conferences/CADEPrivate/">Trustees' Private Area</A>
 
 ### Previous Trustees
+
+- [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/) (Term expired 2017, rrelected 2014, elected 2011, term expired 2010, reelected 2007, elected 2004)
+
+- [Pascal Fontaine](http://www.loria.fr/~fontaine/) (Term expired 2017, elected 2014)
 
 - [Leonardo de Moura](http://leodemoura.github.io/) (CADE-26 program co-chair)
 - [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) (IJCAR 2016 program co-chair)
