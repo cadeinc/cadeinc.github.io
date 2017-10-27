@@ -44,9 +44,7 @@ order : 3
 ### Previous Trustees
 
 - [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/) (Term expired 2017, rrelected 2014, elected 2011, term expired 2010, reelected 2007, elected 2004)
-
 - [Pascal Fontaine](http://www.loria.fr/~fontaine/) (Term expired 2017, elected 2014)
-
 - [Leonardo de Moura](http://leodemoura.github.io/) (CADE-26 program co-chair)
 - [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) (IJCAR 2016 program co-chair)
 - [Larry Paulson](http://www.cl.cam.ac.uk/~lp15/) (Reelected 2013, elected 2010)
