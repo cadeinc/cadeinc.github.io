@@ -13,6 +13,16 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Future Conferences
 
+* [CADE-27](http://www.cade-27.info/), Natal, Brasil, Month 2018.
+  - Program Chair: 
+  - Conference Chairs: 
+  - Workshop, tutorial, competition chair: 
+  - Submissions: ?? papers + ?? system descriptions = ??<BR> 
+    Accepted: ?? papers + ?? system descriptions = ??
+  - ?? attendees, ?? regular, ?? student. ?? workshop registrations
+  - Invited speakers: 
+  - Trustee president's [report]() and the [treasurer's report]().
+
 * 2018: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 ### CADE/IJCAR Management
