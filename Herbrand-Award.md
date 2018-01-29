@@ -15,7 +15,6 @@ In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions
 
  - [Lawrence C. Paulson](http://www.cl.cam.ac.uk/~lp15/) (2017)
  - [Zohar Manna](http://theory.stanford.edu/~zm/) and [Richard Waldinger](http://www.ai.sri.com/~waldinge/) (2016)
- - [Zohar Manna](http://theory.stanford.edu/~zm/) and [Richard Waldinger](http://www.ai.sri.com/~waldinge/) (2016)
  - [Andrei Voronkov](http://voronkov.com/) (2015)
  - [Robert L. Constable](http://www.cs.cornell.edu/home/rc/) (2014)
  - Greg Nelson (2013)
