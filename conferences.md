@@ -13,8 +13,8 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Future Conferences
 
-* [CADE-27](http://www.cade-27.info/), Natal, Brasil, Month 2018.
-  - Program Chair: 
+* [CADE-27](http://www.cade-27.info/), Natal, Brasil, August 2018.
+  - Program Chair: Pascal Fontaine
   - Conference Chairs: Elaine Pimentel
   - Workshop, tutorial, competition chair: 
   - Submissions: ?? papers + ?? system descriptions = ??<BR> 
