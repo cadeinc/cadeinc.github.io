@@ -33,7 +33,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Previous Conferences
 
-* [CADE-26](http://www.cade-26.info/), Gothenburg, Sweden, August 2017.
+* [CADE-26](http://www.cse.chalmers.se/~myreen/cade-26/index.html), Gothenburg, Sweden, August 2017.
   - Program Chair: Leonardo de Moura ([Report](Reports/CADE-26_LeoDeMoura.pdf))
   - Conference Chairs: Moa Johansson, Wolfgang Ahrendt ([Report](Reports/CADE-26_WolfgangAhrendt.pdf))
   - Workshop, tutorial, competition chair: Philipp R&uuml;mmer
