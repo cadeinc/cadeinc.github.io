@@ -31,7 +31,7 @@ order : 3
 
 - [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) (Vice-president 2015-. Elected 2015. Term expired 2011. Elected 2008)
 
-- [Martin Giese](http://heim.ifi.uio.no/martingi/) (Secretary 2010-)
+- [Philipp R&uuml;mmer](http://www.philipp.ruemmer.org) (Secretary 2018-)
 
 - [Neil Murray](http://www.cs.albany.edu/~nvm/) (Treasurer 1992-. Secretary 1992-1999)
 
@@ -45,6 +45,7 @@ order : 3
 
 ### Previous Trustees
 
+- [Martin Giese](http://heim.ifi.uio.no/martingi/) (Secretary 2010-2018)
 - [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/) (Term expired 2017. Reelected 2014. Elected 2011. Term expired 2010. Reelected 2007. Elected 2004)
 - [Leonardo de Moura](http://leodemoura.github.io/) (CADE-26 program co-chair)
 - [Ashish Tiwari](http://www.csl.sri.com/users/tiwari/) (IJCAR 2016 program co-chair)
