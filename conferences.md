@@ -219,28 +219,19 @@ CADE is the major international forum at which research on all aspects of automa
   - Participants: ?
   - Invited speakers: ?
 
-* CADE-2, Oberwolfach, Germany, 1976 
-  ([Oberwolfach Digital Archive]
-   (http://oda.mfo.de/view/bsz325106819.html), 
-   abstracts in 
-   [Book of abstracts 32, Tagung 05]
-    (http://oda.mfo.de/view/bsz325107211.html))
+* CADE-2, Oberwolfach, Germany, 1976 ([Oberwolfach Digital Archive](http://oda.mfo.de/view/bsz325106819.html), abstracts in [Book of abstracts 32, Tagung 05](http://oda.mfo.de/view/bsz325107211.html))
   - Program Chairs: Woody Bledsoe, Michael Richter
   - Local Arrangements Chairs: Michael Richter
   - Participants: 35
   - Invited speakers: 28
 
-* CADE-1 - IEEE Workshop on Automated Theorem Proving, Argonne, USA, 1975 
-  ([IEEE Transactions on Computers C-25(8)]
-   (https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=35150))
+* CADE-1 - IEEE Workshop on Automated Theorem Proving, Argonne, USA, 1975 ([IEEE Transactions on Computers C-25(8)](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=35150))
   - Program Chair: Larry Henschen
   - Local Arrangements Chairs: Larry Wos
   - Participants: 50
   - Invited speakers: J.R. Slagle
 
-* "CADE-0" - Symposium on Automatic Demonstration, Rocquencourt, France, 1968 
-   ([Lecture Notes in Mathematics 125]
-    (http://ftp.math.utah.edu/pub/tex/bib/toc/lnm1970.html#125():1970))
+* "CADE-0" - Symposium on Automatic Demonstration, Rocquencourt, France, 1968 ([Lecture Notes in Mathematics 125](http://ftp.math.utah.edu/pub/tex/bib/toc/lnm1970.html#125():1970))
   - Program Chairs: Michel Laudet, D. Lacombe, L. Nolin, Marcel-Paul Schützenberger
   - Local Arrangements Chairs: Marcel-Paul Schützenberger
   - Participants: ?
