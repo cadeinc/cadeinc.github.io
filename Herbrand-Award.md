@@ -13,6 +13,7 @@ In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions
 
 ### Winners
 
+ - [Bruno Buchberger](http://www.risc.jku.at/people/buchberger/) (2018)
  - [Lawrence C. Paulson](http://www.cl.cam.ac.uk/~lp15/) (2017)
  - [Zohar Manna](http://theory.stanford.edu/~zm/) and [Richard Waldinger](http://www.ai.sri.com/~waldinge/) (2016)
  - [Andrei Voronkov](http://voronkov.com/) (2015)
