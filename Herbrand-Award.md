@@ -60,7 +60,7 @@ After possible further discussion among the trustees, the president of CADE prop
 The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
 
 <center>
-	<img width="20%" src="./HerbrandPhoto/HerbrandAwardBrunoBuchberger.jpg">
+	<img width="33%" src="./HerbrandPhoto/HerbrandAwardBrunoBuchberger.jpg">
 	<br/>
 	<b>Bruno Buchberger</b>
 </center>
