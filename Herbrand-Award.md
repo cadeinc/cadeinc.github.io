@@ -65,6 +65,10 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<b>Bruno Buchberger</b>
 </center>
 
+for the invention, implementation, and analysis of the Gr&ouml;bner-basis 
+method, resulting in the reshaping of symbolic computation towards 
+comprehensive and widely applicable tools.
+
 Presented at IJCAR 2018, the 9th International Joint Conference on Automated Reasoning July, 2018.
 
 Christoph Weidenbach
