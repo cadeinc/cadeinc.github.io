@@ -17,8 +17,6 @@ order : 3
 
 - [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) (Reelected 2017. Elected 2014. IJCAR 2010 program co-chair)
 
-- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (IJCAR 2018 program co-chair)
-
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (President 2016- . Elected 2016. Reelected 2012. Elected 2009)
 
 - [Jasmin Blanchette](http://people.mpi-inf.mpg.de/~jblanche/) (Elected 2016)
@@ -45,6 +43,7 @@ order : 3
 
 ### Previous Trustees
 
+- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (IJCAR 2018 program co-chair)
 - [Martin Giese](http://heim.ifi.uio.no/martingi/) (Secretary 2010-2018)
 - [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/) (Term expired 2017. Reelected 2014. Elected 2011. Term expired 2010. Reelected 2007. Elected 2004)
 - [Leonardo de Moura](http://leodemoura.github.io/) (CADE-26 program co-chair)
