@@ -6,10 +6,10 @@ order : 2
 ---
 {% include JB/setup %}
 
-- [Best Paper Award](https://cadeinc.github.io/Best-Paper-Award)
+- [Best Paper Award](http://www.cadeinc.org/Best-Paper-Award)
 
-- [Herbrand Award](https://cadeinc.github.io/Herbrand-Award)
+- [Herbrand Award](http://www.cadeinc.org/Herbrand-Award)
 
-- [Skolem Award](https://cadeinc.github.io/Skolem-Award)
+- [Skolem Award](http://www.cadeinc.org/Skolem-Award)
 
-- [Woody Bledsoe Award](https://cadeinc.github.io/WoodyBledsoeAward)
+- [Woody Bledsoe Award](http://www.cadeinc.org/WoodyBledsoeAward)
