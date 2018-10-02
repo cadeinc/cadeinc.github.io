@@ -23,8 +23,6 @@ CADE is the major international forum at which research on all aspects of automa
   - Invited speakers: 
   - Trustee president's [report]() and the [treasurer's report]().
 
-* 2018: See the [IJCAR web pages](http://ijcar.org/conferences)
-
 ### CADE/IJCAR Management
 
 - [Conference management notes and schedule](Schedule)
@@ -32,6 +30,8 @@ CADE is the major international forum at which research on all aspects of automa
 - [Previous conferences' financial summaries](FinancialSummaries)
 
 ### Previous Conferences
+
+* 2018: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-26](http://www.cse.chalmers.se/~myreen/cade-26/index.html), Gothenburg, Sweden, August 2017.
   - Program Chair: Leonardo de Moura ([Report](Reports/CADE-26_LeoDeMoura.pdf))
