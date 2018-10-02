@@ -7,7 +7,20 @@ order : 4
 ---
 {% include JB/setup %}
 
-The bylaws of CADE Inc (effective Nov. 1, 1996; amended July/August 2000) govern the actions of CADE officers and the participation rights of the CADE membership. The current bylaws were adopted at the business meeting during CADE-13 in New Brunswick, NJ, USA and are effective as of November 1, 1996. They were amended during CADE-17 in Pittsburgh, Pa, USA on July 18. 2000. A proposed amendment of the CADE bylaws regarding the election of the CADE president (see AAR Newsletter No. 68, October 2005) did not pass because not enough AAR members voted.
+The bylaws of CADE Inc (effective Nov. 1, 1996; amended July/August 2000) 
+govern the actions of CADE officers and the participation rights of the CADE 
+membership. 
+The current bylaws were adopted at the business meeting during CADE-13 in 
+New Brunswick, NJ, USA and are effective as of November 1, 1996. 
+They were amended during CADE-17 in Pittsburgh, Pa, USA on July 18. 2000. 
+A proposed amendment of the CADE bylaws regarding the election of the CADE 
+president (see AAR Newsletter No. 68, October 2005) did not pass because not 
+enough AAR members voted.
+At the CADE business meeting on Tuesday, July 17th, 2018 it was agreed by vote
+(51 Yes, 1 No, 1 Abstain, quorum reached) that paying the CADE/IJCAR 
+conference fee constitutes CADE membership for three years. 
+This means the CADE voting community consists of all participants of the 
+past 3 CADE conferences (including IJCAR).
 
 ---------------
 
