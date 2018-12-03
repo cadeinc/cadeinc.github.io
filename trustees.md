@@ -9,6 +9,10 @@ order : 3
 
 ### Current Trustees
 
+- [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) Relected 2018. (Vice-president 2015-. Elected 2015. Term expired 2011. Elected 2008)
+
+- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (Elected 2018. IJCAR 2018 program co-chair)
+
 - [Pascal Fontaine](http://www.loria.fr/~fontaine/) (CADE-27 program chair. Term expired 2017. Elected 2014)
 
 - [Marijn Heule](http://www.cs.utexas.edu/~marijn/) (Elected 2017)
@@ -25,10 +29,6 @@ order : 3
 
 - [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
 
-- [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Elected 2015)
-
-- [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) (Vice-president 2015-. Elected 2015. Term expired 2011. Elected 2008)
-
 - [Philipp R&uuml;mmer](http://www.philipp.ruemmer.org) (Secretary 2018-)
 
 - [Neil Murray](http://www.cs.albany.edu/~nvm/) (Treasurer 1992-. Secretary 1992-1999)
@@ -43,7 +43,7 @@ order : 3
 
 ### Previous Trustees
 
-- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (IJCAR 2018 program co-chair)
+- [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Term expired 2018. Elected 2015)
 - [Martin Giese](http://heim.ifi.uio.no/martingi/) (Secretary 2010-2018)
 - [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/) (Term expired 2017. Reelected 2014. Elected 2011. Term expired 2010. Reelected 2007. Elected 2004)
 - [Leonardo de Moura](http://leodemoura.github.io/) (CADE-26 program co-chair)
