@@ -43,15 +43,34 @@ In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions
 
 ### Procedure
 
-The Herbrand award procedure (established 1992, amended 2001) has three stages: nomination; advisory voting by trustees, current PC and past winners; and final decision by the trustees. In this procedure, "worthiness" is separated from "ranking". The CADE president is responsible for soliciting opinions and evaluations, and carrying out a vote.
-Nominations for this award can be made at any time to the president of CADE Inc. A nomination should include a letter (up to 2000 words) from a principal nominator describing the nominee's contributions (including the relationship to CADE), along with two other letters (up to 2000 words) of endorsement.  Current members of the board of trustees of CADE Inc. (including ex-officio members) are not eligible.  The nomination of a group of individuals who are collaborators is considered to be a single nomination, but all members of the group must be eligible.  Nominations will be kept confidential.
+The Herbrand award procedure (established 1992, amended 2001, updated 2019) 
+has two stages: nomination and decision by the Herbrand award committee.
+Nominations for this award can be made at any time to the president of CADE 
+Inc. 
+A nomination should include a letter (up to 2000 words) from a principal 
+nominator describing the nominee's contributions (including the relationship 
+to CADE), along with two other letters (up to 2000 words) of endorsement. 
+Current members of the board of trustees of CADE Inc. (including ex-officio 
+members) are not eligible. 
+The nomination of a group of individuals who are collaborators is considered 
+to be a single nomination, but all members of the group must be eligible. 
+Nominations will be kept confidential.
 
-The current conference program committee, the award winners from the last 10 years, and the current board of trustees of CADE, Inc. will participate in the selection, with the final decision resting with the board of trustees. The award will be given at the CADE or IJCAR conference, whichever is scheduled for the year. The selection procedure will work as follows. The members of the current program program committee, winners from the past 10 years, and trustees are invited to express express their opinions on the nominees in two ways:
+The CADE trustees establish the Herbrand award committee. 
+It is published upon its formation.
+Nominators, nominees and authors of endorsement letters are not eligible for 
+membership in the Herbrand award committee. 
+The Herbrand award committee decides on the award.
 
-They indicate which candidates they believe are worthy of the award.
-They give a preferential ranking of all the candidates.
-It is expected that only those receiving an endorsement by a 2/3 majority under vote (1) will be considered by the trustees for the award. A preferred majority candidate will be selected by the single transferrable vote principle using the referential ranking (2).
-After possible further discussion among the trustees, the president of CADE proposes a candidate which should be endorsed in a final vote by 2/3 of the trustees. It is expected that in most cases this should be the majority candidate from the advisory vote.
+### The Herbrand award procedure (established 1992, amended 2001) has three stages: nomination; advisory voting by trustees, current PC and past winners; and final decision by the trustees. In this procedure, "worthiness" is separated from "ranking". The CADE president is responsible for soliciting opinions and evaluations, and carrying out a vote.
+### Nominations for this award can be made at any time to the president of CADE Inc. A nomination should include a letter (up to 2000 words) from a principal nominator describing the nominee's contributions (including the relationship to CADE), along with two other letters (up to 2000 words) of endorsement.  Current members of the board of trustees of CADE Inc. (including ex-officio members) are not eligible.  The nomination of a group of individuals who are collaborators is considered to be a single nomination, but all members of the group must be eligible.  Nominations will be kept confidential.
+### 
+### The current conference program committee, the award winners from the last 10 years, and the current board of trustees of CADE, Inc. will participate in the selection, with the final decision resting with the board of trustees. The award will be given at the CADE or IJCAR conference, whichever is scheduled for the year. The selection procedure will work as follows. The members of the current program program committee, winners from the past 10 years, and trustees are invited to express express their opinions on the nominees in two ways:
+### 
+### They indicate which candidates they believe are worthy of the award.
+### They give a preferential ranking of all the candidates.
+### It is expected that only those receiving an endorsement by a 2/3 majority under vote (1) will be considered by the trustees for the award. A preferred majority candidate will be selected by the single transferrable vote principle using the referential ranking (2).
+### After possible further discussion among the trustees, the president of CADE proposes a candidate which should be endorsed in a final vote by 2/3 of the trustees. It is expected that in most cases this should be the majority candidate from the advisory vote.
 
 ### Citations
 
