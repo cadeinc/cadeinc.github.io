@@ -13,7 +13,7 @@ In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions
 
 ### Winners
 
- - [Nikolaj Bj&oslash;rner](https://www.microsoft.com/en-us/research/people/nbjorner/) and [eonardo de Moura](https://www.microsoft.com/en-us/research/people/leonardo/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fleonardo%2Fz3_doc%2Fgroup__z3native.html) (2018)
+ - [Nikolaj Bj&oslash;rner](https://www.microsoft.com/en-us/research/people/nbjorner/) and [Leonardo de Moura](https://www.microsoft.com/en-us/research/people/leonardo/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fleonardo%2Fz3_doc%2Fgroup__z3native.html) (2019)
  - [Bruno Buchberger](http://www.risc.jku.at/people/buchberger/) (2018)
  - [Lawrence C. Paulson](http://www.cl.cam.ac.uk/~lp15/) (2017)
  - [Zohar Manna](http://theory.stanford.edu/~zm/) and [Richard Waldinger](http://www.ai.sri.com/~waldinge/) (2016)
@@ -75,9 +75,9 @@ Larry Paulson.
 The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
 
 <center>
-	<img width="33%" src="./HerbrandPhoto/HerbrandAwardNikolajBjornerLeonardiDeMoura.jpg">
+	<img width="33%" src="./HerbrandPhoto/HerbrandAwardNikolajBjornerLeonardoDeMoura.jpg">
 	<br/>
-	<b>Nikolaj Bj&oslash;rner and Leonardode Moura</b>
+	<b>Nikolaj Bj&oslash;rner and Leonardo de Moura</b>
 </center>
 
 in recognition of their numerous and important contributions to SMT solving, 
