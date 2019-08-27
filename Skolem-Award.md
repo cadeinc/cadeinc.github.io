@@ -9,12 +9,16 @@ In 2014 CADE Inc. established the Thoralf Skolem Award to reward a CADE paper th
 
 ### Recipients
 
+* CADE-22 (2009): Rajeev Goré and Florian Widmann - An Optimal On-the-Fly Tableau-Based Decision Procedure for PDL-Satisfiability.
 * CADE-21 (2007): Leonardo de Moura and Nikolaj Bj&oslash;rner - Efficient E-Matching for SMT Solvers.
 * CADE-20 (2005): Christian Urban and Christine Tasson - Nominal Techniques in Isabelle/HOL.
+* CADE-16 (1999): Christoph Weidenbach - Towards an Automated Analysis of Security Protocols.
 * CADE-15 (1998): Andreas Nonnengart, Georg Rock and Christoph Weidenbach - On Generating Small Clause Normal Forms.
 * CADE-14 (1997): Hantao Zhang - SATO: An Efficient Propositional Prover.
+* CADE-10 (1990): Leo Bachmair and Harald Ganzinger - On Restrictions of Ordered Paramodulation with Simplification.
 * CADE-9 (1988): Alan Bundy - The Use of Explicit Plans to Guide Inductive Proofs.
 * CADE-8 (1986): Leo Bachmair and Nachum Dershowitz - Commutation, Transformation, and Termination.
+* CADE-4 (1979): Peter Andrews - General Matings.
 * CADE-2 (1976) and CADE-3 (1977) considered jointly: Zohar Manna and Richard Waldinger - The Automatic Synthesis of Recursive Programs. (presented at CADE-3).
 * CADE-0 (1968) and CADE-1 (1975) considered jointly: Nicolaas Govert de Bruijn - The Mathematical Language AUTOMATH, its Usage, and Some of its Extensions (presented at CADE-0).
 
