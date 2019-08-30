@@ -13,15 +13,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Future Conferences
 
-* [CADE-27](http://www.cade-27.info/), Natal, Brasil, August 2019.
-  - Program Chair: Pascal Fontaine
-  - Conference Chairs: Elaine Pimentel
-  - Workshop, tutorial, competition chair: 
-  - Submissions: ?? papers + ?? system descriptions = ??<BR> 
-    Accepted: ?? papers + ?? system descriptions = ??
-  - ?? attendees, ?? regular, ?? student. ?? workshop registrations
-  - Invited speakers: 
-  - Trustee president's [report]() and the [treasurer's report]().
+* 2020: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 ### CADE/IJCAR Management
 
@@ -30,6 +22,16 @@ CADE is the major international forum at which research on all aspects of automa
 - [Previous conferences' financial summaries](FinancialSummaries)
 
 ### Previous Conferences
+
+* [CADE-27](http://www.cade-27.info/), Natal, Brasil, August 2019.
+  - Program Chair: Pascal Fontaine ([Report](Reports/CADE-27_PascalFontaine.pdf))
+  - Conference Chairs: Elaine Pimentel ([Report](Reports/CADE-27_ElainePimentel.pdf))
+  - Workshop, tutorial, competition chair: Giles Reger
+  - Submissions: 52 papers + 12 system descriptions = 65<BR> 
+    Accepted: 27 papers + 7 system descriptions = 34
+  - ?? attendees, ?? regular, ?? student. ?? workshop registrations
+  - Invited speakers: 
+  - Trustee president's [report]() and the [treasurer's report](Reports/CADE-27_NeilMurray.pdf).
 
 * 2018: See the [IJCAR web pages](http://ijcar.org/conferences)
 

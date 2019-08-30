@@ -44,7 +44,34 @@ In order to cover the entire history of CADE, beginning with CADE-25 (2015), in 
 
 ------------------------
 
-International Conference on Automated Deduction (CADE)
+**CADE-22**: International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+presented to
+
+**Rajeev Gor&eacute; and Florian Widmann**
+
+for the paper "An Optimal On-the-Fly Tableau-Based Decision Procedure for PDL-Satisfiability" published in the CADE-22 proceedings in 2009. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+
+Presented at
+CADE-27
+The 27th International Conference on Automated Deduction
+August, 2019
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of 
+Alexander Leitsch (Chair),
+Peter Baumgartner,
+James Brotherston,
+Laura Kovacs,
+Hans de Nivelle,
+Nicolas Peltier,
+Renate Schmidt.
+
+------------------------
+
+**CADE-21**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
@@ -64,7 +91,7 @@ The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, 
 
 ------------------------
 
-International Conference on Automated Deduction (CADE)
+**CADE-20**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to:
 
@@ -84,7 +111,34 @@ The Skolem Award Committee consisted of Claude Kirchner (chair), Alessandro Arma
 
 ------------------------
 
-International Conference on Automated Deduction (CADE)
+**CADE-16**: International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+presented to
+
+**Christoph Weidenbach**
+
+for the paper "Towards an Automated Analysis of Security Protocols" published in the CADE-16 proceedings in 1999. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+
+Presented at
+CADE-27
+The 27th International Conference on Automated Deduction
+August, 2019
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of 
+Alexander Leitsch (Chair),
+Peter Baumgartner,
+James Brotherston,
+Laura Kovacs,
+Hans de Nivelle,
+Nicolas Peltier,
+Renate Schmidt.
+
+------------------------
+
+**CADE-15**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
@@ -104,7 +158,7 @@ The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, 
 
 ------------------------
 
-International Conference on Automated Deduction (CADE)
+**CADE-14**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
@@ -124,7 +178,34 @@ The Skolem Award Committee consisted of Claude Kirchner (chair), Alessandro Arma
 
 ------------------------
 
-International Conference on Automated Deduction (CADE)
+**CADE-10**: International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+presented to
+
+**Leo Bachmair and Harald Ganzinger**
+
+for the paper "On Restrictions of Ordered Paramodulation with Simplification" published in the CADE-10 proceedings in 1990. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+
+Presented at
+CADE-27
+The 27th International Conference on Automated Deduction
+August, 2019
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of 
+Alexander Leitsch (Chair),
+Peter Baumgartner,
+James Brotherston,
+Laura Kovacs,
+Hans de Nivelle,
+Nicolas Peltier,
+Renate Schmidt.
+
+------------------------
+
+**CADE-9**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
@@ -144,7 +225,7 @@ The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, 
 
 ------------------------
 
-International Conference on Automated Deduction (CADE)
+**CADE-8**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
@@ -164,7 +245,33 @@ The Skolem Award Committee consisted of Claude Kirchner (chair), Alessandro Arma
 
 ------------------------
 
-International Conference on Automated Deduction (CADE)
+**CADE-4**: International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+presented to
+
+**Peter Andrews**
+
+for the paper "General Matings" published in the CADE-4 proceedings in 1979. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+
+Presented at
+CADE-27
+The 27th International Conference on Automated Deduction
+August, 2019
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of 
+Alexander Leitsch (Chair),
+Peter Baumgartner,
+James Brotherston,
+Laura Kovacs,
+Hans de Nivelle,
+Nicolas Peltier,
+Renate Schmidt.
+
+------------------------
+**CADE-2 and CADE-3**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
@@ -184,7 +291,7 @@ The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, 
 
 ------------------------
 
-International Conference on Automated Deduction (CADE)
+**CADE-0 and CADE-1**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
 presented to
 
@@ -202,3 +309,4 @@ President of CADE Inc.
 
 The Skolem Award Committee consisted of Claude Kirchner (chair), Alessandro Armando, Gilles Barthe, Christopher Lynch, Leonardo de Moura, Uli Sattler, Geoff Sutcliffe, Toby Walsh, Christoph Weidenbach.
 
+------------------------

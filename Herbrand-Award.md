@@ -62,7 +62,7 @@ It is published upon its formation.
 Nominators, nominees and authors of endorsement letters are not eligible for 
 membership in the Herbrand award committee. 
 The Herbrand award committee decides on the award.
-The 2019 committee is
+The 2019 committee was
 Dale Miller (chair),
 Bruno Dutetre,
 Juergen Giesl,
@@ -86,8 +86,8 @@ academic and industrial needs.
 
 Presented at CADE-27, the 27th International Conference on Automated Deduction.
 
-Christoph Weidenbach
-President of CADE Inc.
+J&uuml;rgen Giesl
+On behalf of the 2019 Herbrand Award Committee
 
 --------
 
