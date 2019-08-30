@@ -61,7 +61,7 @@ Christoph Weidenbach
 President of CADE Inc.
 
 The Skolem Award Committee consisted of 
-Alexander Leitsch (Chair),
+Alexander Leitsch (chair),
 Peter Baumgartner,
 James Brotherston,
 Laura Kovacs,
@@ -128,7 +128,7 @@ Christoph Weidenbach
 President of CADE Inc.
 
 The Skolem Award Committee consisted of 
-Alexander Leitsch (Chair),
+Alexander Leitsch (chair),
 Peter Baumgartner,
 James Brotherston,
 Laura Kovacs,
@@ -195,7 +195,7 @@ Christoph Weidenbach
 President of CADE Inc.
 
 The Skolem Award Committee consisted of 
-Alexander Leitsch (Chair),
+Alexander Leitsch (chair),
 Peter Baumgartner,
 James Brotherston,
 Laura Kovacs,
@@ -262,7 +262,7 @@ Christoph Weidenbach
 President of CADE Inc.
 
 The Skolem Award Committee consisted of 
-Alexander Leitsch (Chair),
+Alexander Leitsch (chair),
 Peter Baumgartner,
 James Brotherston,
 Laura Kovacs,
