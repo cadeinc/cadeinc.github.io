@@ -9,7 +9,7 @@ tagline : for Distinguished Contributions to Automated Reasoning
 
 In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions to Automated Reasoning, to honor an individual or (a group of) individuals for exceptional contributions to the field of Automated Deduction. Nominations for this award can be made at any time to the president of CADE Inc.
 
-<img style="float: right;" width="30%" src="./HerbrandPhoto/HerbrandAwardBrunoBuchberger.jpg">
+<img style="float: right;" width="30%" src="./HerbrandPhoto/HerbrandAwardNikolajBjornerLeonardoDeMoura.jpg">
 
 ### Winners
 
