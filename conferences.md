@@ -30,8 +30,8 @@ CADE is the major international forum at which research on all aspects of automa
   - Submissions: 52 papers + 12 system descriptions = 65<BR> 
     Accepted: 27 papers + 7 system descriptions = 34
   - ?? attendees, ?? regular, ?? student. ?? workshop registrations
-  - Invited speakers: 
-  - Trustee president's [report]() and the [treasurer's report](Reports/CADE-27_NeilMurray.pdf).
+  - Invited speakers: Cas Cremers, Assia Mahboubi, Cesare Tinelli.
+  - Trustee president's [report](Reports/CADE-27_ChristophWeidenbach.pdf) and the [treasurer's report](Reports/CADE-27_NeilMurray.pdf).
 
 * 2018: See the [IJCAR web pages](http://ijcar.org/conferences)
 

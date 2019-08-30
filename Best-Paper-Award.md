@@ -9,6 +9,7 @@ At every CADE conference the Program Committee selects one of the accepted paper
 
 ### Recipients
 
+ * CADE-27 (2019): Vojt&eacute;ch Havlena, Luk&aacute;š Holík, Onřej Lengál and Tomáš Vojnar - Automata Terms in a Lazy WSkS Decision Procedure. Best student paper: Martin Bromberger, Mathias Fleury, Simon Schwarz, and Christoph Weidenbach - SPASS-SATT a CDCL(LA) Solver. 
  * 9th IJCAR (2018): Benjamin Kiesl, Adrian Rebola-Pardo and Marijn Heule - Extended Resolution Simulates DRAT.
  * CADE-26 (2017): Marijn Heule, Benjamin Kiesl and Armin Biere - Short Proofs without New Variables. Benjamin Kiesl and Martin Suda - A Unifying Principle for Clause Elimination in First-Order Logic.
  * 8th IJCAR (2016): Jasmin Christian Blanchette, Mathias Fleury, and Christoph Weidenbach - A Verified SAT Solver Framework with Learn, Forget, Restart, and Incrementality.
