@@ -11,7 +11,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
-	<a href="http://www.cade-27.info/" target="_top">CADE-27, Natal, Brasil, 25-30th August 2019</a>
+	<a href="https://ijcar2020.org" target="_top">IJCAR 2020, Paris, France ??th June - ??th July 2020</a>
 </div>
 
 -----
