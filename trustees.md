@@ -13,8 +13,6 @@ order : 3
 
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (Elected 2018. IJCAR 2018 program co-chair)
 
-- [Pascal Fontaine](http://www.loria.fr/~fontaine/) (CADE-27 program chair. Term expired 2017. Elected 2014)
-
 - [Marijn Heule](http://www.cs.utexas.edu/~marijn/) (Elected 2017)
 
 - [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Elected 2017)
@@ -28,6 +26,8 @@ order : 3
 - [Laura Kovács](http://forsyte.at/people/kovacs/) (Elected 2016)
 
 - [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
+
+- [Nicolas Peltier](http://membres-lig.imag.fr/peltier/) (IJCAR 2020 program co-chair)
 
 - [Philipp R&uuml;mmer](http://www.philipp.ruemmer.org) (Secretary 2018-)
 
@@ -43,6 +43,7 @@ order : 3
 
 ### Previous Trustees
 
+- [Pascal Fontaine](http://www.loria.fr/~fontaine/) (CADE-27 program chair. Term expired 2017. Elected 2014)
 - [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Term expired 2018. Elected 2015)
 - [Martin Giese](http://heim.ifi.uio.no/martingi/) (Secretary 2010-2018)
 - [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/) (Term expired 2017. Reelected 2014. Elected 2011. Term expired 2010. Reelected 2007. Elected 2004)
