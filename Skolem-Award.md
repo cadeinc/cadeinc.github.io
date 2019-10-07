@@ -50,7 +50,7 @@ presented to
 
 **Rajeev Gor&eacute; and Florian Widmann**
 
-for the paper "An Optimal On-the-Fly Tableau-Based Decision Procedure for PDL-Satisfiability" published in the CADE-22 proceedings in 2009. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+for the paper "An Optimal On-the-Fly Tableau-Based Decision Procedure for PDL-Satisfiability" published in the CADE-22 proceedings in 2009. The paper is recognised for presenting the first decision procedure for propositional dynamic logic which is both theoretically optimal and effective in practice. Previous decision procedures are either suboptimal in the worst case, or worst-case optimal but with poor average-case performance. The solution in this paper thereby closed a problem that had been open for almost 30 years.
 
 Presented at
 CADE-27
@@ -117,7 +117,7 @@ presented to
 
 **Christoph Weidenbach**
 
-for the paper "Towards an Automated Analysis of Security Protocols" published in the CADE-16 proceedings in 1999. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+for the paper "Towards an Automated Analysis of Security Protocols" published in the CADE-16 proceedings in 1999. The paper is recognised for two main contributions to automated deduction: first, its novel application of general theorem proving techniques to a key-exchange security protocol; and, second, its development of new decidability and undecidability results for fragments of monadic Horn theories.
 
 Presented at
 CADE-27
@@ -184,7 +184,7 @@ presented to
 
 **Leo Bachmair and Harald Ganzinger**
 
-for the paper "On Restrictions of Ordered Paramodulation with Simplification" published in the CADE-10 proceedings in 1990. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+for the paper "On Restrictions of Ordered Paramodulation with Simplification" published in the CADE-10 proceedings in 1990. The paper is recognised for its development of the superposition calculus for equational first-order clauses alongside a new and powerful framework for proving completeness and accommodating redundancy. This framework forms the basis of many advanced modern theorem provers, and has been highly influential in accelerating progress in the area of automated deduction.
 
 Presented at
 CADE-27
@@ -251,7 +251,7 @@ presented to
 
 **Peter Andrews**
 
-for the paper "General Matings" published in the CADE-4 proceedings in 1979. The paper is recognized as a landmark in the development of foundations for research in deductive program synthesis.
+for the paper "General Matings" published in the CADE-4 proceedings in 1979. The paper is recognised for its invention of the generalised mating method for constructing refutations of formulas in conjunctive normal form. This development paved the ground for the subsequent construction of many non-resolution methods in automated deduction, including the well-known connection method.
 
 Presented at
 CADE-27
