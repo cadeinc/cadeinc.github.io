@@ -251,7 +251,7 @@ presented to
 
 **Peter Andrews**
 
-for the paper "General Matings" published in the CADE-4 proceedings in 1979. The paper is recognised for its invention of the generalised mating method for constructing refutations of formulas in conjunctive normal form. This development paved the ground for the subsequent construction of many non-resolution methods in automated deduction, including the well-known connection method.
+for the paper "General Matings" published in the CADE-4 proceedings in 1979. The paper is recognised for its invention of the generalised mating method for constructing refutations of formulas in negation normal form. This development paved the ground for the subsequent construction of many non-resolution methods in automated deduction, including the well-known connection method.
 
 Presented at
 CADE-27
