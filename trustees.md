@@ -9,6 +9,10 @@ order : 3
 
 ### Current Trustees
 
+- [Pascal Fontaine](http://www.loria.fr/~fontaine/) (Elected 2019. CADE-27 program chair. Term expired 2017. Elected 2014)
+
+- [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Elected 2019. Term expired 2018. Elected 2015)
+
 - [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) Relected 2018. (Vice-president 2015-. Elected 2015. Term expired 2011. Elected 2008)
 
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (Elected 2018. IJCAR 2018 program co-chair)
@@ -21,11 +25,7 @@ order : 3
 
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (President 2016- . Elected 2016. Reelected 2012. Elected 2009)
 
-- [Jasmin Blanchette](http://people.mpi-inf.mpg.de/~jblanche/) (Elected 2016)
-
 - [Laura Kovács](http://forsyte.at/people/kovacs/) (Elected 2016)
-
-- [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
 
 - [Nicolas Peltier](http://membres-lig.imag.fr/peltier/) (IJCAR 2020 program co-chair)
 
@@ -43,8 +43,8 @@ order : 3
 
 ### Previous Trustees
 
-- [Pascal Fontaine](http://www.loria.fr/~fontaine/) (CADE-27 program chair. Term expired 2017. Elected 2014)
-- [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Term expired 2018. Elected 2015)
+- [Jasmin Blanchette](http://people.mpi-inf.mpg.de/~jblanche/) (Term expired 2019. Elected 2016)
+- [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Term expired 2019. Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
 - [Martin Giese](http://heim.ifi.uio.no/martingi/) (Secretary 2010-2018)
 - [Geoff Sutcliffe](http://www.cs.miami.edu/~geoff/) (Term expired 2017. Reelected 2014. Elected 2011. Term expired 2010. Reelected 2007. Elected 2004)
 - [Leonardo de Moura](http://leodemoura.github.io/) (CADE-26 program co-chair)

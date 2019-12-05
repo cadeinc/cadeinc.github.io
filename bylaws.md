@@ -21,6 +21,10 @@ At the CADE business meeting on Tuesday, July 17th, 2018 it was agreed by vote
 conference fee constitutes CADE membership for three years. 
 This means the CADE voting community consists of all participants of the 
 past 3 CADE conferences (including IJCAR).
+In November 2019 the CADE membership approved a change to the bylaws 
+"Subsection 2.3 Election of Trustees", from the use of the CADE Single 
+Transferrable Vote system to use of a system that in the future will be 
+specified in the CADE web pages.
 
 ---------------
 
@@ -36,7 +40,6 @@ past 3 CADE conferences (including IJCAR).
 - Article VII. Contracts, Checks, Deposits, and Funds
 - Article VIII. Miscellaneous
 - Article IX. Amendments
-- Single Transferrable Vote Algorithm
 
 ---------------
 
@@ -131,7 +134,7 @@ The elected Trustees shall have terms of office that begin with the election aft
 
 ##### Subsection 2.3 Election of Trustees
 
-Elected members of the Board of Trustees shall be elected via email by the entire CADE membership using the Single Transferrable Vote system. The election will be held within thirty days of the business meeting that marks the close of nominations and shall be binding on the Trustees.
+Elected members of the Board of Trustees shall be elected electronically by the entire CADE membership. The CADE trustees decide on a voting procedure for the trustee election. The procedure will be published on the CADE homepage. The election will be held within thirty days of the business meeting that marks the close of nominations and shall be binding on the Trustees.
 
 ##### Subsection 2.4 Vacancies
 
@@ -301,62 +304,3 @@ To amend (including repeal, add to, or replace) the bylaws, a simple majority at
 The By-Laws of this corporation may only be amended, repealed, or added to, or new ByLaws adopted, as specified in the preceding Section, except as required by applicable local, county, state, national, or international laws. However, the Trustees may modify the address of this corporation as given in Article I, Section 1 at any time, without a vote of the members.
 
 ---------------
-
-### Single Transferrable Vote Algorithm
-
-	Problem:  M voters must elect K of N candidates.
-
-	Input:    M x N matrix, Tbl, of votes. 
-	    Tbl(i,j) = p, 1<=p<=N, 
-	        means that voter i gave preference p to candidate j.
-	    Every voter can support n (1<=n<=N) of the N candidates, and has
-	    to give a preference order between those n candidates.
-	    This is expressed by assigning a preference 
-	    between 1 (highest preference) to n (lowest preference) to each 
-	    of the supported candidates.  Each of the values 1...n is assigned
-	    to exactly one candidate.  All candidates not supported receive a 
-	    preference of N+1.
-
-	Weakest candidate: 
-	    The candidate with the fewest votes of preference 1.
-	    Ties are broken by fewest votes of preference 2, then 3, etc.
-
-	Equally weak candidates:
-	     c is equally weak as w iff c and w have the same number
-	     of votes of preference 1, 2, etc.
-
-	Output:    List of K elected candidates in order of election.
-
-	Redistribute(k, Tbl):
-	    for v <-- 1 to M
-	        p <-- Tbl(v,k)  {* v's preference for candidate k *}
-	        for c <-- 1 to N
-	            p' <-- Tbl(v,c) {* v's preference for candidate c *}
-	            if p' > p and not p' == N+1 then 
-	                decrement Tbl(v,c) by one
-	        end for
-	    end for
-	    Now remove candidate k from Tbl  {* column k *}
-
-
-	Procedure STV
-
-	Elected <-- empty
-	T <-- Tbl              {* Start with the original vote matrix *}
-	for E <-- 1 to K
-	    N' <-- N-E+1   {* Choose a winner among N' candidates *}
-	    T' <-- T       {* store the current vote matrix *}
-	    while (no candidate has a majority of 1st preferences)
-	        w <-- one weakest candidate
-	        for all candidates c {* remove all weakest candidates *}
-	            if c is equally weak as w
-	                Redistribute(c,T)
-	        end for
-	    end while
-	    win <-- the majority candidate
-	    Elected <-- append(Elected, [win])
-	    T <-- T'       {* restore back to N' candidates *}
-	    Redistribute(win, T)  {* remove winner & redistrb. votes *}
-	end for
-
-	End STV
