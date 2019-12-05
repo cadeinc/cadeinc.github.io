@@ -7,12 +7,13 @@ order : 4
 ---
 {% include JB/setup %}
 
-The bylaws of CADE Inc (effective Nov. 1, 1996; amended July/August 2000) 
-govern the actions of CADE officers and the participation rights of the CADE 
-membership. 
-The current bylaws were adopted at the business meeting during CADE-13 in 
+The bylaws of CADE Inc govern the actions of CADE officers and the 
+participation rights of the CADE membership. 
+The bylaws were adopted at the business meeting during CADE-13 in 
 New Brunswick, NJ, USA and are effective as of November 1, 1996. 
-They were amended during CADE-17 in Pittsburgh, Pa, USA on July 18. 2000. 
+In July 2000 the CADE membership approved a change to the bylaws
+"Subsection 2.0 Membership of Board of Trustees" to increase the number of
+trustees from six to nine.
 A proposed amendment of the CADE bylaws regarding the election of the CADE 
 president (see AAR Newsletter No. 68, October 2005) did not pass because not 
 enough AAR members voted.
@@ -119,10 +120,7 @@ The affairs of the corporation shall be managed by its Board of Trustees.
 
 ##### Subsection 2.0 Membership of Board of Trustees
 
-There will be six elected Trustees and the following ex-officio Trustees: the Program Chairs of the current and forthcoming CADEs; the Secretary; and the Treasurer.
-
-AMENDMENT APPROVED AT THE BUSINESS MEETING IN JUNE 2000 AND PASSED BY THE MEMBERSHIP IN A VOTE HELD IN JULY/AUGUST 2000:
-The number of trustees elected following each CADE conference will be increased from two to three, while maintaining their term at three CADE conferences, normally three years. This means that there will be a total of nine elected trustees instead of six. The number of elected trustees is currently six, and will increase by one at each trustee election following CADE 2000 until the total reaches nine.
+There will be nine elected Trustees and the following ex-officio Trustees: the Program Chairs of the current and forthcoming CADEs; the Secretary; and the Treasurer.
 
 ##### Subsection 2.1 Nominations of Trustees
 
