@@ -12,7 +12,7 @@ CADE is the major international forum at which research on all aspects of automa
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
 	<a href="https://ijcar2020.org" target="_top">IJCAR 2020, Paris, France 29th June - 2nd July 2020</a><br>
-    <strong>New Trustees</strong>: Aart Middeldorp, Pascal Fontaine (replacing Renate Schmidt, Jasmin Blanchette)
+    <strong>Trustees elected</strong>: Pascal Fontaine, Christoph Weidenbach, Laura Kovacs, and Aart Middeldorp.
 </div>
 
 -----

@@ -9,6 +9,10 @@ order : 3
 
 ### Current Trustees
 
+- [Laura Kovács](http://forsyte.at/people/kovacs/) (Relected 2019. Elected 2016)
+
+- [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (Relected 2017. President 2016- . Elected 2016. Reelected 2012. Elected 2009)
+
 - [Pascal Fontaine](http://www.loria.fr/~fontaine/) (Elected 2019. CADE-27 program chair. Term expired 2017. Elected 2014)
 
 - [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Elected 2019. Term expired 2018. Elected 2015)
@@ -22,10 +26,6 @@ order : 3
 - [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Elected 2017)
 
 - [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) (Reelected 2017. Elected 2014. IJCAR 2010 program co-chair)
-
-- [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (President 2016- . Elected 2016. Reelected 2012. Elected 2009)
-
-- [Laura Kovács](http://forsyte.at/people/kovacs/) (Elected 2016)
 
 - [Nicolas Peltier](http://membres-lig.imag.fr/peltier/) (IJCAR 2020 program co-chair)
 
