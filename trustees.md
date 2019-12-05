@@ -11,7 +11,7 @@ order : 3
 
 - [Laura Kovács](http://forsyte.at/people/kovacs/) (Relected 2019. Elected 2016)
 
-- [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (Relected 2017. President 2016- . Elected 2016. Reelected 2012. Elected 2009)
+- [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (Relected 2019. President 2016- . Elected 2016. Reelected 2012. Elected 2009)
 
 - [Pascal Fontaine](http://www.loria.fr/~fontaine/) (Elected 2019. CADE-27 program chair. Term expired 2017. Elected 2014)
 
