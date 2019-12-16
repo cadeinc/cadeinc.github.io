@@ -1,0 +1,4 @@
+AuthName "CADE Trustees' Private Area"
+AuthUserFile /fs/ewell/htdocs/home/geoff/public_html/Conferences/CADEPrivate/.htpasswd
+AuthType Basic
+require valid-user
