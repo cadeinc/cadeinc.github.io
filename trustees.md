@@ -40,7 +40,7 @@ order : 3
 #### Trustees' documents 
 
 - <A HREF="http://www.cs.miami.edu/home/geoff/Conferences/CADEPrivate/">Trustees' Private Area</A>
-- <A HREF="TrusteesPrivate/index.html">Trustees' New Private Area</A>
+<!-- - <A HREF="TrusteesPrivate/index.html">Trustees' New Private Area</A> -->
 
 ### Previous Trustees
 
