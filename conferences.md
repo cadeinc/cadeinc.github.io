@@ -15,7 +15,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 * [CADE-28](http://www.cade-28.info/), Pittsburgh, USA, TBA 2021.
   - Program Chairs: Andre Platzer, Geoff Sutcliffe
-  - Conference Chairs: Iliano Cervesato, Marijn Heule
+  - Conference Chairs: Iliano Cervesato, Marijn Heule, Andre Platzer
   - Workshop, tutorial, competition chair: 
   - Invited speakers: 
 
