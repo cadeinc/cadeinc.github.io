@@ -13,6 +13,13 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Future Conferences
 
+* [CADE-28](http://www.cade-28.info/), Pittsburgh, USA, TBA 2021.
+  - Program Chairs: Andre Platzer, Geoff Sutcliffe
+  - Conference Chairs: Iliano Cervesato, Marijn Heule
+  - Workshop, tutorial, competition chair: 
+  - Invited speakers: 
+
+
 * 2020: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 ### CADE/IJCAR Management
@@ -23,9 +30,9 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Previous Conferences
 
-* [CADE-27](http://www.cade-27.info/), Natal, Brasil, August 2019.
+* [CADE-27](https://www.mat.ufrn.br/CADE-27/), Natal, Brasil, August 2019.
   - Program Chair: Pascal Fontaine ([Report](Reports/CADE-27_PascalFontaine.pdf))
-  - Conference Chairs: Elaine Pimentel ([Report](Reports/CADE-27_ElainePimentel.pdf))
+  - Conference Chair: Elaine Pimentel ([Report](Reports/CADE-27_ElainePimentel.pdf))
   - Workshop, tutorial, competition chair: Giles Reger
   - Submissions: 52 papers + 12 system descriptions = 65<BR> 
     Accepted: 27 papers + 7 system descriptions = 34
