@@ -9,6 +9,8 @@ order : 3
 
 ### Current Trustees
 
+- [Andre Plazter](http://symbolaris.com) (CADE-28 program co-chair)
+
 - [Laura Kovács](http://forsyte.at/people/kovacs/) (Relected 2019. Elected 2016)
 
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (Relected 2019. President 2016- . Elected 2016. Reelected 2012. Elected 2009)
@@ -27,8 +29,6 @@ order : 3
 
 - [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) (Reelected 2017. Elected 2014. IJCAR 2010 program co-chair)
 
-- [Nicolas Peltier](http://membres-lig.imag.fr/peltier/) (IJCAR 2020 program co-chair)
-
 - [Philipp R&uuml;mmer](http://www.philipp.ruemmer.org) (Secretary 2018-)
 
 - [Neil Murray](http://www.cs.albany.edu/~nvm/) (Treasurer 1992-. Secretary 1992-1999)
@@ -44,6 +44,7 @@ order : 3
 
 ### Previous Trustees
 
+- [Nicolas Peltier](http://membres-lig.imag.fr/peltier/) (IJCAR 2020 program co-chair)
 - [Jasmin Blanchette](http://people.mpi-inf.mpg.de/~jblanche/) (Term expired 2019. Elected 2016)
 - [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Term expired 2019. Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
 - [Martin Giese](http://heim.ifi.uio.no/martingi/) (Secretary 2010-2018)
