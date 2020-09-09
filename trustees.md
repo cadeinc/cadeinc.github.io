@@ -82,7 +82,7 @@ order : 3
 - [Claude Kirchner](http://www.loria.fr/%7Eckirchne/) (Term expired 2001. Elected 10/1998. CADE-15 program chair)
 - [William McCune](http://www.mcs.anl.gov/home/mccune/) (Term expired 2000. Elected 8/1997. CADE-14 program chair)
 - [Alan Bundy](http://homepages.inf.ed.ac.uk/bundy/) (Term expired 1999. President until 1996. CADE-12 program chair)
-- [John Slaney](http://homepages.inf.ed.ac.uk/bundy/) (Term expired 1999. President 1997-1999. Vice president 1996. CADE-13 program chair)
+- [John Slaney](http://users.cecs.anu.edu.au/~jks/) (Term expired 1999. President 1997-1999. Vice president 1996. CADE-13 program chair)
 - [Mark Stickel](http://www.ai.sri.com/%7Estickel/) (President 1996. Vice president 1996. CADE-10 program chair)
 - [Helene Kirchner](http://www.loria.fr/%7Ehkirchne/) (CADE-15 program chair)
 - [Michael McRobbie](http://www.indiana.edu/%7Eovpit/mcrobbie/) (CADE-13 program chair)
