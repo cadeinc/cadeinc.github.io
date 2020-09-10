@@ -30,7 +30,7 @@ That voting procedure has now been chosen:
 The voting procedure for trustee elections is the Condorcet
 completion Minimax-PM. It is the default voting system at
 the Condorcet Internet Voting Service supported by Andrew Myers,
-see https://civs.cs.cornell.edu/
+see [https://civs.cs.cornell.edu](https://civs.cs.cornell.edu).
 
 ---------------
 
