@@ -26,7 +26,7 @@ In November 2019 the CADE membership approved a change to the bylaws
 "Subsection 2.3 Election of Trustees", from the use of the CADE Single 
 Transferrable Vote system to use of a system that in the future will be 
 specified in the CADE web pages.
-That voting procedure has now been chosen:
+
 The voting procedure for trustee elections is the Condorcet
 completion Minimax-PM. It is the default voting system at
 the Condorcet Internet Voting Service supported by Andrew Myers,
