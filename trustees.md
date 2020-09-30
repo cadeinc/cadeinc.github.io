@@ -11,6 +11,10 @@ order : 3
 
 - [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Elected 2020. Term expired 2019. Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
 
+- [Marijn Heule](http://www.cs.utexas.edu/~marijn/) (Relected 2020. Elected 2017)
+
+- [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Relected 2020. Elected 2017)
+
 - [Andre Plazter](http://symbolaris.com) (CADE-28 program co-chair)
 
 - [Laura Kovács](http://forsyte.at/people/kovacs/) (Relected 2019. Elected 2016)
@@ -24,10 +28,6 @@ order : 3
 - [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) Relected 2018. (Vice-president 2015-. Elected 2015. Term expired 2011. Elected 2008)
 
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (Elected 2018. IJCAR 2018 program co-chair)
-
-- [Marijn Heule](http://www.cs.utexas.edu/~marijn/) (Elected 2017)
-
-- [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Elected 2017)
 
 - [Philipp R&uuml;mmer](http://www.philipp.ruemmer.org) (Secretary 2018-)
 
