@@ -15,7 +15,7 @@ order : 3
 
 - [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Relected 2020. Elected 2017)
 
-- [Andre Plazter](http://symbolaris.com) (CADE-28 program co-chair)
+- [Andre Platzer](http://symbolaris.com) (CADE-28 program co-chair)
 
 - [Laura Kovács](http://forsyte.at/people/kovacs/) (Relected 2019. Elected 2016)
 
