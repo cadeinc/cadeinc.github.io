@@ -9,10 +9,11 @@ tagline : for Distinguished Contributions to Automated Reasoning
 
 In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions to Automated Reasoning, to honor an individual or (a group of) individuals for exceptional contributions to the field of Automated Deduction. Nominations for this award can be made at any time to the president of CADE Inc.
 
-<img style="float: right;" width="30%" src="./HerbrandPhoto/HerbrandAwardNikolajBjornerLeonardoDeMoura.jpg">
+<img style="float: right;" width="30%" src="./HerbrandPhoto/HerbrandAwardFranzBaader.jpg">
 
 ### Winners
 
+ - [Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader) (2020)
  - [Nikolaj Bj&oslash;rner](https://www.microsoft.com/en-us/research/people/nbjorner/) and [Leonardo de Moura](https://www.microsoft.com/en-us/research/people/leonardo/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fleonardo%2Fz3_doc%2Fgroup__z3native.html) (2019)
  - [Bruno Buchberger](http://www.risc.jku.at/people/buchberger/) (2018)
  - [Lawrence C. Paulson](http://www.cl.cam.ac.uk/~lp15/) (2017)
@@ -62,13 +63,31 @@ It is published upon its formation.
 Nominators, nominees and authors of endorsement letters are not eligible for 
 membership in the Herbrand award committee. 
 The Herbrand award committee decides on the award.
-The 2019 committee was
-Dale Miller (chair),
-Bruno Dutetre,
-Juergen Giesl,
-Larry Paulson.
+The 2020 committee was
+Andrei Vorokov (chair),
+Christopher Lynch,
+Robert Nieuwenhuis,
+Stephan Schulz.
 
 ### Citations
+
+--------
+
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+
+<center>
+	<img width="33%" src="./HerbrandPhoto/HerbrandAwardFranzBaader.jpg">
+	<br/>
+	<b>Franz Baader</b>
+</center>
+
+in recognition of his significant contributions to unification theory, 
+combinations of theories and reasoning in description logics.
+
+To be presented at CADE-28, the 28th International Conference on Automated Deduction.
+
+Andrei Vorokov
+On behalf of the 2020 Herbrand Award Committee
 
 --------
 
