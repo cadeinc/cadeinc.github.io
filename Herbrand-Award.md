@@ -76,7 +76,7 @@ Stephan Schulz.
 The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
 
 <center>
-	<img src="./HerbrandPhoto/HerbrandAwardFranzBaader.jpg" height="320">
+	<img src="./HerbrandPhoto/HerbrandAwardFranzBaader.jpg" height="33%">
 	<br/>
 	<b>Franz Baader</b>
 </center>
