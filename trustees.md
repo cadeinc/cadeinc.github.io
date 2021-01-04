@@ -9,6 +9,8 @@ order : 3
 
 ### Current Trustees
 
+- [Jasmin Blanchette](https://research.vu.nl/en/persons/jasmin-christian-blanchette) (IJCAR 2022 program co-chair)
+
 - [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Elected 2020. Term expired 2019. Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
 
 - [Marijn Heule](http://www.cs.utexas.edu/~marijn/) (Relected 2020. Elected 2017)
