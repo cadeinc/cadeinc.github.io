@@ -5,7 +5,11 @@ header : The Bill McCune PhD Award
 ---
 {% include JB/setup %}
 
-In 2019 CADE Inc. established the Bill McCune PhD Award in Automated Reasoning to distinguish each year a PhD thesis defended the previous year, for its substantive contributions to the field of Automated Reasoning, its theory, its implementation, and/or its application on important problems. The award is named after the American computer scientist William Walker McCune.
+In 2019 CADE Inc. established the Bill McCune PhD Award in Automated Reasoning 
+to distinguish each year a PhD thesis defended the previous year, for its 
+substantive contributions to the field of Automated Reasoning, its theory, 
+its implementation, and/or its application on important problems. 
+The award is named after the American computer scientist William Walker McCune.
 
 ### Recipients
 
