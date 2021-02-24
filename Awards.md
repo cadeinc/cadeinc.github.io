@@ -12,4 +12,6 @@ order : 2
 
 - [Skolem Award](http://www.cadeinc.org/Skolem-Award)
 
+- [Bill McCune PhD Award](http://www.cadeinc.org/McCune-Award)
+
 - [Woody Bledsoe Award](http://www.cadeinc.org/WoodyBledsoeAward)
