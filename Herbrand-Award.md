@@ -86,7 +86,7 @@ combinations of theories and reasoning in description logics.
 
 To be presented at CADE-28, the 28th International Conference on Automated Deduction.
 
-Andrei Vorokov
+Andrei Vorokov<br/>
 On behalf of the 2020 Herbrand Award Committee
 
 --------
@@ -105,7 +105,7 @@ academic and industrial needs.
 
 Presented at CADE-27, the 27th International Conference on Automated Deduction.
 
-J&uuml;rgen Giesl
+J&uuml;rgen Giesl<br/>
 On behalf of the 2019 Herbrand Award Committee
 
 --------
@@ -124,7 +124,7 @@ comprehensive and widely applicable tools.
 
 Presented at IJCAR 2018, the 9th International Joint Conference on Automated Reasoning July, 2018.
 
-Christoph Weidenbach
+Christoph Weidenbach<br/>
 President of CADE Inc.
 
 --------
@@ -144,7 +144,7 @@ as well as his impressive formalizations of deep mathematical theories.
 
 Presented at CADE-26, the 26th International Conference on Automated Deduction.
 
-Christoph Weidenbach
+Christoph Weidenbach<br/>
 President of CADE Inc.
 
 --------
@@ -161,7 +161,7 @@ for his pioneering research and pedagogical contributions (with Richard Waldinge
 
 Presented at IJCAR 2016, the 8th International Joint Conference on Automated Reasoning June, 2016
 
-Maria Paola Bonacina
+Maria Paola Bonacina<br/>
 President of CADE Inc.
 
 --------
@@ -179,7 +179,7 @@ for his pioneering research and pedagogical contributions (with Zohar Manna) to 
 
 Presented at IJCAR 2016, the 8th International Joint Conference on Automated Reasoning June, 2016.
 
-Maria Paola Bonacina
+Maria Paola Bonacina<br/>
 President of CADE Inc.
 
 --------
@@ -196,7 +196,7 @@ in recognition of his numerous theoretical and practical contributions to automa
 
 Presented at CADE-25 The 25th International Conference on Automated Deduction August, 2015
 
-Maria Paola Bonacina
+Maria Paola Bonacina<br/>
 President of CADE Inc.
 
 --------
@@ -214,7 +214,7 @@ in recognition of his pioneering research in automated reasoning, including his 
 
 Presented at IJCAR 2014 The 7th International Joint Conference on Automated Reasoning July, 2014
 
-Maria Paola Bonacina
+Maria Paola Bonacina<br/>
 President of CADE Inc.
 
 --------
@@ -231,7 +231,7 @@ for his pioneering contributions to theorem proving and program verification, su
 
 Presented at CADE-24 The 24th International Conference on Automated Deduction June, 2013
 
-Franz Baader
+Franz Baader<br/>
 President of CADE Inc.
 
 --------
@@ -249,7 +249,7 @@ in recognition of his outstanding contributions to tableau-based theorem proving
 
 Presented at IJCAR 2012 The 6th International Joint Conference on Automated Reasoning June 26, 2012
 
-Franz Baader
+Franz Baader<br/>
 President of CADE Inc.
 
 --------
@@ -267,7 +267,7 @@ in recognition of his ground-breaking research on the design and use of well-fou
 
 Presented at CADE 2011 The 23rd International Conference on Automated Deduction August 2, 2011
 
-Franz Baader
+Franz Baader<br/>
 President of CADE Inc.
 
 --------
@@ -285,7 +285,7 @@ in recognition of his numerous seminal contributions to several areas of automat
 
 Presented at IJCAR 2010 The 5th International Joint Conference on Automated Reasoning July 19, 2010
 
-Maria Paola Bonacina
+Maria Paola Bonacina<br/>
 President of CADE Inc.
 
 --------
@@ -302,7 +302,7 @@ in recognition of of his seminal contributions to several areas of automated ded
 
 Presented at CADE-22 The 22nd International Conference on Automated Deduction August 5, 2009
 
-Reiner Hähnle
+Reiner Hähnle<br/>
 Vice-president of CADE Inc.
 
 --------
@@ -319,7 +319,7 @@ in recognition of his role in the invention of model checking and his sustained 
 
 Presented at IJCAR 2008 The 4th International Joint Conference on Automated Reasoning August 13, 2008
 
-Franz Baader
+Franz Baader<br/>
 President of CADE Inc.
 
 --------
@@ -338,7 +338,7 @@ in recognition of his outstanding contributions to proof planning and inductive 
 
 Presented at CADE-21 The 21st International Conference on Automated Deduction July 17, 2007
 
-Franz Baader
+Franz Baader<br/>
 President of CADE Inc.
 
 --------
@@ -357,7 +357,7 @@ in recognition of his seminal work on first order theorem proving and its applic
 
 Presented at IJCAR 2006 The International Joint Conference on Automated Reasoning August 19, 2006
 
-Franz Baader
+Franz Baader<br/>
 President of CADE Inc.
 
 --------
@@ -375,7 +375,7 @@ in recognition of his role as a founding father of the field of automated reason
 
 Presented at CADE-20 The Twentieth International Conference on Automated Deduction July 26, 2005
 
-Franz Baader
+Franz Baader<br/>
 President of CADE Inc.
 
 --------
@@ -392,7 +392,7 @@ in recognition of his seminal work on the theory underlying modern theorem provi
 
 Presented at IJCAR-2004 The 2nd International Joint Conference on Automated Reasoning July 2004
 
-Frank Pfenning
+Frank Pfenning<br/>
 President of CADE Inc.
 
 --------
@@ -409,7 +409,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 for his seminal contributions and pioneering research in type theory, mating-based theorem proving, automated deduction in higher-order logic, proof presentation, logic education, and many other contributions to the field of automated reasoning.
 presented at CADE-19 The Nineteenth International Conference on Automated Deduction August 1, 2003
 
-Ulrich Furbach
+Ulrich Furbach<br/>
 President of CADE Inc.
 
 --------
@@ -424,7 +424,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 
 for his ground-breaking discoveries in AC-unification, reasoning modulo a theory, term indexing, and thorough development of the SNARK and PTTP provers, as well as many other contributions to the field of automated reasoning presented at CADE-18 The Eighteenth International Conference on Automated Deduction July 29, 2002
 
-Ulrich Furbach
+Ulrich Furbach<br/>
 President of CADE Inc.
 
 --------
@@ -442,7 +442,7 @@ for his development of the model elimination procedure, for his contributions to
 Presented at
 IJCAR-2001 The First International Joint Conference on Automated Reasoning June 19, 2001
 
-Ulrich Furbach
+Ulrich Furbach<br/>
 President of CADE Inc.
 
 --------
@@ -459,7 +459,7 @@ for his development of powerful and portable automated deduction tools, includin
 
 Presented at CADE-17 The Seventeenth International Conference on Automated Deduction June 18, 2000
 
-Ulrich Furbach
+Ulrich Furbach<br/>
 President of CADE Inc.
 
 --------
@@ -476,7 +476,7 @@ for his work (with J Strother Moore) on the automation of inductive inference an
 
 Presented at CADE-16 The Sixteenth International Conference on Automated Deduction July 7, 1999
 
-John Slaney
+John Slaney<br/>
 President of CADE Inc.
 
 --------
@@ -493,7 +493,7 @@ for his work (with Robert S. Boyer) on the automation of inductive inference and
 
 Presented at CADE-16 The Sixteenth International Conference on Automated Deduction July 7, 1999
 
-John Slaney
+John Slaney<br/>
 President of CADE Inc.
 
 --------
@@ -510,7 +510,7 @@ for his contributions to term rewriting and to theorem proving in higher-order l
 
 Presented at CADE-15 The 15-th International Conference on Automated Deduction July, 1998
 
-John Slaney
+John Slaney<br/>
 President of CADE Inc
 
 --------
@@ -528,7 +528,7 @@ for groundbreaking work in geometric theorem proving and many other contribution
 
 Presented at CADE-14 The 14-th International Conference on Automated Deduction July, 1997
 
-John Slaney
+John Slaney<br/>
 President of CADE Inc
 
 --------
@@ -544,7 +544,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 for the invention of the resolution inference rule and many other contributions to the field of automated reasoning.
 presented at CADE-13 The Thirteenth International Conference on Automated Deduction Tuesday, July 30, 1996
 
-Alan Bundy
+Alan Bundy<br/>
 President of CADE Inc
 
 --------
@@ -562,7 +562,7 @@ for his numerous contributions to the field of Automated Deduction including nat
 
 Presented at CADE-12 The Twelfth International Conference on Automated Deduction June/July, 1994
 
-Larry Wos
+Larry Wos<br/>
 President of CADE Inc
 
 --------
