@@ -13,6 +13,11 @@ The award is named after the American computer scientist William Walker McCune.
 
 ### Recipients
 
+ - [Jens Pagel] (2021)
+ - [Benjamin Kiesl](https://benjaminkiesl.github.io) (2020), 
+   and honorary mention to
+   [Martin Bromberger](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/martin-bromberger) (2019)
+
 ------------------------
 
 ### Procedure
@@ -58,20 +63,82 @@ The Expert Committee, consisting of leading researchers in Automating Reasoning,
 
 ------------------------
 
-Due to the COVID-19 crisis, the 2019 and 2020 awards are attributed in 2021.
+--------
 
-The 2019 and 2020 Bill McCune PhD Award in Automated Reasoning Expert Committee consists of
+The International Conference on Automated Deduction (CADE) Bill McCune PhD Award in Automated Reasoning is presented to
 
-* Nikolaj Bjorner, Microsoft
-* Pascal Fontaine, University of Liege
-* Carsten Fuhs, Birkbeck, University of London
-* Cezary Kaliszyk, University of Innsbruck
-* Claudia Nalon, University of Brasilia
-* Giles Reger, The University of Manchester
-* Giselle Reis, CMU-Qatar
-* Andy Reynolds, The University of Iowa
-* Uwe Waldmann, MPI for Informatics
+<center>
+	<b>Jens Pagel</b>
+</center>
 
-For 2019 and 2020, [nominations are to be submitted via EasyChair, by March 15, 2021](https://easychair.org/my/conference?conf=mccuneaward20192020).
+for his dissertation
+"Decision Procedures for Separation Logic: Beyond Symbolic Heaps",
+supervised by Prof. Florian Zuleger and Prof. Georg Weissenbacher. 
+The thesis was selected for its significant contributions to the theory
+and practice of formal verification and automated reasoning, notably for
+verification of heap-manipulating programs.
+The thesis introduced a new semantics for separation logic, with stronger
+separation requirements, that enable new decidability results.  The thesis
+also identified new decidable fragments of standard separation logic that can
+express data constraints over trees and lists, and investigated new practical
+decision procedures for inductive data structures that improve complexity over
+the state-of-the-art. Some of these procedures have already been implemented
+and proved competitive.
 
+Presented at CADE-28, the 28th International Conference on Automated Deduction.
+
+Pascal Fontaine<br/>
+On behalf of the 2021 Bill McCune PhD Award Committee
+
+--------
+
+The International Conference on Automated Deduction (CADE) Bill McCune PhD Award in Automated Reasoning is presented to
+
+<center>
+	<b>Benjamin Kiesl</b>
+</center>
+
+for his dissertation
+"Structural Reasoning Methods for Satisfiability Solving and Beyond"
+supervised by Prof. Martina Seidl and Prof. Hans Tompits.  
+The thesis was selected for its strong theoretical and practical results 
+around redundancy, on propositional and first-order logic.
+Redundancy notions are important for proof systems as well as for solving
+efficiency.  Benjamin introduced several new redundancy notions.  He presented
+an innovative SAT solving paradigm, satisfaction-driven clause learning
+(SDCL), that can solve problems defeating the classical conflict-driven clause
+learning (CDCL) paradigm. His work also lifted successful preprocessing
+techniques from SAT solving to the more general first-order logic.  Benjamin
+finally provided new simulation results between proof systems for quantified
+Boolean formulas.
+
+Pascal Fontaine<br/>
+On behalf of the 2020 Bill McCune PhD Award Committee
+
+An honorary mention is given to
+
+<center>
+	<b>Martin Bromberger</b>
+</center>
+
+for his dissertation
+"Decision Procedures for Linear Arithmetic"
+supervised by Prof. Dr. Christoph Weidenbach.  
+The thesis was selected for its impact on automated reasoning with linear 
+arithmetic.
+Bromberger designed efficient procedures for linear arithmetic
+reasoning on rationals and integers.  He introduced several elegant techniques
+to address different parts of the problem, including checking for the
+existence of an integer solution, deducing implied equalities, and reducing an
+unbounded problem to a bounded one.  Although linear arithmetic reasoning has
+been studied for many decades, Martin's implementation of his techniques
+within SPASS-SATT exhibited an impressive improvement over the
+state-of-the-art in SMT solving for arithmetic.  His contributions lead to a
+new generation of linear arithmetic solvers for automated reasoning.
+Presented at CADE-28, the 28th International Conference on Automated Deduction.
+
+Pascal Fontaine<br/>
+On behalf of the 2020 Bill McCune PhD Award Committee
+
+--------
 ------------------------

@@ -73,7 +73,7 @@ Stephan Schulz.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img src="./HerbrandPhoto/HerbrandAwardFranzBaader.jpg" width="33%">
@@ -84,14 +84,14 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 in recognition of his significant contributions to unification theory, 
 combinations of theories and reasoning in description logics.
 
-To be presented at CADE-28, the 28th International Conference on Automated Deduction.
+Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Andrei Vorokov<br/>
 On behalf of the 2020 Herbrand Award Committee
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="33%" src="./HerbrandPhoto/HerbrandAwardNikolajBjornerLeonardoDeMoura.jpg">
@@ -110,7 +110,7 @@ On behalf of the 2019 Herbrand Award Committee
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="33%" src="./HerbrandPhoto/HerbrandAwardBrunoBuchberger.jpg">
@@ -129,7 +129,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="20%" src="./HerbrandPhoto/HerbrandAwardLarryPaulson.jpg">
@@ -149,7 +149,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="20%" src="./HerbrandPhoto/HerbrandAwardZoharManna.jpg">
@@ -166,7 +166,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="20%" src="./HerbrandPhoto/HerbrandAwardRichardWaldinger.jpg">
@@ -184,7 +184,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="30%" src="./HerbrandPhoto/HerbrandAwardAndreiVoronkov.jpg">
@@ -201,7 +201,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="30%" src="./HerbrandPhoto/HerbrandAwardRobertConstable.jpg">
@@ -219,7 +219,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="30%" src="./HerbrandPhoto/HerbrandAwardGregNelson.jpg">
@@ -236,7 +236,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="30%" src="./HerbrandPhoto/HerbrandAwardMelvinFitting.jpg">
@@ -254,7 +254,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardNachumDershowitz.jpg">
@@ -272,7 +272,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardDavidPlaisted.jpg">
@@ -290,7 +290,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardDeepakKapur.jpg">
@@ -307,7 +307,7 @@ Vice-president of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardEdClarke.jpg">
@@ -324,7 +324,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardAlanBundy.jpg">
@@ -343,7 +343,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardWolfgangBibel.jpg">
@@ -362,7 +362,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardMartinDavis.jpg">
@@ -380,7 +380,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardHaraldGanzinger.gif">
@@ -397,7 +397,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardPeterAndrews.jpg">
@@ -414,7 +414,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardMarkStickel.jpg">
@@ -429,7 +429,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardDonaldLoveland.jpg">
@@ -447,7 +447,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardWilliamMcCune.jpg">
@@ -464,7 +464,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardRobertSBoyer.jpg">
@@ -481,7 +481,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardJStrotherMoore.jpg">
@@ -498,7 +498,7 @@ President of CADE Inc.
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardGerardHuet.jpg">
@@ -515,7 +515,7 @@ President of CADE Inc
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardWenTsunWu.jpg">
@@ -533,7 +533,7 @@ President of CADE Inc
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardJohnAlanRobinson.jpg">
@@ -549,7 +549,7 @@ President of CADE Inc
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardWoodyBledsoe.gif">
@@ -567,7 +567,7 @@ President of CADE Inc
 
 --------
 
-The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning presented to
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardLarryWos.gif">
