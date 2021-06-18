@@ -63,11 +63,8 @@ It is published upon its formation.
 Nominators, nominees and authors of endorsement letters are not eligible for 
 membership in the Herbrand award committee. 
 The Herbrand award committee decides on the award.
-The 2020 committee was
-Andrei Vorokov (chair),
-Christopher Lynch,
-Robert Nieuwenhuis,
-Stephan Schulz.
+
+------------------------
 
 ### Citations
 

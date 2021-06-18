@@ -13,7 +13,7 @@ The award is named after the American computer scientist William Walker McCune.
 
 ### Recipients
 
- - [Jens Pagel] (2021)
+ - Jens Pagel (2021)
  - [Benjamin Kiesl](https://benjaminkiesl.github.io) (2020), 
    and honorary mention to
    [Martin Bromberger](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/martin-bromberger) (2019)
@@ -60,8 +60,6 @@ The Expert Committee, consisting of leading researchers in Automating Reasoning,
 ------------------------
 
 ### Citations
-
-------------------------
 
 --------
 
@@ -112,6 +110,8 @@ techniques from SAT solving to the more general first-order logic.  Benjamin
 finally provided new simulation results between proof systems for quantified
 Boolean formulas.
 
+Presented at CADE-28, the 28th International Conference on Automated Deduction.
+
 Pascal Fontaine<br/>
 On behalf of the 2020 Bill McCune PhD Award Committee
 
@@ -135,6 +135,7 @@ been studied for many decades, Martin's implementation of his techniques
 within SPASS-SATT exhibited an impressive improvement over the
 state-of-the-art in SMT solving for arithmetic.  His contributions lead to a
 new generation of linear arithmetic solvers for automated reasoning.
+
 Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Pascal Fontaine<br/>
