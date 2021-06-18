@@ -102,11 +102,11 @@ supervised by Prof. Martina Seidl and Prof. Hans Tompits. 
 The thesis was selected for its strong theoretical and practical results 
 around redundancy, on propositional and first-order logic.
 Redundancy notions are important for proof systems as well as for solving
-efficiency.  Benjamin introduced several new redundancy notions.  He presented
+efficiency.  He introduced several new redundancy notions.  He presented
 an innovative SAT solving paradigm, satisfaction-driven clause learning
 (SDCL), that can solve problems defeating the classical conflict-driven clause
 learning (CDCL) paradigm. His work also lifted successful preprocessing
-techniques from SAT solving to the more general first-order logic.  Benjamin
+techniques from SAT solving to the more general first-order logic.  He
 finally provided new simulation results between proof systems for quantified
 Boolean formulas.
 
@@ -131,7 +131,7 @@ reasoning on rationals and integers.  He introduced several elegant techniques
 to address different parts of the problem, including checking for the
 existence of an integer solution, deducing implied equalities, and reducing an
 unbounded problem to a bounded one.  Although linear arithmetic reasoning has
-been studied for many decades, Martin's implementation of his techniques
+been studied for many decades, the implementation of his techniques
 within SPASS-SATT exhibited an impressive improvement over the
 state-of-the-art in SMT solving for arithmetic.  His contributions lead to a
 new generation of linear arithmetic solvers for automated reasoning.
