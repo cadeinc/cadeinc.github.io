@@ -9,10 +9,11 @@ tagline : for Distinguished Contributions to Automated Reasoning
 
 In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions to Automated Reasoning, to honor an individual or (a group of) individuals for exceptional contributions to the field of Automated Deduction. Nominations for this award can be made at any time to the president of CADE Inc.
 
-<img style="float: right;" width="30%" src="./HerbrandPhoto/HerbrandAwardFranzBaader.jpg">
+<img style="float: right;" width="30%" src="./HerbrandPhoto/HerbrandAwardTobiasNipkow.jpg">
 
 ### Winners
 
+ - [Tobias Nipkow](https://www21.in.tum.de/~nipkow/) (2021)
  - [Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader) (2020)
  - [Nikolaj Bj&oslash;rner](https://www.microsoft.com/en-us/research/people/nbjorner/) and [Leonardo de Moura](https://www.microsoft.com/en-us/research/people/leonardo/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fleonardo%2Fz3_doc%2Fgroup__z3native.html) (2019)
  - [Bruno Buchberger](http://www.risc.jku.at/people/buchberger/) (2018)
@@ -67,6 +68,26 @@ The Herbrand award committee decides on the award.
 ------------------------
 
 ### Citations
+
+--------
+
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
+
+<center>
+	<img src="./HerbrandPhoto/HerbrandAwardTobiasNipkow.jpg" width="33%">
+	<br/>
+	<b>Tobias Nipkow</b>
+</center>
+
+in recognition of his leadership in developing Isabelle and related tools,
+resulting in key contributions to the foundations, automation, and use of
+proof assistants in a wide range of applications, as well as his
+successful efforts in increasing the visibility of automated reasoning.
+
+Presented at CADE-28, the 28th International Conference on Automated Deduction.
+
+J&uuml;rgen Giesl<br/>
+On behalf of the 2021 Herbrand Award Committee
 
 --------
 
