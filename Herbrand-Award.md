@@ -88,6 +88,7 @@ Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 J&uuml;rgen Giesl<br/>
 On behalf of the 2021 Herbrand Award Committee
+(J&uuml;rgen Giesl (chair), Deepak Kapur, Laura Kovacs, Brigitte Pientka)
 
 --------
 
