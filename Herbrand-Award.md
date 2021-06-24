@@ -107,6 +107,7 @@ Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Andrei Vorokov<br/>
 On behalf of the 2020 Herbrand Award Committee
+(Andrei Voronkov (Chair), Chris Lynch, Robert Nieuwenhuis, Stephan Schulz)
 
 --------
 
@@ -126,6 +127,7 @@ Presented at CADE-27, the 27th International Conference on Automated Deduction.
 
 J&uuml;rgen Giesl<br/>
 On behalf of the 2019 Herbrand Award Committee
+(Dale Miller (Chair), Bruno Dutetre, J&uuml;rgen Giesl, Larry Paulson)
 
 --------
 
