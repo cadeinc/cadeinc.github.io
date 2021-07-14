@@ -9,19 +9,19 @@ In 2014 CADE Inc. established the Thoralf Skolem Award to reward a CADE paper th
 
 ### Recipients
 
-* CADE-23 (2011):  - 
+* CADE-23 (2011): Jasmin C. Blanchette, Sascha Böhme, and Lawrence C. Paulson - Extending Sledgehammer with SMT Solvers. Kryštof Hoder and Andrei Voronkov - Sine Qua Non for Large Theory Reasoning.
 * CADE-22 (2009): Rajeev Goré and Florian Widmann - An Optimal On-the-Fly Tableau-Based Decision Procedure for PDL-Satisfiability.
 * CADE-21 (2007): Leonardo de Moura and Nikolaj Bj&oslash;rner - Efficient E-Matching for SMT Solvers.
 * CADE-20 (2005): Christian Urban and Christine Tasson - Nominal Techniques in Isabelle/HOL.
-* CADE-17 (2000):  - 
+* CADE-17 (2000): Ian Horrocks, Ulrike Sattler, and Stephan Tobies - Reasoning with Individuals for the Description Logic SHIQ.
 * CADE-16 (1999): Christoph Weidenbach - Towards an Automated Analysis of Security Protocols.
 * CADE-15 (1998): Andreas Nonnengart, Georg Rock and Christoph Weidenbach - On Generating Small Clause Normal Forms.
 * CADE-14 (1997): Hantao Zhang - SATO: An Efficient Propositional Prover.
-* CADE-11 (1992):  - 
+* CADE-11 (1992): Sam Owre, John M. Rushby, and Natarajan Shankar - PVS: A Prototype Verification System.
 * CADE-10 (1990): Leo Bachmair and Harald Ganzinger - On Restrictions of Ordered Paramodulation with Simplification.
 * CADE-9 (1988): Alan Bundy - The Use of Explicit Plans to Guide Inductive Proofs.
 * CADE-8 (1986): Leo Bachmair and Nachum Dershowitz - Commutation, Transformation, and Termination.
-* CADE-5 (1980):  - 
+* CADE-5 (1980): Joseph A. Goguen - How to Prove Algebraic Inductive Hypotheses Without Induction. Jean-Marie Hullot - Canonical Forms and Unification.
 * CADE-4 (1979): Peter Andrews - General Matings.
 * CADE-2 (1976) and CADE-3 (1977) considered jointly: Zohar Manna and Richard Waldinger - The Automatic Synthesis of Recursive Programs. (presented at CADE-3).
 * CADE-0 (1968) and CADE-1 (1975) considered jointly: Nicolaas Govert de Bruijn - The Mathematical Language AUTOMATH, its Usage, and Some of its Extensions (presented at CADE-0).
@@ -48,9 +48,34 @@ In order to cover the entire history of CADE, beginning with CADE-25 (2015), in 
 
 ------------------------
 
+**CADE-23**: International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+Presented to
+
+**Jasmin C. Blanchette, Sascha Böhme, and Lawrence C. Paulson**
+
+for the paper "Extending Sledgehammer with SMT Solvers", and to 
+
+**Kryštof Hoder and Andrei Voronkov**
+
+for the paper "Sine Qua Non for Large Theory Reasoning", both published in the CADE-23 proceedings in 2011. The paper by Jasmin Blanchette, Sascha Böhme, and Larry Paulson is recognized for the successful integration of automated solvers into a widely used interactive theorem prover, with a significant speed-up in automating proofs. The paper by Kryštof Hoder and Andrei Voronkov is recognized for bringing to maturity the idea of symbol-based heuristics for axiom selection, with lasting impact on automated reasoning in large theories.
+
+Presented at
+CADE-28
+The 28th International Conference on Automated Deduction
+July, 2021
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of 
+Maria Paola Bonacina (chair), Wolfgang Ahrendt, Thierry Boy de la Tour, Amy Felty, Michael Rusinowitch, Manfred Schmidt-Schauss, Peter Schneider-Kamp.
+
+------------------------
+
 **CADE-22**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Rajeev Gor&eacute; and Florian Widmann**
 
@@ -77,7 +102,7 @@ Renate Schmidt.
 
 **CADE-21**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Leonardo de Moura and Nikolaj Bj&oslash;rner**
 
@@ -97,7 +122,7 @@ The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, 
 
 **CADE-20**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to:
+Presented to:
 
 **Christian Urban and Christine Tasson**
 
@@ -115,9 +140,30 @@ The Skolem Award Committee consisted of Claude Kirchner (chair), Alessandro Arma
 
 ------------------------
 
+**CADE-17**: International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+Presented to
+
+**Ian Horrocks, Ulrike Sattler, and Stephan Tobies**
+
+for the paper "Reasoning with Individuals for the Description Logic SHIQ", published in the CADE-17 proceedings in 2000. The paper is recognized for a practical and efficient tableau-based decision procedure for satisfiability in an expressive description logic that has wide applicability in knowledge representation, databases, and the semantic web.
+
+Presented at
+CADE-28
+The 28th International Conference on Automated Deduction
+July, 2021
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of 
+Maria Paola Bonacina (chair), Wolfgang Ahrendt, Thierry Boy de la Tour, Amy Felty, Michael Rusinowitch, Manfred Schmidt-Schauss, Peter Schneider-Kamp.
+
+------------------------
+
 **CADE-16**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Christoph Weidenbach**
 
@@ -144,7 +190,7 @@ Renate Schmidt.
 
 **CADE-15**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Andreas Nonnengart, Georg Rock and Christoph Weidenbach**
 
@@ -164,7 +210,7 @@ The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, 
 
 **CADE-14**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Hantao Zhang**
 
@@ -182,9 +228,30 @@ The Skolem Award Committee consisted of Claude Kirchner (chair), Alessandro Arma
 
 ------------------------
 
+**CADE-11**: International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+Presented to
+
+**Sam Owre, John M. Rushby, and Natarajan Shankar**
+
+for the paper "PVS: A Prototype Verification System", published in the CADE-11 proceedings in 1992. The paper is recognized for the design of the PVS system as a bridge between automated and interactive reasoning, with embedded decision procedures, simplification, programmable strategies, and proofs as software, as well as for the impact of PVS on deductive verification.
+
+Presented at
+CADE-28
+The 28th International Conference on Automated Deduction
+July, 2021
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of 
+Maria Paola Bonacina (chair), Wolfgang Ahrendt, Thierry Boy de la Tour, Amy Felty, Michael Rusinowitch, Manfred Schmidt-Schauss, Peter Schneider-Kamp.
+
+------------------------
+
 **CADE-10**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Leo Bachmair and Harald Ganzinger**
 
@@ -211,7 +278,7 @@ Renate Schmidt.
 
 **CADE-9**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Alan Bundy**
 
@@ -231,7 +298,7 @@ The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, 
 
 **CADE-8**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Leo Bachmair and Nachum Dershowitz**
 
@@ -249,9 +316,33 @@ The Skolem Award Committee consisted of Claude Kirchner (chair), Alessandro Arma
 
 ------------------------
 
+**CADE-5**: International Conference on Automated Deduction (CADE)
+Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
+Presented to
+
+**Joseph A. Goguen**
+
+for the paper "How to Prove Algebraic Inductive Hypotheses Without Induction", and to
+
+** Jean-Marie Hullot **
+
+for the paper "Canonical Forms and Unification", both published in the CADE-5 proceedings in 1980. The paper by Joe Goguen is recognized for fundamental contributions to the discovery of the inductionless induction method. The paper by Jean-Marie Hullot is recognized for paramount advances to the idea of solving equational unification problems by completion.
+
+Presented at
+CADE-28
+The 28th International Conference on Automated Deduction
+July, 2021
+
+Christoph Weidenbach
+President of CADE Inc.
+
+The Skolem Award Committee consisted of 
+Maria Paola Bonacina (chair), Wolfgang Ahrendt, Thierry Boy de la Tour, Amy Felty, Michael Rusinowitch, Manfred Schmidt-Schauss, Peter Schneider-Kamp.
+
+------------------------
 **CADE-4**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Peter Andrews**
 
@@ -277,7 +368,7 @@ Renate Schmidt.
 ------------------------
 **CADE-2 and CADE-3**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Zohar Manna and Richard Waldinger**
 
@@ -297,7 +388,7 @@ The Skolem Award Committee consisted of John Slaney (chair), Peter Baumgartner, 
 
 **CADE-0 and CADE-1**: International Conference on Automated Deduction (CADE)
 Skolem Award for a CADE paper that has Passed the Test of Time, by being a Most Influential Paper in the field.
-presented to
+Presented to
 
 **Nicolaas Govert de Bruijn**
 
