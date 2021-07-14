@@ -9,7 +9,7 @@ At every CADE conference the Program Committee selects one of the accepted paper
 
 ### Recipients
 
- * CADE-28 (2021): Tobias Nipkow and Simon Ro&szlig;kopf - Isabelle's Metalogic: Formalization and Proof Checker. Best student paper: Petar Vukmirovi&cacute;, Alexander Bentkamp, Jasmin Blanchette, Simon Cruanes, Visa Nummelin, and Sophie Tourret - Making Higher-Order Superposition Work.
+ * CADE-28 (2021): Tobias Nipkow and Simon Ro&szlig;kopf - Isabelle's Metalogic: Formalization and Proof Checker. Best student paper: Petar Vukmirovi&cacute; , Alexander Bentkamp, Jasmin Blanchette, Simon Cruanes, Visa Nummelin, and Sophie Tourret - Making Higher-Order Superposition Work.
  * CADE-27 (2019): Vojt&eacute;ch Havlena, Luk&aacute;š Holík, Onřej Lengál and Tomáš Vojnar - Automata Terms in a Lazy WSkS Decision Procedure. Best student paper: Martin Bromberger, Mathias Fleury, Simon Schwarz, and Christoph Weidenbach - SPASS-SATT a CDCL(LA) Solver. 
  * 9th IJCAR (2018): Benjamin Kiesl, Adrian Rebola-Pardo and Marijn Heule - Extended Resolution Simulates DRAT.
  * CADE-26 (2017): Marijn Heule, Benjamin Kiesl and Armin Biere - Short Proofs without New Variables. Benjamin Kiesl and Martin Suda - A Unifying Principle for Clause Elimination in First-Order Logic.
