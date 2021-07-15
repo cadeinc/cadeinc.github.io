@@ -86,9 +86,9 @@ and proved competitive.
 Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Pascal Fontaine<br/>
-On behalf of the 2021 Bill McCune PhD Award Committee
-(Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
-Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann)
+On behalf of the 2021 Bill McCune PhD Award Committee<br/>
+Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
+Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann
 
 --------
 
@@ -115,9 +115,9 @@ Boolean formulas.
 Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Pascal Fontaine<br/>
-On behalf of the 2020 Bill McCune PhD Award Committee
-(Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
-Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann)
+On behalf of the 2020 Bill McCune PhD Award Committee<br/>
+Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
+Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann
 
 An honorary mention is given to
 
@@ -143,8 +143,8 @@ new generation of linear arithmetic solvers for automated reasoning.
 Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Pascal Fontaine<br/>
-On behalf of the 2020 Bill McCune PhD Award Committee
-(Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
-Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann)
+On behalf of the 2020 Bill McCune PhD Award Committee<br/>
+Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
+Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann
 
 ------------------------
