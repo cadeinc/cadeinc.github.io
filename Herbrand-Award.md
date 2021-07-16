@@ -87,7 +87,7 @@ successful efforts in increasing the visibility of automated reasoning.
 Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 J&uuml;rgen Giesl<br/>
-On behalf of the 2021 Herbrand Award Committee
+On behalf of the 2021 Herbrand Award Committee<br/>
 (J&uuml;rgen Giesl (chair), Deepak Kapur, Laura Kovacs, Brigitte Pientka)
 
 --------
@@ -106,7 +106,7 @@ combinations of theories and reasoning in description logics.
 Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Andrei Vorokov<br/>
-On behalf of the 2020 Herbrand Award Committee
+On behalf of the 2020 Herbrand Award Committee<br/>
 (Andrei Voronkov (Chair), Chris Lynch, Robert Nieuwenhuis, Stephan Schulz)
 
 --------
@@ -126,7 +126,7 @@ academic and industrial needs.
 Presented at CADE-27, the 27th International Conference on Automated Deduction.
 
 J&uuml;rgen Giesl<br/>
-On behalf of the 2019 Herbrand Award Committee
+On behalf of the 2019 Herbrand Award Committee<br/>
 (Dale Miller (Chair), Bruno Dutetre, J&uuml;rgen Giesl, Larry Paulson)
 
 --------
