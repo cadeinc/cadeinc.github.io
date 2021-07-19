@@ -98,7 +98,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img src="./HerbrandPhoto/HerbrandAwardFranzBaader.jpg" width="33%">
 	<br/>
 	<b>Franz Baader</b>
-	&nbsp;<a href="./Data/HerbrandAwardSlidesBaader.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesBaader.pdf">Acceptance Speech</a>
 </center>
 
 in recognition of his significant contributions to unification theory, 
@@ -194,7 +194,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img width="20%" src="./HerbrandPhoto/HerbrandAwardRichardWaldinger.jpg">
 	<br/>
 	<b>Richard Waldinger</b>
-	<a href="./Data/HerbrandAwardSlidesWaldinger.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesWaldinger.pdf">Acceptance Speech</a>
 </center>
 
 for his pioneering research and pedagogical contributions (with Zohar Manna) to automated reasoning, program synthesis, planning, and formal methods. 
@@ -229,7 +229,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img width="30%" src="./HerbrandPhoto/HerbrandAwardRobertConstable.jpg">
 	<br/>
 	<b>Robert L. Constable</b>
-	<a href="./Data/HerbrandAwardSlidesConstable.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesConstable.pdf">Acceptance Speech</a>
 </center>
 
 in recognition of his pioneering research in automated reasoning, including his seminal contributions to the foundations of computational type theory, the creation of Nuprl - the first constructive type theory based theorem prover - the development of the correct-by-construction programming paradigm, and their applications to verification and synthesis of computer systems, including distributed computing. 
@@ -264,7 +264,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img width="30%" src="./HerbrandPhoto/HerbrandAwardMelvinFitting.jpg">
 	<br/>
 	<b>Melvin C. Fitting</b>
-	<a href="./Data/HerbrandAwardSlidesFitting.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesFitting.pdf">Acceptance Speech</a>
 </center>
 
 in recognition of his outstanding contributions to tableau-based theorem proving in classical and non-classical logics, as well as to many other areas of Automated Reasoning, Logic Programming, and Philosophical Logic. 
@@ -282,7 +282,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardNachumDershowitz.jpg">
 	<br/>
 	<b>Nachum Dershowitz</b>
-	<a href="./Data/HerbrandAwardSlidesDershowitz.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesDershowitz.pdf">Acceptance Speech</a>
 </center>
 
 in recognition of his ground-breaking research on the design and use of well-founded orderings in term rewriting and automated deduction. 
@@ -300,7 +300,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardDavidPlaisted.jpg">
 	<br/>
 	<b>David A. Plaisted</b>
-	<a href="./Data/HerbrandAwardSlidesPlaisted.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesPlaisted.pdf">Acceptance Speech</a>
 </center>
 
 in recognition of his numerous seminal contributions to several areas of automated reasoning, including first-order theorem proving, term rewriting, completion, orderings, inductive reasoning, and pioneering research on abstraction, instance-based methods and search complexity in theorem proving. 
@@ -352,7 +352,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardAlanBundy.jpg">
 	<br/>
 	<b>Alan Bundy</b>
-	<a href="./Data/HerbrandAwardSlidesBundy.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesBundy.pdf">Acceptance Speech</a>
 </center>
 
 
@@ -371,7 +371,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardWolfgangBibel.jpg">
 	<br/>
 	<b>Wolfgang Bibel</b>
-	<a href="./Data/HerbrandAwardSlidesBibel.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesBibel.pdf">Acceptance Speech</a>
 </center>
 
 in recognition of his seminal work on first order theorem proving and its applications in Artificial Intelligence and Programming. His research on the connection method laid the foundations for many modern deduction systems, and it had signifcant influence on other research areas such as Logic Programming, Knowledge Representation, and Deductive Planning.
@@ -425,7 +425,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img width="25%" src="./HerbrandPhoto/HerbrandAwardPeterAndrews.jpg">
 	<br/>
 	<b>Peter Andrews</b>
-	<a href="./Data/HerbrandAwardSlidesAndrews.pdf">Acceptance Speech</a>
+	<br/><a href="./Data/HerbrandAwardSlidesAndrews.pdf">Acceptance Speech</a>
 </center>
 
 for his seminal contributions and pioneering research in type theory, mating-based theorem proving, automated deduction in higher-order logic, proof presentation, logic education, and many other contributions to the field of automated reasoning.
