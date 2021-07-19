@@ -98,6 +98,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 	<img src="./HerbrandPhoto/HerbrandAwardFranzBaader.jpg" width="33%">
 	<br/>
 	<b>Franz Baader</b>
+	&nbsp;<a href="./Data/HerbrandAwardSlidesBaader.pdf">Acceptance Speech</a>
 </center>
 
 in recognition of his significant contributions to unification theory, 
