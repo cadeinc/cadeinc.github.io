@@ -324,7 +324,7 @@ Presented to
 
 for the paper "How to Prove Algebraic Inductive Hypotheses Without Induction", and to
 
-** Jean-Marie Hullot **
+**Jean-Marie Hullot**
 
 for the paper "Canonical Forms and Unification", both published in the CADE-5 proceedings in 1980. The paper by Joe Goguen is recognized for fundamental contributions to the discovery of the inductionless induction method. The paper by Jean-Marie Hullot is recognized for paramount advances to the idea of solving equational unification problems by completion.
 
