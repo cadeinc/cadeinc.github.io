@@ -9,7 +9,7 @@ order : 3
 
 ### Current Trustees
 
-- [Cláudia Nalon](https://cic.unb.br/~nalon/) (Elected 2021.)
+- [Cláudia Nalon](https://cic.unb.br/~nalon/) (Elected 2021)
 
 - [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (Reelected 2021. Elected 2018. IJCAR 2018 program co-chair)
 
