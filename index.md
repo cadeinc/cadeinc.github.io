@@ -11,7 +11,8 @@ CADE is the major international forum at which research on all aspects of automa
 
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
-	<a href="http://ijcar.org" target="_top">Part of IJCAR 2022, Haifa, Israel, 31st July - 12th August 2022</a><br>
+    Part of
+	<a href="http://ijcar.org" target="_top">IJCAR 2022</a>, Haifa, Israel, 31st July - 12th August 2022<br>
     <strong>Trustees elected</strong>: Stephan Schulz, Cláudia Nalon
 </div>
 
