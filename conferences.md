@@ -13,6 +13,8 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Future Conferences
 
+* 2022: See the [IJCAR web pages](http://ijcar.org/conferences)
+
 ### CADE/IJCAR Management
 
 - [Conference management notes and schedule](Schedule)
