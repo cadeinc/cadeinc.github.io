@@ -9,6 +9,10 @@ order : 3
 
 ### Current Trustees
 
+- [Cláudia Nalon](https://cic.unb.br/~nalon/) (Elected 2021.)
+
+- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (Reelected 2021. Elected 2018. IJCAR 2018 program co-chair)
+
 - [Jasmin Blanchette](https://research.vu.nl/en/persons/jasmin-christian-blanchette) (IJCAR 2022 program co-chair)
 
 - [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Elected 2020. Term expired 2019. Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
@@ -27,10 +31,6 @@ order : 3
 
 - [Aart Middeldorp](http://cl-informatik.uibk.ac.at/users/ami/) (Elected 2019. Term expired 2018. Elected 2015)
 
-- [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) Relected 2018. (Vice-president 2015-. Elected 2015. Term expired 2011. Elected 2008)
-
-- [Stephan Schulz](http://wwwlehre.dhbw-stuttgart.de/~sschulz/DHBW_Stephan_Schulz/Stephan_Schulz.html) (Elected 2018. IJCAR 2018 program co-chair)
-
 - [Philipp R&uuml;mmer](http://www.philipp.ruemmer.org) (Secretary 2018-)
 
 - [Neil Murray](http://www.cs.albany.edu/~nvm/) (Treasurer 1992-. Secretary 1992-1999)
@@ -46,6 +46,7 @@ order : 3
 
 ### Previous Trustees
 
+- [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) Relected 2018. (Vice-president 2015-. Term expired 2021. Elected 2015. Term expired 2011. Elected 2008)
 - [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) (Term expired 2020. Reelected 2017. Elected 2014. IJCAR 2010 program co-chair)
 - [Nicolas Peltier](http://membres-lig.imag.fr/peltier/) (IJCAR 2020 program co-chair)
 - [Jasmin Blanchette](http://people.mpi-inf.mpg.de/~jblanche/) (Term expired 2019. Elected 2016)

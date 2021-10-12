@@ -12,7 +12,7 @@ CADE is the major international forum at which research on all aspects of automa
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
 	<a href="http://www.CADE-28.info" target="_top">CADE-28, Pittsburgh, USA 12-15 July 2021</a><br>
-    <strong>Trustees elected</strong>: Renate Schmidt, Marijn Heule, and Andrew Reynolds.
+    <strong>Trustees elected</strong>: Stephan Schulz, Cláudia Nalon
 </div>
 
 -----
