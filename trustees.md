@@ -21,8 +21,6 @@ order : 3
 
 - [Andrew Reynolds](http://homepage.divms.uiowa.edu/~ajreynol/) (Relected 2020. Elected 2017)
 
-- [Andre Platzer](http://symbolaris.com) (CADE-28 program co-chair)
-
 - [Laura Kovács](http://forsyte.at/people/kovacs/) (Relected 2019. Elected 2016)
 
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/) (Relected 2019. President 2016- . Elected 2016. Reelected 2012. Elected 2009)
@@ -46,6 +44,7 @@ order : 3
 
 ### Previous Trustees
 
+- [Andre Platzer](http://symbolaris.com) (CADE-28 program co-chair)
 - [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) Relected 2018. (Vice-president 2015-. Term expired 2021. Elected 2015. Term expired 2011. Elected 2008)
 - [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) (Term expired 2020. Reelected 2017. Elected 2014. IJCAR 2010 program co-chair)
 - [Nicolas Peltier](http://membres-lig.imag.fr/peltier/) (IJCAR 2020 program co-chair)
