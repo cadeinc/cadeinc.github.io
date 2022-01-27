@@ -221,26 +221,26 @@ CADE is the major international forum at which research on all aspects of automa
   - Participants: 93
   - Invited speakers: Dag Prawitz
 
-* CADE-4 - Fourth Workshop on Automated Deduction, Austin, USA, 1979 ([Proceedings](Data/CADE-4_Proceedings.pdf))
+* "CADE-4" - Fourth Workshop on Automated Deduction, Austin, USA, 1979 ([Proceedings](Data/CADE-4_Proceedings.pdf))
   - Program Chair: Sharon Sickel
   - Proceedings Editor: William Joyner
   - Local Arrangements Chairs: Woody Bledsoe
   - Participants: ?
   - Invited speakers: Martin Davis
 
-* CADE-3 - Workshop on Automated Deduction, Cambridge, USA, 1977 ([Proceedings](Data/CADE-3_Proceedings.pdf))
+* "CADE-3" - Workshop on Automated Deduction, Cambridge, USA, 1977 ([Proceedings](Data/CADE-3_Proceedings.pdf))
   - Program Chair: Ray Reiter
   - Local Arrangements Chairs: ?
   - Participants: ?
   - Invited speakers: ?
 
-* CADE-2, Oberwolfach, Germany, 1976 ([Oberwolfach Digital Archive, Workshop 7602b - Automatisches Beweisen](https://oda.mfo.de/handle/mfo/1407))
+* "CADE-2", Oberwolfach, Germany, 1976 ([Oberwolfach Digital Archive, Workshop 7602b - Automatisches Beweisen](https://oda.mfo.de/handle/mfo/1407))
   - Program Chairs: Woody Bledsoe, Michael Richter
   - Local Arrangements Chairs: Michael Richter
   - Participants: 35
   - Invited speakers: 28
 
-* CADE-1 - IEEE Workshop on Automated Theorem Proving, Argonne, USA, 1975 ([IEEE Transactions on Computers C-25(8)](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=35150))
+* "CADE-1" - IEEE Workshop on Automated Theorem Proving, Argonne, USA, 1975 ([IEEE Transactions on Computers C-25(8)](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=35150))
   - Program Chair: Larry Henschen
   - Local Arrangements Chairs: Larry Wos
   - Participants: 50
@@ -254,13 +254,18 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Notes on the Early History of CADE
 
-Wolfgang Bibel provided many details of the early CADEs, which have been integrated into the list above
+Wolfgang Bibel provided many details of the early CADEs, which have been integrated 
+into the list above
 Peter Andrews provided many details of the early CADEs. He noted ...
 
-Evidently the conference at Versailles, France, in 1968 was not considered part of the CADE sequence of conferences by the early CADE organizers (one of whom was Wolfgang Bibel).
-
-Gérard Huet recalls ...
-CADE was created probably at the 1977 meeting. Retroactively, the meetings of Argonne and Oberworlfach were christened CADE-1 and CADE-2, consistently with the fact that they were organized by the automated deduction community (Wos, Robinson, Bledsoe, Loveland, Andrews, Bibel, etc).
+The conferences 1968 to 1979 were not part of the CADE sequence of conferences.
+Wolfgang Bibel reports ...
+"The term CADE was used for the very first time for CADE-1980, the Fifth
+International Conference on Automated Deduction (the numbering added
+after the reconstruction of the history), held in Les Arcs, Frankreich,
+Juli 1980. Its Program Chairs were Wolfgang Bibel and Robert Kowalski.
+And it was me who suggested to introduce the term in - still existing -
+letters to Woody Bledsoe, Bob Kowalsky and others."
 
 The 1968 meeting was organized by the mathematician Marcel-Paul Schützenberger, one of the founders of formal language theory, the logician Daniel Lacombe and the computer scientist Louis Nolin. It occurred at the just created IRIA (Institut de Recherche en Informatique et en Automatique) in Rocquencourt, near Versailles. This was actually the first scientific meeting organized at IRIA (to become INRIA in 1984 when it became a national institute). Schützenberger was the father of the Parisian school of theoretical computer science, and one of the founding scientific directors of IRIA. G. Kreisel came, probably invited by D. Lacombe, a specialist of recursive functions theory, and Jean-Louis Krivine, who had been working with him on axiomatic set theory. de Bruijn gave one of the first presentations of Automath. D. Scott discussed a notion of constructive validity. Several pioneers of automated theorem-proving participated, such as Hao Wang, R. Kowalski, D. Loveland, D. Luckham and L. Wos.
 
