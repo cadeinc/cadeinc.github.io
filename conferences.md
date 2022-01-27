@@ -254,6 +254,8 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Notes on the Early History of CADE
 
+The 1968 meeting was organized by the mathematician Marcel-Paul Schützenberger, one of the founders of formal language theory, the logician Daniel Lacombe and the computer scientist Louis Nolin. It occurred at the just created IRIA (Institut de Recherche en Informatique et en Automatique) in Rocquencourt, near Versailles. This was actually the first scientific meeting organized at IRIA (to become INRIA in 1984 when it became a national institute). Schützenberger was the father of the Parisian school of theoretical computer science, and one of the founding scientific directors of IRIA. G. Kreisel came, probably invited by D. Lacombe, a specialist of recursive functions theory, and Jean-Louis Krivine, who had been working with him on axiomatic set theory. de Bruijn gave one of the first presentations of Automath. D. Scott discussed a notion of constructive validity. Several pioneers of automated theorem-proving participated, such as Hao Wang, R. Kowalski, D. Loveland, D. Luckham and L. Wos.
+
 Peter Andrews provided many details of the early CADEs. He noted ...
 "Evidently the conference at Versailles, France, in 1968 was not considered part of the CADE 
 sequence of conferences by the early CADE organizers (one of whom was Wolfgang Bibel)."
@@ -265,6 +267,4 @@ after the reconstruction of the history), held in Les Arcs, Frankreich,
 Juli 1980. Its Program Chairs were Wolfgang Bibel and Robert Kowalski.
 And it was me who suggested to introduce the term in - still existing -
 letters to Woody Bledsoe, Bob Kowalsky and others."
-
-The 1968 meeting was organized by the mathematician Marcel-Paul Schützenberger, one of the founders of formal language theory, the logician Daniel Lacombe and the computer scientist Louis Nolin. It occurred at the just created IRIA (Institut de Recherche en Informatique et en Automatique) in Rocquencourt, near Versailles. This was actually the first scientific meeting organized at IRIA (to become INRIA in 1984 when it became a national institute). Schützenberger was the father of the Parisian school of theoretical computer science, and one of the founding scientific directors of IRIA. G. Kreisel came, probably invited by D. Lacombe, a specialist of recursive functions theory, and Jean-Louis Krivine, who had been working with him on axiomatic set theory. de Bruijn gave one of the first presentations of Automath. D. Scott discussed a notion of constructive validity. Several pioneers of automated theorem-proving participated, such as Hao Wang, R. Kowalski, D. Loveland, D. Luckham and L. Wos.
 
