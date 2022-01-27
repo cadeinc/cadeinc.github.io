@@ -221,20 +221,20 @@ CADE is the major international forum at which research on all aspects of automa
   - Participants: 93
   - Invited speakers: Dag Prawitz
 
-* CADE-4 (Fourth Workshop on Automated Deduction), Austin, USA, 1979 ([Proceedings](Data/CADE-4_Proceedings.pdf))
+* CADE-4 - Fourth Workshop on Automated Deduction, Austin, USA, 1979 ([Proceedings](Data/CADE-4_Proceedings.pdf))
   - Program Chair: Sharon Sickel
   - Proceedings Editor: William Joyner
   - Local Arrangements Chairs: Woody Bledsoe
   - Participants: ?
   - Invited speakers: Martin Davis
 
-* CADE-3, Cambridge, USA, 1977 ([Proceedings](Data/CADE-3_Proceedings.pdf))
+* CADE-3 - Workshop on Automated Deduction, Cambridge, USA, 1977 ([Proceedings](Data/CADE-3_Proceedings.pdf))
   - Program Chair: Ray Reiter
   - Local Arrangements Chairs: ?
   - Participants: ?
   - Invited speakers: ?
 
-* CADE-2, Oberwolfach, Germany, 1976 ([Oberwolfach Digital Archive](http://oda.mfo.de/view/bsz325106819.html), abstracts in [Book of abstracts 32, Tagung 05](http://oda.mfo.de/view/bsz325107211.html))
+* CADE-2, Oberwolfach, Germany, 1976 ([Oberwolfach Digital Archive, Workshop 7602b - Automatisches Beweisen](https://oda.mfo.de/handle/mfo/1407))
   - Program Chairs: Woody Bledsoe, Michael Richter
   - Local Arrangements Chairs: Michael Richter
   - Participants: 35
