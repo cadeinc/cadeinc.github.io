@@ -254,12 +254,11 @@ CADE is the major international forum at which research on all aspects of automa
 
 ### Notes on the Early History of CADE
 
-Wolfgang Bibel provided many details of the early CADEs, which have been integrated 
-into the list above
 Peter Andrews provided many details of the early CADEs. He noted ...
-
-The conferences 1968 to 1979 were not part of the CADE sequence of conferences.
-Wolfgang Bibel reports ...
+"Evidently the conference at Versailles, France, in 1968 was not considered part of the CADE 
+sequence of conferences by the early CADE organizers (one of whom was Wolfgang Bibel)."
+It turns out that none of the conferences 1968 to 1979 were really part of the CADE series.
+Wolfgang Bibel reported ...
 "The term CADE was used for the very first time for CADE-1980, the Fifth
 International Conference on Automated Deduction (the numbering added
 after the reconstruction of the history), held in Les Arcs, Frankreich,
