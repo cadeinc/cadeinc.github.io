@@ -259,8 +259,11 @@ The 1968 meeting was organized by the mathematician Marcel-Paul Schützenberger,
 Peter Andrews provided many details of the early CADEs. He noted ...
 "Evidently the conference at Versailles, France, in 1968 was not considered part of the CADE 
 sequence of conferences by the early CADE organizers (one of whom was Wolfgang Bibel)."
-It turns out that none of the conferences 1968 to 1979 were really part of the CADE series.
-Wolfgang Bibel reported ...
+Gérard Huet recalls ... "CADE was created probably at the 1977 meeting. Retroactively, the 
+meetings of Argonne and Oberworlfach were christened CADE-1 and CADE-2, consistently with the 
+fact that they were organized by the automated deduction community (Wos, Robinson, Bledsoe, 
+Loveland, Andrews, Bibel, etc)."
+Wolfgang Bibel confirmed ...
 "The term CADE was used for the very first time for CADE-1980, the Fifth
 International Conference on Automated Deduction (the numbering added
 after the reconstruction of the history), held in Les Arcs, Frankreich,
