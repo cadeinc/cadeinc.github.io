@@ -269,13 +269,13 @@ International Conference on Automated Deduction (the numbering added
 after the reconstruction of the history), held in Les Arcs, Frankreich,
 Juli 1980. Its Program Chairs were Wolfgang Bibel and Robert Kowalski.
 And it was me who suggested to introduce the term in - still existing -
-letters to Woody Bledsoe, Bob Kowalsky and others."
+letters to Woody Bledsoe, Bob Kowalsky and others.".
 Reiner H&auml;hnle kindly went to the TU Darmstadt archive and took photos
 of some of the original correspondence between Wolfgang and Bob Kowaski,
 including <A HREF="Pictures/WolfgangToBob_4.4.79.jpg">a letter from
-Wolfgang to Bob regarding the arrangements for the 1979 conference</A>,
-<A HREF="Pictures/CADE-5_CFP_4.4.79.jpg">Wolfgang's draft CFP for the
-conference</A>, and <A HREF="Pictures/BobToWolfgang_20.4.79.jpg">a letter
-from Bob to Wolfgang in which Bob agrees to Wolfgang's suggestion of the
-CADE acronym</A>.
+Wolfgang to Bob dated 4/4/79</A> regarding the arrangements for the 1979 
+conference, <A HREF="Pictures/CADE-5_CFP_4.4.79.jpg">Wolfgang's draft CFP</A> 
+for the conference, and <A HREF="Pictures/BobToWolfgang_20.4.79.jpg">a letter
+from Bob to Wolfgang dated 20/4/79</A> in which Bob agrees to Wolfgang's 
+suggestion of the CADE acronym.
 
