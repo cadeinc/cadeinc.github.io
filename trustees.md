@@ -15,7 +15,7 @@ order : 3
 
 - [Jasmin Blanchette](https://research.vu.nl/en/persons/jasmin-christian-blanchette) (IJCAR 2022 program co-chair)
 
-- [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Elected 2020. Term expired 2019. Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
+- [Renate Schmidt](http://www.cs.man.ac.uk/~schmidt/) (Vice-president 2021-. Elected 2020. Term expired 2019. Elected 2016. Vice-president 2011-2015. Reelected 2012. Elected 2009. CADE-22 program chair)
 
 - [Marijn Heule](http://www.cs.utexas.edu/~marijn/) (Relected 2020. Elected 2017)
 
@@ -45,7 +45,7 @@ order : 3
 ### Previous Trustees
 
 - [Andre Platzer](http://symbolaris.com) (CADE-28 program co-chair)
-- [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) Relected 2018. (Vice-president 2015-. Term expired 2021. Elected 2015. Term expired 2011. Elected 2008)
+- [Christoph Benzmüller](http://page.mi.fu-berlin.de/cbenzmueller/) Relected 2018. (Vice-president 2015-2021. Term expired 2021. Elected 2015. Term expired 2011. Elected 2008)
 - [J&uuml;rgen Giesl](http://verify.rwth-aachen.de/giesl/) (Term expired 2020. Reelected 2017. Elected 2014. IJCAR 2010 program co-chair)
 - [Nicolas Peltier](http://membres-lig.imag.fr/peltier/) (IJCAR 2020 program co-chair)
 - [Jasmin Blanchette](http://people.mpi-inf.mpg.de/~jblanche/) (Term expired 2019. Elected 2016)
