@@ -50,12 +50,12 @@ The thesis will be evaluated with respect to its quality, originality and (poten
 * The nominations will be evaluated and compared by an international Expert Committee (see below).
 * The procedure to be followed is analogous to the review phase of a conference. The justification by the supervisor and the nominating additional independent researcher report will play an important role in the evaluation.
 * The final decision is made by the Expert Committee at least one month before CADE/IJCAR being held.
-* The award consists of a certificate announcing the winner to have received the Bill McCune PhD Award in Automated Reasoning. The award will be announced at the respective year's CADE/IJCAR. The nominators of the winner will also receive a copy of this certificate.
+* The award consists of a certificate announcing the winner to have received the Bill McCune PhD Award in Automated Reasoning. The award will be announced at the respective year's CADE/IJCAR. The recipient of the award is expected to attend the award ceremony.  The nominators of the winner will also receive a copy of this certificate.
 * The decision of the Expert Committee is final and binding, and not subject to discussion.
 
 #### Expert Committee
 
-The Expert Committee, consisting of leading researchers in Automating Reasoning, is formed by the board of CADE Trustees with the aim to reflect the broad diversity in the area of Automated Reasoning. It is announced with the call for nominations, and thus formed before the call for nominations. The decision on the award is taken by the Expert Committee. The Expert Committee can seek additional expertise, even after the submission deadline for nominations. Expert Committee members cannot have a PhD student applying for the award.
+The Expert Committee, consisting of leading researchers in Automating Reasoning, is formed by the board of CADE Trustees with the aim to reflect the broad diversity in the area of Automated Reasoning. It is announced with the call for nominations, and thus formed before the call for nominations. The decision on the award is taken by the Expert Committee. The Expert Committee can seek additional expertise, even after the submission deadline for nominations. Expert Committee members cannot have a PhD student applying for the award.  Expert Committee members cannot contribute an independent report seconding a nomination.
 
 ------------------------
 
