@@ -33,7 +33,7 @@ Eligible for the award are those who successfully defended their PhD
 
 #### Nomination
 
-Candidates for the award must be nominated by their supervisor(s) and one additional independent researcher who reviewed/examined the thesis. The nomination must consist of a single PDF file containing
+Candidates for the award must be nominated by their supervisor(s) and one additional independent researcher who reviewed/examined the thesis. The nomination must consist of:
 
 * a letter from the supervisor(s) describing why the thesis should be considered for the award, including its relationship to CADE/IJCAR;
 * a report from the nominating additional independent researcher who reviewed/examined the thesis;
@@ -41,7 +41,7 @@ Candidates for the award must be nominated by their supervisor(s) and one additi
 * a copy of the PhD diploma;
 * copies of relevant papers by the nominee.
 
-Nominations must be submitted by March 15. 
+Nominations must be submitted by March 15. Details of where to submit will be announced with each year's call for nominations.
 
 #### Evaluation
 
