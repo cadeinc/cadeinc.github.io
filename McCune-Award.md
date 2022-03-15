@@ -41,7 +41,7 @@ Candidates for the award must be nominated by their supervisor(s) and one additi
 * a copy of the PhD diploma;
 * copies of relevant papers by the nominee.
 
-Nominations must be submitted by March 15. Details of where to submit will be announced with each year's call for nominations.
+Details of where and when to submit will be announced with each year's call for nominations.
 
 #### Evaluation
 
