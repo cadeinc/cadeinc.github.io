@@ -84,6 +84,8 @@ in recognition of his highly influential work in several areas of automated reas
 formalization of proofs, cooperation of interactive theorem proving and decision procedures, and 
 applications to verification."
 
+Presented at IJCAR 2022, the 11th International Joint Conference on Automated Reasoning.
+
 Franz Baader<br/>
 On behalf of the 2021 Herbrand Award Committee<br/>
 (Franz Baader (Chair), Pascal Fontaine, Radu Iosif, Silvio Ghilard)
@@ -123,7 +125,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 in recognition of his significant contributions to unification theory, 
 combinations of theories and reasoning in description logics.
 
-Presented at IJCAR 2020, the 11th International Joint Conference on Automated Reasoning.
+Presented at IJCAR 2020, the 10th International Joint Conference on Automated Reasoning.
 
 Andrei Vorokov<br/>
 On behalf of the 2020 Herbrand Award Committee<br/>

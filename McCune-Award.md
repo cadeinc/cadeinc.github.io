@@ -13,6 +13,7 @@ The award is named after the American computer scientist William Walker McCune.
 
 ### Recipients
 
+ - Alexander Bentkamp (2022)
  - Jens Pagel (2021)
  - [Benjamin Kiesl](https://benjaminkiesl.github.io) (2020), 
    and honorary mention to
@@ -66,6 +67,33 @@ The Expert Committee, consisting of leading researchers in Automating Reasoning,
 The International Conference on Automated Deduction (CADE) Bill McCune PhD Award in Automated Reasoning is presented to
 
 <center>
+	<b>Alexander Bentkamp</b>
+</center>
+
+for his dissertation “Superposition for Higher-Order Logic"” supervised by Prof. Wan Fokkink, 
+Dr. Jasmin Blanchette, and Dr. Uwe Waldmann. The 
+thesis was selected for its substantial contributions to the field of Automated Reasoning, with 
+the development of a complete set of theoretical tools to generalize the superposition calculus 
+to higher-order logic. 
+In particular, the thesis introduced a new family of well-founded ordering on terms, the embedding 
+path orderings, which are instrumental to lift the calculus from first-order to higher-order 
+logic while retaining refutational completeness. 
+The development of those orderings and of the calculus itself had immediate impact on automated 
+higher-order theorem provers with outstanding empirical results as well as a very successful 
+performance in tool competitions.
+
+Presented at IJCAR 2022, the 11th International Joint Conference on Automated Reasoning.
+
+Cláudia Nalon<br/>
+On behalf of the 2022 Bill McCune PhD Award Committee<br/>
+(Cláudia Nalon (chair), Nikolaj Bjorner, Pascal Fontaine, Carsten Fuhs, Marijn Heule, 
+Andrew Reynolds, Philipp Rümmer, Martina Seidl, Viorica Sofronie-Stokkermans, René Thiemann)
+
+--------
+
+The International Conference on Automated Deduction (CADE) Bill McCune PhD Award in Automated Reasoning is presented to
+
+<center>
 	<b>Jens Pagel</b>
 </center>
 
@@ -87,8 +115,8 @@ Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Pascal Fontaine<br/>
 On behalf of the 2021 Bill McCune PhD Award Committee<br/>
-Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
-Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann
+(Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
+Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann)
 
 --------
 
@@ -112,7 +140,7 @@ techniques from SAT solving to the more general first-order logic.  He
 finally provided new simulation results between proof systems for quantified
 Boolean formulas.
 
-Presented at CADE-28, the 28th International Conference on Automated Deduction.
+Presented at IJCAR 2020, the 10th International Joint Conference on Automated Reasoning.
 
 Pascal Fontaine<br/>
 On behalf of the 2020 Bill McCune PhD Award Committee<br/>
@@ -140,7 +168,7 @@ within SPASS-SATT exhibited an impressive improvement over the
 state-of-the-art in SMT solving for arithmetic.  His contributions lead to a
 new generation of linear arithmetic solvers for automated reasoning.
 
-Presented at CADE-28, the 28th International Conference on Automated Deduction.
+Presented at IJCAR 2020, the 10th International Joint Conference on Automated Reasoning.
 
 Pascal Fontaine<br/>
 On behalf of the 2020 Bill McCune PhD Award Committee<br/>
