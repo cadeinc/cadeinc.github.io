@@ -88,7 +88,7 @@ Presented at IJCAR 2022, the 11th International Joint Conference on Automated Re
 
 Franz Baader<br/>
 On behalf of the 2021 Herbrand Award Committee<br/>
-(Franz Baader (Chair), Pascal Fontaine, Radu Iosif, Silvio Ghilard)
+Franz Baader (Chair), Pascal Fontaine, Radu Iosif, Silvio Ghilard
 
 --------
 
@@ -109,7 +109,7 @@ Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 J&uuml;rgen Giesl<br/>
 On behalf of the 2021 Herbrand Award Committee<br/>
-(J&uuml;rgen Giesl (chair), Deepak Kapur, Laura Kovacs, Brigitte Pientka)
+J&uuml;rgen Giesl (chair), Deepak Kapur, Laura Kovacs, Brigitte Pientka
 
 --------
 
@@ -129,7 +129,7 @@ Presented at IJCAR 2020, the 10th International Joint Conference on Automated Re
 
 Andrei Vorokov<br/>
 On behalf of the 2020 Herbrand Award Committee<br/>
-(Andrei Voronkov (Chair), Chris Lynch, Robert Nieuwenhuis, Stephan Schulz)
+Andrei Voronkov (Chair), Chris Lynch, Robert Nieuwenhuis, Stephan Schulz
 
 --------
 
@@ -149,7 +149,7 @@ Presented at CADE-27, the 27th International Conference on Automated Deduction.
 
 J&uuml;rgen Giesl<br/>
 On behalf of the 2019 Herbrand Award Committee<br/>
-(Dale Miller (Chair), Bruno Dutetre, J&uuml;rgen Giesl, Larry Paulson)
+Dale Miller (Chair), Bruno Dutetre, J&uuml;rgen Giesl, Larry Paulson
 
 --------
 

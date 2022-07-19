@@ -86,8 +86,8 @@ Presented at IJCAR 2022, the 11th International Joint Conference on Automated Re
 
 Cláudia Nalon<br/>
 On behalf of the 2022 Bill McCune PhD Award Committee<br/>
-(Cláudia Nalon (chair), Nikolaj Bjorner, Pascal Fontaine, Carsten Fuhs, Marijn Heule, 
-Andrew Reynolds, Philipp Rümmer, Martina Seidl, Viorica Sofronie-Stokkermans, René Thiemann)
+Cláudia Nalon (chair), Nikolaj Bjorner, Pascal Fontaine, Carsten Fuhs, Marijn Heule, 
+Andrew Reynolds, Philipp Rümmer, Martina Seidl, Viorica Sofronie-Stokkermans, René Thiemann
 
 --------
 
@@ -115,8 +115,8 @@ Presented at CADE-28, the 28th International Conference on Automated Deduction.
 
 Pascal Fontaine<br/>
 On behalf of the 2021 Bill McCune PhD Award Committee<br/>
-(Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
-Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann)
+Pascal Fontaine (chair), Nikolaj Bjorner, Carsten Fuhs, Cezary Kaliszyk, 
+Claudia Nalon, Giles Reger, Giselle Reis, Andy Reynolds, and Uwe Waldmann
 
 --------
 
