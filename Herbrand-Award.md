@@ -9,10 +9,11 @@ tagline : for Distinguished Contributions to Automated Reasoning
 
 In 1992 CADE Inc. established the Herbrand Award for Distinguished Contributions to Automated Reasoning, to honor an individual or (a group of) individuals for exceptional contributions to the field of Automated Deduction. Nominations for this award can be made at any time to the president of CADE Inc.
 
-<img style="float: right;" width="30%" src="./HerbrandPhoto/HerbrandAwardTobiasNipkow.jpg">
+<img style="float: right;" width="30%" src="./HerbrandPhoto/HerbrandAwardNatarajanShankar.jpg">
 
 ### Winners
 
+ - [Natarajan Shankar](http://www.csl.sri.com/people/shankar/) (2022)
  - [Tobias Nipkow](https://www21.in.tum.de/~nipkow/) (2021)
  - [Franz Baader](https://tu-dresden.de/ing/informatik/thi/lat/die-professur/franz-baader) (2020)
  - [Nikolaj Bj&oslash;rner](https://www.microsoft.com/en-us/research/people/nbjorner/) and [Leonardo de Moura](https://www.microsoft.com/en-us/research/people/leonardo/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fleonardo%2Fz3_doc%2Fgroup__z3native.html) (2019)
@@ -74,6 +75,24 @@ The Herbrand award committee decides on the award.
 The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
 
 <center>
+	<img src="./HerbrandPhoto/HerbrandAwardNatarajanShankar.jpg" width="33%">
+	<br/>
+	<b>Natarajan Shankar</b>
+</center>
+
+in recognition of his highly influential work in several areas of automated reasoning, notably in 
+formalization of proofs, cooperation of interactive theorem proving and decision procedures, and 
+applications to verification."
+
+Franz Baader<br/>
+On behalf of the 2021 Herbrand Award Committee<br/>
+(Franz Baader (Chair), Pascal Fontaine, Radu Iosif, Silvio Ghilard)
+
+--------
+
+The International Conference on Automated Deduction (CADE) Herbrand Award for Distinguished Contributions to Automated Reasoning is presented to
+
+<center>
 	<img src="./HerbrandPhoto/HerbrandAwardTobiasNipkow.jpg" width="33%">
 	<br/>
 	<b>Tobias Nipkow</b>
@@ -104,7 +123,7 @@ The International Conference on Automated Deduction (CADE) Herbrand Award for Di
 in recognition of his significant contributions to unification theory, 
 combinations of theories and reasoning in description logics.
 
-Presented at CADE-28, the 28th International Conference on Automated Deduction.
+Presented at IJCAR 2020, the 11th International Joint Conference on Automated Reasoning.
 
 Andrei Vorokov<br/>
 On behalf of the 2020 Herbrand Award Committee<br/>
