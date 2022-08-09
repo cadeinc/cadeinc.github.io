@@ -86,7 +86,7 @@ applications to verification."
 
 Presented at IJCAR 2022, the 11th International Joint Conference on Automated Reasoning.
 
-Franz Baader<br/>
+Christoph Weidenbach (CADE President)<br/>
 On behalf of the 2021 Herbrand Award Committee<br/>
 Franz Baader (Chair), Pascal Fontaine, Radu Iosif, Silvio Ghilard
 
