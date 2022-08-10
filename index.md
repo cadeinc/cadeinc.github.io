@@ -11,7 +11,7 @@ CADE is the major international forum at which research on all aspects of automa
 
 <div class="alert alert-info" role="alert">
 	<strong>Next Conference</strong>: 
-	<a href="https://easychair.org/smart-program/FLoC2022/IJCAR-index.html" target="_top">IJCAR 2022</a>, Haifa, Israel, August 2022<br>
+	CADE-29, TBA.
 </div>
 
 -----

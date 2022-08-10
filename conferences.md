@@ -9,11 +9,14 @@ order : 1
 
 The International Conference on Automated Deduction
 
-CADE is the major international forum at which research on all aspects of automated deduction is presented. The first conference was held in 1974. Previous CADEs were mostly biennial, and annual conferences started in 1996. Since 2001 CADE has participated in the [International Joint Conference on Automated Reasoning](http://ijcar.org/) (IJCAR).
+CADE is the major international forum at which research on all aspects of automated deduction 
+is presented. 
+The first conference was held in 1974. 
+Previous CADEs were mostly biennial, and annual conferences started in 1996. 
+Since 2001 CADE has participated in the 
+[International Joint Conference on Automated Reasoning](http://ijcar.org/) (IJCAR).
 
 ### Future Conferences
-
-* 2022: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 ### CADE/IJCAR Management
 
@@ -22,6 +25,8 @@ CADE is the major international forum at which research on all aspects of automa
 - [Previous conferences' financial summaries](FinancialSummaries)
 
 ### Previous Conferences
+
+* 2022: See the [IJCAR web pages](http://ijcar.org/conferences)
 
 * [CADE-28](https://www.cs.cmu.edu/~mheule/CADE28/), Pittsburgh, USA, July 2021.
   - Program Chairs: Andre Platzer, Geoff Sutcliffe ([Report](Reports/CADE-28_GeoffSutcliffe.pdf))
