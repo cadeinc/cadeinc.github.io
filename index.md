@@ -13,6 +13,11 @@ CADE is the major international forum at which research on all aspects of automa
 	<strong>Next Conference</strong>: 
 	CADE-29, Somewhere in Europe.
 </div>
+<P>
+<div class="alert alert-info" role="alert">
+	<A HREF="NomineeStatements2022.html">
+	<strong>CADE Trustee Nominees' Statements</strong></A>
+</div>
 
 -----
 
